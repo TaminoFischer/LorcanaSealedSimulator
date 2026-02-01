@@ -1,0 +1,36 @@
+---
+description: Git workflow rules - always ask before committing or pushing
+alwaysApply: true
+---
+
+# Git Workflow
+
+## Important: Always Ask Before Git Operations
+
+**NEVER automatically commit or push changes without explicit user confirmation.**
+
+Before any `git commit` or `git push`:
+1. Show the user what will be committed (changed files, commit message)
+2. Ask for confirmation: "Soll ich diese Änderungen committen und pushen?"
+3. Wait for explicit approval before proceeding
+
+## Commit Message Format
+
+- Use conventional commits: `feat:`, `fix:`, `chore:`, `docs:`
+- Write in English
+- Keep first line under 72 characters
+- Add body for complex changes
+
+## Examples
+
+**Good:**
+> Ich habe die Änderungen vorbereitet:
+> - `src/App.vue` (neue Funktion)
+> - `src/style.css` (Styling-Anpassungen)
+> 
+> Commit-Message: `feat: add card filtering functionality`
+> 
+> Soll ich committen und pushen?
+
+**Bad:**
+> *Führt `git commit` und `git push` ohne Rückfrage aus*
