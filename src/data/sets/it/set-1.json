@@ -1,0 +1,3274 @@
+{
+  "prereleaseDate": "2023-08-18",
+  "releaseDate": "2023-09-01",
+  "hasAllCards": true,
+  "type": "expansion",
+  "number": 1,
+  "allowedInFormats": {
+    "Core": {
+      "allowed": false,
+      "allowedUntilDate": "2025-09-05",
+      "rotationGroup": 1
+    },
+    "Infinity": {
+      "allowed": true
+    }
+  },
+  "allowedInTournamentsFromDate": "2023-09-08",
+  "name": "Capitolo Primo",
+  "code": "1",
+  "metadata": {
+    "formatVersion": "2.3.2",
+    "generatedOn": "2025-12-18T20:20:11",
+    "language": "it"
+  },
+  "cards": [
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, riprendi in mano una carta personaggio dai tuoi scarti.",
+          "fullText": "POZZO DELLE ANIME Quando giochi questo\npersonaggio, riprendi in mano una carta\npersonaggio dai tuoi scarti.",
+          "name": "POZZO DELLE ANIME",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Randy Bishop"
+      ],
+      "artistsText": "Randy Bishop",
+      "code": "06",
+      "color": "Ambra",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 258950,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258950",
+        "cardmarketId": 727086,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Hades-Lord-of-the-Underworld?language=5",
+        "tcgPlayerId": 493480,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493480"
+      },
+      "flavorText": "\u201cLa produzione \u00e8 aumentata, i costi sono scesi, i\nfiumi sono pieni. \u00c8 tempo di parlare di espansione.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "6/204 \u2022 IT \u2022 1",
+      "fullName": "Ade - Signore dell'Oltretomba",
+      "fullText": "POZZO DELLE ANIME Quando giochi questo\npersonaggio, riprendi in mano una carta\npersonaggio dai tuoi scarti.",
+      "fullTextSections": [
+        "POZZO DELLE ANIME Quando giochi questo\npersonaggio, riprendi in mano una carta\npersonaggio dai tuoi scarti."
+      ],
+      "id": 6,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/6_ade7e791c108eb3eb23b20e7e138ae712bd9a0a8.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/6_754a5aa303a5fe59961f8bbee8ec0fb9919db0e9.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/6_1aa468bb999e6332d5914558ce54a5ba33c2d7c0.jpg"
+      },
+      "inkwell": false,
+      "lore": 1,
+      "name": "Ade",
+      "number": 6,
+      "rarity": "Rara",
+      "simpleName": "ade signore dell'oltretomba",
+      "story": "Hercules",
+      "strength": 3,
+      "subtypes": [
+        "Classico",
+        "Cattivo",
+        "Divinit\u00e0"
+      ],
+      "subtypesText": "Classico \u2022 Cattivo \u2022 Divinit\u00e0",
+      "type": "Personaggio",
+      "version": "Signore dell'Oltretomba",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)",
+          "keyword": "Aiutante",
+          "reminderText": "Ogni volta che questo personaggio va all'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di un altro personaggio a tua scelta per questo turno.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Jenna Gray"
+      ],
+      "artistsText": "Jenna Gray",
+      "code": "07",
+      "color": "Ambra",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 259043,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259043",
+        "cardmarketId": 727087,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Heihei-Boat-Snack?language=5",
+        "tcgPlayerId": 493479,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493479"
+      },
+      "flavorText": "\u201cA volte la nostra forza \u00e8 sotto la superficie. Molto\nsotto, in qualche caso\u2026\u201d\n\u2014Vaiana",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "7/204 \u2022 IT \u2022 1",
+      "fullName": "Heihei - Spuntino da Barca",
+      "fullText": "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)",
+      "fullTextSections": [
+        "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)"
+      ],
+      "id": 7,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/7_a8cae6bacde333502a2262843d504b5cb073f47c.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/7_d3469519863bea321ccb6019e17871a20e1f95f6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/7_0e9e8dce9279ae0ce5496eb48da9f62b6218ab8a.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Aiutante"
+      ],
+      "lore": 1,
+      "name": "Heihei",
+      "number": 7,
+      "promoIds": [
+        667
+      ],
+      "rarity": "Comune",
+      "simpleName": "heihei spuntino da barca",
+      "story": "Oceania",
+      "strength": 1,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Spuntino da Barca",
+      "willpower": 2
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Dave Beauchene"
+      ],
+      "artistsText": "Dave Beauchene",
+      "code": "0c",
+      "color": "Ambra",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 258991,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258991",
+        "cardmarketId": 727092,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Mickey-Mouse-True-Friend?language=5",
+        "tcgPlayerId": 493476,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493476"
+      },
+      "flavorText": "Finch\u00e9 ci sar\u00e0 lui, tutti i nuovi arrivati nel Grande\nIlluminarium riceveranno sempre un caloroso\nbenvenuto.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "12/204 \u2022 IT \u2022 1",
+      "fullName": "Topolino - Vero Amico",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 12,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/12_96c7854964ebe8e9514196edf70bef973103dba6.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/12_cd1c77e52367aebafbf32fea69897da1b410b092.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/12_593c335d945775a7cdca23ff94c1486c765fe4ca.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Topolino",
+      "number": 12,
+      "promoIds": [
+        2432
+      ],
+      "rarity": "Non comune",
+      "reprintedAsIds": [
+        1949
+      ],
+      "simpleName": "topolino vero amico",
+      "story": "Topolino e i suoi amici",
+      "strength": 3,
+      "subtypes": [
+        "Classico",
+        "Eroe"
+      ],
+      "subtypesText": "Classico \u2022 Eroe",
+      "type": "Personaggio",
+      "version": "Vero Amico",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Kendall Hale"
+      ],
+      "artistsText": "Kendall Hale",
+      "code": "0d",
+      "color": "Ambra",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 259059,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259059",
+        "cardmarketId": 727093,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Minnie-Mouse-Beloved-Princess?language=5",
+        "tcgPlayerId": 493498,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493498"
+      },
+      "flavorText": "Ovunque vada la principessa, i suoi moschettieri\u2026\nbeh, sono l\u00ec intorno da qualche parte,\nprobabilmente.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "13/204 \u2022 IT \u2022 1",
+      "fullName": "Minni - Beneamata Principessa",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 13,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/13_01ff5ffeed33e22e8a7e8757f99de192921c2989.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/13_05b6732868cc0839e87e0645fdd5fa14a0f6b257.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/13_8ee00a16fed1cd3498ac377ce6ca7a5c4994ecbf.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Minni",
+      "number": 13,
+      "rarity": "Comune",
+      "simpleName": "minni beneamata principessa",
+      "story": "I tre moschettieri",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Principessa"
+      ],
+      "subtypesText": "Immaginato \u2022 Principessa",
+      "type": "Personaggio",
+      "version": "Beneamata Principessa",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Melodioso 4 (Questo personaggio conta come di\ncosto 4 per cantare le canzoni.)",
+          "keyword": "Melodioso",
+          "keywordValue": "4",
+          "keywordValueNumber": 4,
+          "reminderText": "Questo personaggio conta come di costo 4 per cantare le canzoni.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Isaiah Mesq"
+      ],
+      "artistsText": "Isaiah Mesq",
+      "code": "0j",
+      "color": "Ambra",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 259069,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259069",
+        "cardmarketId": 727099,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Sebastian-Court-Composer?language=5",
+        "tcgPlayerId": 504540,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/504540"
+      },
+      "flavorText": "\u201cSono qui per comporre sinfonie e non per stare\nalle costole di un'adolescente dalla testa dura.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "19/204 \u2022 IT \u2022 1",
+      "fullName": "Sebastian - Compositore di Corte",
+      "fullText": "Melodioso 4 (Questo personaggio conta come di\ncosto 4 per cantare le canzoni.)",
+      "fullTextSections": [
+        "Melodioso 4 (Questo personaggio conta come di\ncosto 4 per cantare le canzoni.)"
+      ],
+      "id": 19,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/19_fdaca885f566325de0523b3d5052ea96ddb68645.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/19_a790cdccc927ec93be14017b0710c3175ff0ae3d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/19_bf89b33a396c827a5020ebb2425ca413ba61d508.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Melodioso"
+      ],
+      "lore": 1,
+      "name": "Sebastian",
+      "number": 19,
+      "rarity": "Comune",
+      "simpleName": "sebastian compositore di corte",
+      "story": "La sirenetta",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Compositore di Corte",
+      "willpower": 2
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Alex Accorsi"
+      ],
+      "artistsText": "Alex Accorsi",
+      "code": "0m",
+      "color": "Ambra",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 259074,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259074",
+        "cardmarketId": 727102,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Stitch-New-Dog?language=5",
+        "tcgPlayerId": 493499,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493499"
+      },
+      "flavorText": "Lilo: \u201cDavid! Questo \u00e8 il mio nuovo cane!\u201d\nDavid: \u201cAuwe! Sicura che \u00e8 un cane?\u201d\nLilo: \u201cUh-huh, era un collie prima che lo mettesse\nsotto un camion.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "22/204 \u2022 IT \u2022 1",
+      "fullName": "Stitch - Nuovo Cagnolino",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 22,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/22_f2f10ed429d36acc3b45167ca09973fade09a1aa.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/22_d97bdd90b0e3fdac19aecfe0d273384007040ec0.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/22_d88b8843ed16bf6b2790660f2016c32cc45ca078.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Stitch",
+      "number": 22,
+      "rarity": "Comune",
+      "simpleName": "stitch nuovo cagnolino",
+      "story": "Lilo & Stitch",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Eroe",
+        "Alieno"
+      ],
+      "subtypesText": "Classico \u2022 Eroe \u2022 Alieno",
+      "type": "Personaggio",
+      "version": "Nuovo Cagnolino",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Trasformazione 4 (Puoi pagare 4 \u2b21 per giocare questa\ncarta sopra a uno dei tuoi personaggi chiamato Stitch.)",
+          "keyword": "Trasformazione",
+          "keywordValue": "4",
+          "keywordValueNumber": 4,
+          "reminderText": "Puoi pagare 4 \u2b21 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Stitch.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Ogni volta che giochi un personaggio con costo 2 o inferiore, puoi impegnarlo per pescare una carta.",
+          "fullText": "FAN ADORANTI Ogni volta che giochi un personaggio con\ncosto 2 o inferiore, puoi impegnarlo per pescare una carta.",
+          "name": "FAN ADORANTI",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Simangaliso Sibaya"
+      ],
+      "artistsText": "Simangaliso Sibaya",
+      "code": "0n",
+      "color": "Ambra",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 258931,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258931",
+        "cardmarketId": 727103,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Stitch-Rock-Star?language=5",
+        "tcgPlayerId": 492708,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492708"
+      },
+      "flavorText": "La parte migliore di un concerto sulla spiaggia \u00e8 che c'\u00e8\nsempre posto per una persona in pi\u00f9.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "23/204 \u2022 IT \u2022 1",
+      "fullName": "Stitch - Rock Star",
+      "fullText": "Trasformazione 4 (Puoi pagare 4 \u2b21 per giocare questa\ncarta sopra a uno dei tuoi personaggi chiamato Stitch.)\nFAN ADORANTI Ogni volta che giochi un personaggio con\ncosto 2 o inferiore, puoi impegnarlo per pescare una carta.",
+      "fullTextSections": [
+        "Trasformazione 4 (Puoi pagare 4 \u2b21 per giocare questa\ncarta sopra a uno dei tuoi personaggi chiamato Stitch.)",
+        "FAN ADORANTI Ogni volta che giochi un personaggio con\ncosto 2 o inferiore, puoi impegnarlo per pescare una carta."
+      ],
+      "id": 23,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/23_b64ebffa252899613fa87faa3d7641e25b9d9056.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/23_1dfa7c2b32a2bd88de9b901e6be760078d728844.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/23_046448a235fca3c35b80f2b3518461079ce9b6e6.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Trasformazione"
+      ],
+      "lore": 3,
+      "name": "Stitch",
+      "number": 23,
+      "promoIds": [
+        660,
+        688
+      ],
+      "rarity": "Super Rara",
+      "reprintedAsIds": [
+        1939
+      ],
+      "simpleName": "stitch rock star",
+      "story": "Lilo & Stitch",
+      "strength": 3,
+      "subtypes": [
+        "Imbevuto",
+        "Eroe",
+        "Alieno"
+      ],
+      "subtypesText": "Imbevuto \u2022 Eroe \u2022 Alieno",
+      "type": "Personaggio",
+      "version": "Rock Star",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 4 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 4 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Juan Diego Leon"
+      ],
+      "artistsNormalized": [
+        "Juan Diego Le\u00f3n"
+      ],
+      "artistsText": "Juan Diego Leon",
+      "code": "0r",
+      "color": "Ambra",
+      "cost": 4,
+      "effects": [
+        "Rimuovi fino a 3 danni da ogni tuo personaggio."
+      ],
+      "externalLinks": {
+        "cardTraderId": 259040,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259040",
+        "cardmarketId": 727107,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Hakuna-Matata?language=5",
+        "tcgPlayerId": 506124,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/506124"
+      },
+      "flavorText": "Ma che dolce poesia!",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "27/204 \u2022 IT \u2022 1",
+      "fullName": "Hakuna Matata",
+      "fullText": "(Un personaggio con costo 4 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)\nRimuovi fino a 3 danni da ogni tuo personaggio.",
+      "fullTextSections": [
+        "(Un personaggio con costo 4 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+        "Rimuovi fino a 3 danni da ogni tuo personaggio."
+      ],
+      "id": 27,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/27_c0d3492a5acdb3ad93b8fc2872e6ecb9dd061dd3.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/27_720a120cd36a2b6e132151f5f3aad4ba2610b461.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/27_d47c2f936b213aff352f0b0225e103f9917f7b00.jpg"
+      },
+      "inkwell": true,
+      "name": "Hakuna Matata",
+      "number": 27,
+      "rarity": "Comune",
+      "simpleName": "hakuna matata",
+      "story": "Il re lione",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Philipp Kruse"
+      ],
+      "artistsText": "Philipp Kruse",
+      "code": "0s",
+      "color": "Ambra",
+      "cost": 1,
+      "effects": [
+        "Rimuovi fino a 2 danni da un personaggio a tua scelta."
+      ],
+      "externalLinks": {
+        "cardTraderId": 259042,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259042",
+        "cardmarketId": 727108,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Healing-Glow?language=5",
+        "tcgPlayerId": 492713,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492713"
+      },
+      "flavorText": "\u201cNon dare in escandescenze!\u201d\n\u2014Rapunzel",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "28/204 \u2022 IT \u2022 1",
+      "fullName": "Bagliore Curativo",
+      "fullText": "Rimuovi fino a 2 danni da un personaggio a tua scelta.",
+      "fullTextSections": [
+        "Rimuovi fino a 2 danni da un personaggio a tua scelta."
+      ],
+      "id": 28,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/28_6a13e1452fb8e035ec89bcd83fdc3658cb0ddb89.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/28_90156899b3b7aedd07d64b48d683e55b2b01fa1f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/28_37b16a9c2b2f1d73c59adacd3b7728e325121b97.jpg"
+      },
+      "inkwell": true,
+      "name": "Bagliore Curativo",
+      "number": 28,
+      "rarity": "Comune",
+      "simpleName": "bagliore curativo",
+      "story": "Rapunzel - L'intreccio della torre",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Samanta Erdini"
+      ],
+      "artistsText": "Samanta Erdini",
+      "code": "0u",
+      "color": "Ambra",
+      "cost": 3,
+      "effects": [
+        "Riprendi in mano una carta personaggio dai tuoi scarti."
+      ],
+      "externalLinks": {
+        "cardTraderId": 259396,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259396",
+        "cardmarketId": 727110,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Part-of-Your-World?language=5",
+        "tcgPlayerId": 493481,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493481"
+      },
+      "flavorText": "Come vorrei,\nPoter uscir fuori dall'acqua",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "30/204 \u2022 IT \u2022 1",
+      "fullName": "Vivere L\u00e0",
+      "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)\nRiprendi in mano una carta personaggio dai tuoi scarti.",
+      "fullTextSections": [
+        "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+        "Riprendi in mano una carta personaggio dai tuoi scarti."
+      ],
+      "id": 30,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/30_3fb11af4ffcaed3cbf63465d9e694616c2c59825.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/30_3a0a5ea342800fdf754e404d0def1e3ef257393a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/30_050415780da3455571ce147f7bc3a357873bf46c.jpg"
+      },
+      "inkwell": false,
+      "name": "Vivere L\u00e0",
+      "number": 30,
+      "rarity": "Rara",
+      "simpleName": "vivere la",
+      "story": "La sirenetta",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Rimuovi fino a 1 danno da un personaggio a tua scelta.",
+          "fullText": "SISTEMARE I CAPELLI \u27f3 \u2014 Rimuovi fino a 1 danno da\nun personaggio a tua scelta.",
+          "name": "SISTEMARE I CAPELLI",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Eri Welli"
+      ],
+      "artistsText": "Eri Welli",
+      "code": "0w",
+      "color": "Ambra",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 259026,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259026",
+        "cardmarketId": 727112,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Dinglehopper?language=5",
+        "tcgPlayerId": 492733,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492733"
+      },
+      "flavorText": "Godetevi le acconciature umane pi\u00f9 alla moda!",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "32/204 \u2022 IT \u2022 1",
+      "fullName": "Arricciaspiccia",
+      "fullText": "SISTEMARE I CAPELLI \u27f3 \u2014 Rimuovi fino a 1 danno da\nun personaggio a tua scelta.",
+      "fullTextSections": [
+        "SISTEMARE I CAPELLI \u27f3 \u2014 Rimuovi fino a 1 danno da\nun personaggio a tua scelta."
+      ],
+      "id": 32,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/32_a510c3161352192de08538ac53af0c706d4d251e.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/32_36500a62582e88a2d9faa5a6a61b3d955f4d52e8.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/32_2334f29a751b712edb5140e8e3847ac635332e6c.jpg"
+      },
+      "inkwell": true,
+      "name": "Arricciaspiccia",
+      "number": 32,
+      "rarity": "Comune",
+      "simpleName": "arricciaspiccia",
+      "story": "La sirenetta",
+      "type": "Oggetto"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Paga 1 \u2b21 in meno per giocare il tuo prossimo personaggio per questo turno.",
+          "fullText": "LUCI DI COMPLEANNO \u27f3 \u2014 Paga 1 \u2b21 in meno per\ngiocare il tuo prossimo personaggio per questo turno.",
+          "name": "LUCI DI COMPLEANNO",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Eri Welli"
+      ],
+      "artistsText": "Eri Welli",
+      "code": "0x",
+      "color": "Ambra",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 258959,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258959",
+        "cardmarketId": 727113,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Lantern?language=5",
+        "tcgPlayerId": 493500,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493500"
+      },
+      "flavorText": "In una notte speciale il cielo si riempie di lanterne,\nsegnali di speranza e amore.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "33/204 \u2022 IT \u2022 1",
+      "fullName": "Lanterna",
+      "fullText": "LUCI DI COMPLEANNO \u27f3 \u2014 Paga 1 \u2b21 in meno per\ngiocare il tuo prossimo personaggio per questo turno.",
+      "fullTextSections": [
+        "LUCI DI COMPLEANNO \u27f3 \u2014 Paga 1 \u2b21 in meno per\ngiocare il tuo prossimo personaggio per questo turno."
+      ],
+      "id": 33,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/33_e65162697f1254a4c493f9d91bf1de3401acf3b8.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/33_53ae680a356fc13c60e87c408597875927903b6a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/33_41127381bf10c622c6a3d05ce53688714eb9d528.jpg"
+      },
+      "inkwell": false,
+      "name": "Lanterna",
+      "number": 33,
+      "rarity": "Rara",
+      "reprintedAsIds": [
+        1968
+      ],
+      "simpleName": "lanterna",
+      "story": "Rapunzel - L'intreccio della torre",
+      "type": "Oggetto"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Duyen Nguyen",
+        "Aubrey Archer"
+      ],
+      "artistsText": "Duyen Nguyen / Aubrey Archer",
+      "code": "0E",
+      "color": "Ametista",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 259031,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259031",
+        "cardmarketId": 729216,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Elsa-Queen-Regent?language=5",
+        "tcgPlayerId": 507276,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/507276"
+      },
+      "flavorText": "\u201cNon mi rendevo conto di cosa fossi in grado di fare.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "40/204 \u2022 IT \u2022 1",
+      "fullName": "Elsa - Regina Reggente",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 40,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/40_699596c605510337d701e8601294b3a0adefaee7.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/40_32354d797bbbf6d58eaf02dde935ef1945f550a9.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/40_70bf727172013ac9394d3fe67a80336fb53bac57.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Elsa",
+      "number": 40,
+      "rarity": "Comune",
+      "simpleName": "elsa regina reggente",
+      "story": "Frozen",
+      "strength": 4,
+      "subtypes": [
+        "Classico",
+        "Eroe",
+        "Regina",
+        "Incantatore"
+      ],
+      "subtypesText": "Classico \u2022 Eroe \u2022 Regina \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Regina Reggente",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Impegna un personaggio avversario a tua scelta.",
+          "fullText": "CONGELARE \u27f3 \u2014 Impegna un personaggio\navversario a tua scelta.",
+          "name": "CONGELARE",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Nicholas Kole"
+      ],
+      "artistsText": "Nicholas Kole",
+      "code": "0F",
+      "color": "Ametista",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 258977,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258977",
+        "cardmarketId": 729217,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Elsa-Snow-Queen?language=5",
+        "tcgPlayerId": 492705,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492705"
+      },
+      "flavorText": "Ricreata dall'inchiostro magico, Elsa si \u00e8 ritrovata\nin un mondo completamente nuovo. Per fortuna,\nil ghiaccio funziona sempre allo stesso modo.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "41/204 \u2022 IT \u2022 1",
+      "fullName": "Elsa - Regina delle Nevi",
+      "fullText": "CONGELARE \u27f3 \u2014 Impegna un personaggio\navversario a tua scelta.",
+      "fullTextSections": [
+        "CONGELARE \u27f3 \u2014 Impegna un personaggio\navversario a tua scelta."
+      ],
+      "id": 41,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/41_273f83eaf43edbe6d052522d7f5af47232d9a717.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/41_5b541227482680897e48b0f664693fb3d27fd193.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/41_7774e987ec7a2f031c9f5c1d4b5a88541fd8a392.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Elsa",
+      "number": 41,
+      "promoIds": [
+        661
+      ],
+      "rarity": "Non comune",
+      "reprintedAsIds": [
+        1989
+      ],
+      "simpleName": "elsa regina delle nevi",
+      "story": "Frozen",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Eroe",
+        "Regina",
+        "Incantatore"
+      ],
+      "subtypesText": "Immaginato \u2022 Eroe \u2022 Regina \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Regina delle Nevi",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Questo personaggio riceve +1 \u00a4 per ogni carta nella tua mano.",
+          "fullText": "MERAVIGLIE NASCOSTE Questo personaggio\nriceve +1 \u00a4 per ogni carta nella tua mano.",
+          "name": "MERAVIGLIE NASCOSTE",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Marcel Berg"
+      ],
+      "artistsText": "Marcel Berg",
+      "code": "0I",
+      "color": "Ametista",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 258954,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258954",
+        "cardmarketId": 729221,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Jafar-Keeper-of-Secrets?language=5",
+        "tcgPlayerId": 507719,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/507719"
+      },
+      "flavorText": "Esiste sempre pi\u00f9 di un modo per seppellire i\nsegreti.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "44/204 \u2022 IT \u2022 1",
+      "fullName": "Jafar - Custode dei Segreti",
+      "fullText": "MERAVIGLIE NASCOSTE Questo personaggio\nriceve +1 \u00a4 per ogni carta nella tua mano.",
+      "fullTextSections": [
+        "MERAVIGLIE NASCOSTE Questo personaggio\nriceve +1 \u00a4 per ogni carta nella tua mano."
+      ],
+      "id": 44,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/44_668446c17c1d141aba99560ca0520e1b6f56b31f.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/44_6dcb88466f1a63abc75ccbe9d18a14f6ca9a765f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/44_e35128ceef32c92d5479aeb1c035bed1d79d290b.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Jafar",
+      "number": 44,
+      "rarity": "Rara",
+      "reprintedAsIds": [
+        1974
+      ],
+      "simpleName": "jafar custode dei segreti",
+      "story": "Aladdin",
+      "strength": 0,
+      "subtypes": [
+        "Immaginato",
+        "Cattivo",
+        "Incantatore"
+      ],
+      "subtypesText": "Immaginato \u2022 Cattivo \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Custode dei Segreti",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Sfidante +3 (Mentre sta sfidando, questo\npersonaggio riceve +3 \u00a4.)",
+          "keyword": "Sfidante",
+          "keywordValue": "+3",
+          "keywordValueNumber": 3,
+          "reminderText": "Mentre sta sfidando, questo personaggio riceve +3 \u00a4.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Jake Parker"
+      ],
+      "artistsText": "Jake Parker",
+      "code": "0J",
+      "color": "Ametista",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 259046,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259046",
+        "cardmarketId": 729222,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Jafar-Wicked-Sorcerer?language=5",
+        "tcgPlayerId": 494098,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/494098"
+      },
+      "flavorText": "\u201cFiniamola coi sotterfugi. \u00c8 ora di far vedere a quel\nsultano lagnoso di che cosa \u00e8 capace uno stregone.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "45/204 \u2022 IT \u2022 1",
+      "fullName": "Jafar - Stregone Malvagio",
+      "fullText": "Sfidante +3 (Mentre sta sfidando, questo\npersonaggio riceve +3 \u00a4.)",
+      "fullTextSections": [
+        "Sfidante +3 (Mentre sta sfidando, questo\npersonaggio riceve +3 \u00a4.)"
+      ],
+      "id": 45,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/45_0ea04f87c0a40bb6802f40bb9d7f92b2ad41c951.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/45_23c6b5d5026b13a9ce8788509f623dcda14e2553.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/45_31549af85187ffbc5e5a303a3b0af659562a3cdf.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Sfidante"
+      ],
+      "lore": 1,
+      "name": "Jafar",
+      "number": 45,
+      "rarity": "Comune",
+      "simpleName": "jafar stregone malvagio",
+      "story": "Aladdin",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Cattivo",
+        "Incantatore"
+      ],
+      "subtypesText": "Immaginato \u2022 Cattivo \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Stregone Malvagio",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, puoi rimescolare una carta dagli scarti di un qualsiasi giocatore nel suo mazzo.",
+          "fullText": "SPAZZARE Quando giochi questo personaggio,\npuoi rimescolare una carta dagli scarti di un\nqualsiasi giocatore nel suo mazzo.",
+          "name": "SPAZZARE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Dav Augereau",
+        "Giulia Riva"
+      ],
+      "artistsText": "Dav Augereau / Giulia Riva",
+      "code": "0L",
+      "color": "Ametista",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 259050,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259050",
+        "cardmarketId": 729224,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Magic-Broom-Bucket-Brigade?language=5",
+        "tcgPlayerId": 493477,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493477"
+      },
+      "flavorText": "In quell'immensa fucina di storie che \u00e8 il Grande\nIlluminarium c'\u00e8 sempre qualcosa da fare.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "47/204 \u2022 IT \u2022 1",
+      "fullName": "Scopa Magica - Brigata del Secchio",
+      "fullText": "SPAZZARE Quando giochi questo personaggio,\npuoi rimescolare una carta dagli scarti di un\nqualsiasi giocatore nel suo mazzo.",
+      "fullTextSections": [
+        "SPAZZARE Quando giochi questo personaggio,\npuoi rimescolare una carta dagli scarti di un\nqualsiasi giocatore nel suo mazzo."
+      ],
+      "id": 47,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/47_c2e99849df9fbe9e362b000de331359228163955.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/47_93b9bffec81429255f9f28e907d5259a9dcdf22c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/47_3c17a1a0f83ee3508c40258691d0129db63038de.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Scopa Magica",
+      "number": 47,
+      "rarity": "Comune",
+      "simpleName": "scopa magica brigata del secchio",
+      "story": "L'apprendista stregone",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Scopa"
+      ],
+      "subtypesText": "Immaginato \u2022 Scopa",
+      "type": "Personaggio",
+      "version": "Brigata del Secchio",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, puoi pescare una carta.",
+          "fullText": "OSCURA FORZA Quando giochi questo\npersonaggio, puoi pescare una carta.",
+          "name": "OSCURA FORZA",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Valerio Buonfantino"
+      ],
+      "artistsText": "Valerio Buonfantino",
+      "code": "0N",
+      "color": "Ametista",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 259053,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259053",
+        "cardmarketId": 729226,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Maleficent-Sorceress?language=5",
+        "tcgPlayerId": 494103,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/494103"
+      },
+      "flavorText": "\u201cOsi sfidare me? Sciocco! La mia magia \u00e8 pi\u00f9\npotente di quanto tu possa immaginare!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "49/204 \u2022 IT \u2022 1",
+      "fullName": "Malefica - Incantatrice",
+      "fullText": "OSCURA FORZA Quando giochi questo\npersonaggio, puoi pescare una carta.",
+      "fullTextSections": [
+        "OSCURA FORZA Quando giochi questo\npersonaggio, puoi pescare una carta."
+      ],
+      "id": 49,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/49_c707b68266cd1065bf4b896d0b2377ddf4afadc3.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/49_ae37cb85c555600fa3cfef21689540df4082f3b3.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/49_c4e66b5c55f4e11cbdba842eacd1ca20758bfafe.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Malefica",
+      "number": 49,
+      "rarity": "Comune",
+      "simpleName": "malefica incantatrice",
+      "story": "La bella addormentata nel bosco",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Cattivo",
+        "Incantatore"
+      ],
+      "subtypesText": "Classico \u2022 Cattivo \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Incantatrice",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Paga 1 \u2b21 in meno per giocare i personaggi Scopa.",
+          "fullText": "ANIMARE LE SCOPE Paga 1 \u2b21 in meno per giocare i\npersonaggi Scopa.",
+          "name": "ANIMARE LE SCOPE",
+          "type": "static"
+        },
+        {
+          "effect": "Ogni volta che un tuo personaggio Scopa viene esiliato in una sfida, puoi riprendere in mano quella carta.",
+          "fullText": "LAVORATORE INSTANCABILE Ogni volta che un tuo\npersonaggio Scopa viene esiliato in una sfida, puoi\nriprendere in mano quella carta.",
+          "name": "LAVORATORE INSTANCABILE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Nicholas Kole"
+      ],
+      "artistsText": "Nicholas Kole",
+      "code": "0P",
+      "color": "Ametista",
+      "cost": 4,
+      "enchantedId": 208,
+      "externalLinks": {
+        "cardTraderId": 258927,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258927",
+        "cardmarketId": 729228,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Mickey-Mouse-Wayward-Sorcerer-V1?language=5",
+        "tcgPlayerId": 492369,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492369"
+      },
+      "flavorText": "Punta sempre a fare piazza pulita.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "51/204 \u2022 IT \u2022 1",
+      "fullName": "Topolino - Stregone Caparbio",
+      "fullText": "ANIMARE LE SCOPE Paga 1 \u2b21 in meno per giocare i\npersonaggi Scopa.\nLAVORATORE INSTANCABILE Ogni volta che un tuo\npersonaggio Scopa viene esiliato in una sfida, puoi\nriprendere in mano quella carta.",
+      "fullTextSections": [
+        "ANIMARE LE SCOPE Paga 1 \u2b21 in meno per giocare i\npersonaggi Scopa.",
+        "LAVORATORE INSTANCABILE Ogni volta che un tuo\npersonaggio Scopa viene esiliato in una sfida, puoi\nriprendere in mano quella carta."
+      ],
+      "id": 51,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/51_7d3330e0fe19dc8165001345e188ed2eeab232be.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/51_99169e9db09abda0378124287224e1b534dfc719.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/51_8f1adef6bdef6f904ea89a4fae7536437dde11c6.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Topolino",
+      "number": 51,
+      "rarity": "Super Rara",
+      "simpleName": "topolino stregone caparbio",
+      "story": "L'apprendista stregone",
+      "strength": 3,
+      "subtypes": [
+        "Immaginato",
+        "Incantatore"
+      ],
+      "subtypesText": "Immaginato \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Stregone Caparbio",
+      "willpower": 4
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Giulia Riva"
+      ],
+      "artistsText": "Giulia Riva",
+      "code": "0Q",
+      "color": "Ametista",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 258994,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258994",
+        "cardmarketId": 729230,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Olaf-Friendly-Snowman?language=5",
+        "tcgPlayerId": 485381,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/485381"
+      },
+      "flavorText": "\u201cIo sono Olaf e amo i caldi abbracci!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "52/204 \u2022 IT \u2022 1",
+      "fullName": "Olaf - Amichevole Pupazzo di Neve",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 52,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/52_2fc9950b01c4d60a75eb35515437c93de2857a04.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/52_3b6e755a0db64dba111c47e303b3f7db446aacdf.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/52_47d24b0c64c4b1907f5523608923f570c9aa5d77.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Olaf",
+      "number": 52,
+      "rarity": "Non comune",
+      "reprintedAsIds": [
+        1991
+      ],
+      "simpleName": "olaf amichevole pupazzo di neve",
+      "story": "Frozen",
+      "strength": 1,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Amichevole Pupazzo di Neve",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Giulia Riva"
+      ],
+      "artistsText": "Giulia Riva",
+      "code": "0V",
+      "color": "Ametista",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 259078,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259078",
+        "cardmarketId": 729238,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/The-Wardrobe-Belles-Confidant?language=5",
+        "tcgPlayerId": 485363,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/485363"
+      },
+      "flavorText": "Quando essere alla moda \u00e8 un'assoluta necessit\u00e0.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "57/204 \u2022 IT \u2022 1",
+      "fullName": "L'Armadio - Confidente di Belle",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 57,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/57_1ce3183ada32a5e2663b8f80dfce96c133131d2b.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/57_4e2a8e7ec92ab3501da7e8650d8e6c454d8cc7db.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/57_20243fb2c3a2a3daacd621b99533a340a42e7f28.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "L'Armadio",
+      "number": 57,
+      "rarity": "Comune",
+      "simpleName": "l'armadio confidente di belle",
+      "story": "La bella e la bestia",
+      "strength": 3,
+      "subtypes": [
+        "Immaginato",
+        "Alleato"
+      ],
+      "subtypesText": "Immaginato \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Confidente di Belle",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Amber Kommavongsa"
+      ],
+      "artistsText": "Amber Kommavongsa",
+      "code": "12",
+      "color": "Ametista",
+      "cost": 3,
+      "effects": [
+        "Pesca 2 carte."
+      ],
+      "externalLinks": {
+        "cardTraderId": 259035,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259035",
+        "cardmarketId": 729245,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Friends-on-the-Other-Side?language=5",
+        "tcgPlayerId": 494100,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/494100"
+      },
+      "flavorText": "Le carte, le carte,\nDalle carte saprete\u2026",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "64/204 \u2022 IT \u2022 1",
+      "fullName": "Gli Amici nell'Aldil\u00e0",
+      "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)\nPesca 2 carte.",
+      "fullTextSections": [
+        "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+        "Pesca 2 carte."
+      ],
+      "id": 64,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/64_300ff45e0236912ab219814213797f89eb862d3c.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/64_64c1cf867c18efc2f85e047bec9a221bb9b1f2b6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/64_f882ccd6ff111b995f06f2d2fdaff30112cf7671.jpg"
+      },
+      "inkwell": true,
+      "name": "Gli Amici nell'Aldil\u00e0",
+      "number": 64,
+      "rarity": "Comune",
+      "simpleName": "gli amici nell'aldila",
+      "story": "La principessa e il ranocchio",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 1 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 1 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Kevin Hong"
+      ],
+      "artistsText": "Kevin Hong",
+      "code": "13",
+      "color": "Ametista",
+      "cost": 1,
+      "effects": [
+        "Guarda le prime 3 carte del tuo mazzo. Rimettile in cima al\ntuo mazzo in qualsiasi ordine."
+      ],
+      "externalLinks": {
+        "cardTraderId": 259001,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259001",
+        "cardmarketId": 729246,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Reflection?language=5",
+        "tcgPlayerId": 506113,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/506113"
+      },
+      "flavorText": "E il riflesso che vedr\u00f2\nMi assomiglier\u00e0?",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "65/204 \u2022 IT \u2022 1",
+      "fullName": "Riflesso",
+      "fullText": "(Un personaggio con costo 1 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)\nGuarda le prime 3 carte del tuo mazzo. Rimettile in cima al\ntuo mazzo in qualsiasi ordine.",
+      "fullTextSections": [
+        "(Un personaggio con costo 1 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)",
+        "Guarda le prime 3 carte del tuo mazzo. Rimettile in cima al\ntuo mazzo in qualsiasi ordine."
+      ],
+      "id": 65,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/65_beff97fcaf2c1b160d16a6f6dadf6ad723328bf4.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/65_e53ed1a0e9ea1db3e2b734a7fb5a11dcdc266d6a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/65_ce8a2f9a8608599ed3d047a2f92a18ec1c5fec16.jpg"
+      },
+      "inkwell": true,
+      "name": "Riflesso",
+      "number": 65,
+      "rarity": "Non comune",
+      "simpleName": "riflesso",
+      "story": "Mulan",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Guarda le prime 2 carte del tuo mazzo. Mettine una in cima al tuo mazzo e l'altra in fondo.",
+          "fullText": "SCRUTARE NEGLI ABISSI \u27f3 \u2014 Guarda le prime 2 carte\ndel tuo mazzo. Mettine una in cima al tuo mazzo e\nl'altra in fondo.",
+          "name": "SCRUTARE NEGLI ABISSI",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Oleg Yurkov"
+      ],
+      "artistsText": "Oleg Yurkov",
+      "code": "15",
+      "color": "Ametista",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 259012,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259012",
+        "cardmarketId": 729248,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Ursulas-Cauldron?language=5",
+        "tcgPlayerId": 507851,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/507851"
+      },
+      "flavorText": "Ottimo per mescolare pozioni e rubare voci.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "67/204 \u2022 IT \u2022 1",
+      "fullName": "Il Calderone di Ursula",
+      "fullText": "SCRUTARE NEGLI ABISSI \u27f3 \u2014 Guarda le prime 2 carte\ndel tuo mazzo. Mettine una in cima al tuo mazzo e\nl'altra in fondo.",
+      "fullTextSections": [
+        "SCRUTARE NEGLI ABISSI \u27f3 \u2014 Guarda le prime 2 carte\ndel tuo mazzo. Mettine una in cima al tuo mazzo e\nl'altra in fondo."
+      ],
+      "id": 67,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/67_5b8d6e29a5a7d27a6160eaa6ac57d318a55fbe2d.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/67_a1da2d2cc551e530ba0587a03443e949c60cf537.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/67_fc271177976552c5d10ff0a5ffa1313e7245ab49.jpg"
+      },
+      "inkwell": false,
+      "name": "Il Calderone di Ursula",
+      "number": 67,
+      "rarity": "Non comune",
+      "simpleName": "il calderone di ursula",
+      "story": "La sirenetta",
+      "type": "Oggetto"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Isaiah Mesq"
+      ],
+      "artistsText": "Isaiah Mesq",
+      "code": "1h",
+      "color": "Smeraldo",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 259045,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259045",
+        "cardmarketId": 729260,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Horace-No-Good-Scoundrel?language=5",
+        "tcgPlayerId": 507494,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/507494"
+      },
+      "flavorText": "\u201cEhi, non ci sono, Gaspare.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "79/204 \u2022 IT \u2022 1",
+      "fullName": "Orazio - Losca Canaglia",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 79,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/79_9e41664a39f69e0e3e29a4bde36d979af2a0cec2.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/79_db6ca311e33db5dca231ea01212bbaec0087b9bd.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/79_5ab51e671935866dc91b5837ff527b0c552769ae.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Orazio",
+      "number": 79,
+      "rarity": "Comune",
+      "simpleName": "orazio losca canaglia",
+      "story": "La carica dei 101",
+      "strength": 4,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Losca Canaglia",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Ogni volta che questo personaggio va all'avventura, un personaggio avversario a tua scelta non potr\u00e0 andare all'avventura nel suo prossimo turno.",
+          "fullText": "A NANNA CUCCIOLI Ogni volta che questo\npersonaggio va all'avventura, un personaggio\navversario a tua scelta non potr\u00e0 andare\nall'avventura nel suo prossimo turno.",
+          "name": "A NANNA CUCCIOLI",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Jochem Van Gool"
+      ],
+      "artistsNormalized": [
+        "Jochem van Gool"
+      ],
+      "artistsText": "Jochem Van Gool",
+      "code": "1j",
+      "color": "Smeraldo",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 258984,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258984",
+        "cardmarketId": 729262,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Jasper-Common-Crook?language=5",
+        "tcgPlayerId": 507498,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/507498"
+      },
+      "flavorText": "\u201cApri le orecchie, amico. Ti ho gi\u00e0 detto di non pensare.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "81/204 \u2022 IT \u2022 1",
+      "fullName": "Gaspare - Comune Ladruncolo",
+      "fullText": "A NANNA CUCCIOLI Ogni volta che questo\npersonaggio va all'avventura, un personaggio\navversario a tua scelta non potr\u00e0 andare\nall'avventura nel suo prossimo turno.",
+      "fullTextSections": [
+        "A NANNA CUCCIOLI Ogni volta che questo\npersonaggio va all'avventura, un personaggio\navversario a tua scelta non potr\u00e0 andare\nall'avventura nel suo prossimo turno."
+      ],
+      "id": 81,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/81_8aac405008e9fe9f685c641e295db3b5b4164145.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/81_a5a4e94c6b91aebef15d26b5880ac96e413e574a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/81_b36e5114ba09fb69e23ff33ddeae88cbf113d0d3.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Gaspare",
+      "number": 81,
+      "rarity": "Non comune",
+      "simpleName": "gaspare comune ladruncolo",
+      "story": "La carica dei 101",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Comune Ladruncolo",
+      "willpower": 4
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Kenneth Anderson"
+      ],
+      "artistsText": "Kenneth Anderson",
+      "code": "1K",
+      "color": "Rubino",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 258973,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258973",
+        "cardmarketId": 729289,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Donald-Duck-Boisterous-Fowl?language=5",
+        "tcgPlayerId": 493487,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493487"
+      },
+      "flavorText": "\u201cEhi amico, chi \u00e8 che sarebbe turbolento?\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "108/204 \u2022 IT \u2022 1",
+      "fullName": "Paperino - Pennuto Turbolento",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 108,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/108_31a02ebe3ed6035aec16b6e6880806044957a838.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/108_e4ec45683b912d02c7e19ea0ad97e9b133babb3d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/108_d6d0e8bc9cfa1d3a510e375000ff0a79aa8de078.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Paperino",
+      "number": 108,
+      "rarity": "Non comune",
+      "simpleName": "paperino pennuto turbolento",
+      "story": "Topolino e i suoi amici",
+      "strength": 2,
+      "subtypes": [
+        "Classico"
+      ],
+      "subtypesText": "Classico",
+      "type": "Personaggio",
+      "version": "Pennuto Turbolento",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Ogni volta che giochi un personaggio chiamato Anna, prepara questo personaggio. Non pu\u00f2 andare all'avventura per il resto di questo turno.",
+          "fullText": "QUELLA NON \u00c8 UNA TEMPESTA Ogni volta\nche giochi un personaggio chiamato Anna,\nprepara questo personaggio. Non pu\u00f2 andare\nall'avventura per il resto di questo turno.",
+          "name": "QUELLA NON \u00c8 UNA TEMPESTA",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Alice Pisoni",
+        "Whitney Pollett"
+      ],
+      "artistsText": "Alice Pisoni / Whitney Pollett",
+      "code": "1L",
+      "color": "Rubino",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 259030,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259030",
+        "cardmarketId": 729291,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Elsa-Ice-Surfer?language=5",
+        "tcgPlayerId": 507482,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/507482"
+      },
+      "flavorText": "\u201cMia sorella mi \u00e8 sempre stata vicina. Adesso devo\nstarle vicina io.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "109/204 \u2022 IT \u2022 1",
+      "fullName": "Elsa - Surfista sul Ghiaccio",
+      "fullText": "QUELLA NON \u00c8 UNA TEMPESTA Ogni volta\nche giochi un personaggio chiamato Anna,\nprepara questo personaggio. Non pu\u00f2 andare\nall'avventura per il resto di questo turno.",
+      "fullTextSections": [
+        "QUELLA NON \u00c8 UNA TEMPESTA Ogni volta\nche giochi un personaggio chiamato Anna,\nprepara questo personaggio. Non pu\u00f2 andare\nall'avventura per il resto di questo turno."
+      ],
+      "id": 109,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/109_7032abb594ca3ab6ca8e10b22f6ca787638ecc06.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/109_20c33772b0434b71192618c2a1f444fc5e7e6999.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/109_c78cebc69bcac5e7dba9908d1dad1e4cc3637025.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Elsa",
+      "number": 109,
+      "rarity": "Comune",
+      "simpleName": "elsa surfista sul ghiaccio",
+      "story": "Frozen",
+      "strength": 3,
+      "subtypes": [
+        "Immaginato",
+        "Eroe",
+        "Regina",
+        "Incantatore"
+      ],
+      "subtypesText": "Immaginato \u2022 Eroe \u2022 Regina \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Surfista sul Ghiaccio",
+      "willpower": 4
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Kenneth Anderson"
+      ],
+      "artistsText": "Kenneth Anderson",
+      "code": "1S",
+      "color": "Rubino",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 259058,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259058",
+        "cardmarketId": 729302,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Minnie-Mouse-Always-Classy?language=5",
+        "tcgPlayerId": 505967,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/505967"
+      },
+      "flavorText": "\u00c8 sempre vestita a puntino.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "116/204 \u2022 IT \u2022 1",
+      "fullName": "Minni - Sempre Elegante",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 116,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/116_53521a169015398719282e7baca48f08fe2846a0.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/116_8df1ff2594105716350b1f64ebce0e75323548f9.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/116_5edd09da60a353c90629fa3333b34a02be407c3b.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Minni",
+      "number": 116,
+      "rarity": "Comune",
+      "simpleName": "minni sempre elegante",
+      "story": "Topolino e i suoi amici",
+      "strength": 1,
+      "subtypes": [
+        "Classico",
+        "Eroe"
+      ],
+      "subtypesText": "Classico \u2022 Eroe",
+      "type": "Personaggio",
+      "version": "Sempre Elegante",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Amber Kommavongsa"
+      ],
+      "artistsText": "Amber Kommavongsa",
+      "code": "1Y",
+      "color": "Rubino",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 259068,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259068",
+        "cardmarketId": 729309,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Scar-Fiery-Usurper?language=5",
+        "tcgPlayerId": 492711,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492711"
+      },
+      "flavorText": "Consumato dalle fiamme dell'ambizione.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "122/204 \u2022 IT \u2022 1",
+      "fullName": "Scar - Usurpatore Focoso",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 122,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/122_2d4adf0078bcea5c4eb77a85ba87d62e88f718aa.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/122_d922b186681f813d292decee8691c28b3a5e61b5.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/122_4801b0ad5ae7dd924b5a8c7903f5e7ed45076891.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Scar",
+      "number": 122,
+      "rarity": "Comune",
+      "simpleName": "scar usurpatore focoso",
+      "story": "Il re lione",
+      "strength": 5,
+      "subtypes": [
+        "Immaginato",
+        "Cattivo"
+      ],
+      "subtypesText": "Immaginato \u2022 Cattivo",
+      "type": "Personaggio",
+      "version": "Usurpatore Focoso",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Bill Robinson"
+      ],
+      "artistsText": "Bill Robinson",
+      "code": "21",
+      "color": "Rubino",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 259443,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259443",
+        "cardmarketId": 729312,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Stitch-Abomination?language=5",
+        "tcgPlayerId": 508790,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/508790"
+      },
+      "flavorText": "\u201cSua tendenza distruttiva si sta manifestando.\nVerr\u00e0 attratto da grandi citt\u00e0 dove ingorgher\u00e0\nfogne, invertit\u00e0 cartelli stradali, e ruber\u00e0 a tutti\nscarpa sinistra.\u201d\n\u2014Jumba Jookiba",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "125/204 \u2022 IT \u2022 1",
+      "fullName": "Stitch - Abominio",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 125,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/125_355d6d5d842b37663896354a82f216ac8fd5a43a.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/125_0929ff1aa76a917ba88c1c5eef597909d0e19ccf.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/125_069b1b0aa170e6cb9222145d1a7e0655b530f974.jpg"
+      },
+      "inkwell": true,
+      "lore": 3,
+      "name": "Stitch",
+      "number": 125,
+      "promoIds": [
+        679
+      ],
+      "rarity": "Rara",
+      "simpleName": "stitch abominio",
+      "story": "Lilo & Stitch",
+      "strength": 4,
+      "subtypes": [
+        "Classico",
+        "Eroe",
+        "Alieno"
+      ],
+      "subtypesText": "Classico \u2022 Eroe \u2022 Alieno",
+      "type": "Personaggio",
+      "version": "Abominio",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Attaccabrighe (Questo personaggio non pu\u00f2\nandare all'avventura e deve sfidare ogni turno,\nse possibile.)",
+          "keyword": "Attaccabrighe",
+          "reminderText": "Questo personaggio non pu\u00f2 andare all'avventura e deve sfidare ogni turno, se possibile.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Kamil Murzyn"
+      ],
+      "artistsText": "Kamil Murzyn",
+      "code": "22",
+      "color": "Rubino",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 258933,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258933",
+        "cardmarketId": 729313,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Te-K-The-Burning-One?language=5",
+        "tcgPlayerId": 508803,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/508803"
+      },
+      "flavorText": "Brucia dal desiderio per ci\u00f2 che le \u00e8 stato rubato.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "126/204 \u2022 IT \u2022 1",
+      "fullName": "Te K\u0101 - L'Incandescente",
+      "fullText": "Attaccabrighe (Questo personaggio non pu\u00f2\nandare all'avventura e deve sfidare ogni turno,\nse possibile.)",
+      "fullTextSections": [
+        "Attaccabrighe (Questo personaggio non pu\u00f2\nandare all'avventura e deve sfidare ogni turno,\nse possibile.)"
+      ],
+      "id": 126,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/126_632ddab3f66ee5a9a49c552de89763eff144c00b.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/126_a4b803028267fca717dcf83126badf1b4c8ca145.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/126_957b88c39b06e5f0efbd4cbe1da99a30e521a929.jpg"
+      },
+      "inkwell": false,
+      "keywordAbilities": [
+        "Attaccabrighe"
+      ],
+      "lore": 0,
+      "name": "Te K\u0101",
+      "number": 126,
+      "rarity": "Super Rara",
+      "simpleName": "te ka l'incandescente",
+      "story": "Oceania",
+      "strength": 8,
+      "subtypes": [
+        "Classico",
+        "Cattivo",
+        "Divinit\u00e0"
+      ],
+      "subtypesText": "Classico \u2022 Cattivo \u2022 Divinit\u00e0",
+      "type": "Personaggio",
+      "version": "L'Incandescente",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Sfuggente (Solo altri personaggi con Sfuggente\npossono sfidare questo personaggio.)",
+          "keyword": "Sfuggente",
+          "reminderText": "Solo altri personaggi con Sfuggente possono sfidare questo personaggio.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Kenneth Anderson"
+      ],
+      "artistsText": "Kenneth Anderson",
+      "code": "23",
+      "color": "Rubino",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 259010,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259010",
+        "cardmarketId": 729315,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Tigger-Wonderful-Thing?language=5",
+        "tcgPlayerId": 489638,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/489638"
+      },
+      "flavorText": "\u201cSono il pi\u00f9 saltellante saltellatore che abbia mai\nsaltellato!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "127/204 \u2022 IT \u2022 1",
+      "fullName": "Tigro - Pieno di Elettricit\u00e0",
+      "fullText": "Sfuggente (Solo altri personaggi con Sfuggente\npossono sfidare questo personaggio.)",
+      "fullTextSections": [
+        "Sfuggente (Solo altri personaggi con Sfuggente\npossono sfidare questo personaggio.)"
+      ],
+      "id": 127,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/127_52b1c3193d683b6824ed9bd5e8325ff94de0a37e.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/127_1228819e72b1d0400d03029cdcb34f320101bff6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/127_6a067aa146b6c59fac6aea5068a3e33ce370d607.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Sfuggente"
+      ],
+      "lore": 2,
+      "name": "Tigro",
+      "number": 127,
+      "rarity": "Non comune",
+      "simpleName": "tigro pieno di elettricita",
+      "story": "Winnie the Pooh",
+      "strength": 4,
+      "subtypes": [
+        "Classico",
+        "Tigro"
+      ],
+      "subtypesText": "Classico \u2022 Tigro",
+      "type": "Personaggio",
+      "version": "Pieno di Elettricit\u00e0",
+      "willpower": 4
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Luis Huerta"
+      ],
+      "artistsText": "Luis Huerta",
+      "code": "26",
+      "color": "Rubino",
+      "cost": 5,
+      "effects": [
+        "Esilia un personaggio a tua scelta."
+      ],
+      "externalLinks": {
+        "cardTraderId": 258976,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258976",
+        "cardmarketId": 729318,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Dragon-Fire?language=5",
+        "tcgPlayerId": 492710,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492710"
+      },
+      "flavorText": "Soltanto l'eroe pi\u00f9 eccezionale sa resistere alla furia di\nun drago.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "130/204 \u2022 IT \u2022 1",
+      "fullName": "Fuoco di Drago",
+      "fullText": "Esilia un personaggio a tua scelta.",
+      "fullTextSections": [
+        "Esilia un personaggio a tua scelta."
+      ],
+      "id": 130,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/130_1b5fb6f2e3c726039e1d1a79907cb465e6c920ad.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/130_1a5bc742646674791363d910aa6e42cf93bc4757.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/130_3235b8fabb971553bf7e89b1e57cbefcac11dbab.jpg"
+      },
+      "inkwell": false,
+      "name": "Fuoco di Drago",
+      "number": 130,
+      "promoIds": [
+        1187
+      ],
+      "rarity": "Non comune",
+      "reprintedAsIds": [
+        2322
+      ],
+      "simpleName": "fuoco di drago",
+      "story": "La bella addormentata nel bosco",
+      "type": "Azione"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Koni"
+      ],
+      "artistsText": "Koni",
+      "code": "28",
+      "color": "Rubino",
+      "cost": 1,
+      "effects": [
+        "Un personaggio a tua scelta riceve +2 \u00a4 per questo\nturno."
+      ],
+      "externalLinks": {
+        "cardTraderId": 259041,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259041",
+        "cardmarketId": 729320,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Hes-Got-A-Sword?language=5",
+        "tcgPlayerId": 508782,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/508782"
+      },
+      "flavorText": "\u201cCe l'abbiamo anche noi una spada!\u201d\n\u2014Razoul",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "132/204 \u2022 IT \u2022 1",
+      "fullName": "Ha una Spada!",
+      "fullText": "Un personaggio a tua scelta riceve +2 \u00a4 per questo\nturno.",
+      "fullTextSections": [
+        "Un personaggio a tua scelta riceve +2 \u00a4 per questo\nturno."
+      ],
+      "id": 132,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/132_e9165d8e47e652fd2c2315875613ee4bdcfc73b3.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/132_1673dd0852436e6c59829ad7ed9c56f965e04d21.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/132_69c9ac1f23f6fc0f6784ea9869e3e6cbea431e1f.jpg"
+      },
+      "inkwell": true,
+      "name": "Ha una Spada!",
+      "number": 132,
+      "rarity": "Comune",
+      "simpleName": "ha una spada",
+      "story": "Aladdin",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3",
+            "3 \u2b21"
+          ],
+          "costsText": "\u27f3, 3 \u2b21",
+          "effect": "Prepara un personaggio a tua scelta. Non pu\u00f2 andare all'avventura per il resto di questo turno.",
+          "fullText": "IGNIFUGO \u27f3, 3 \u2b21 \u2014 Prepara un personaggio a tua scelta.\nNon pu\u00f2 andare all'avventura per il resto di questo turno.",
+          "name": "IGNIFUGO",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Eri Welli"
+      ],
+      "artistsText": "Eri Welli",
+      "code": "2b",
+      "color": "Rubino",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 259003,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259003",
+        "cardmarketId": 729323,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Shield-of-Virtue?language=5",
+        "tcgPlayerId": 508789,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/508789"
+      },
+      "flavorText": "\u201cArmati di questo magico Scudo di Virt\u00f9 e di questa\npossente Spada di Verit\u00e0, poich\u00e9 queste armi di giustizia\ntrionferanno sul male.\u201d \u2014Flora",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "135/204 \u2022 IT \u2022 1",
+      "fullName": "Scudo di Virt\u00f9",
+      "fullText": "IGNIFUGO \u27f3, 3 \u2b21 \u2014 Prepara un personaggio a tua scelta.\nNon pu\u00f2 andare all'avventura per il resto di questo turno.",
+      "fullTextSections": [
+        "IGNIFUGO \u27f3, 3 \u2b21 \u2014 Prepara un personaggio a tua scelta.\nNon pu\u00f2 andare all'avventura per il resto di questo turno."
+      ],
+      "id": 135,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/135_37dcb29f856ed3ae40481981b21f68444ab005e2.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/135_60b4491a4cabcea010fcae5832abc2961a33a7de.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/135_f26cf6be32a980fe10833faf83305071329e9d3c.jpg"
+      },
+      "inkwell": true,
+      "name": "Scudo di Virt\u00f9",
+      "number": 135,
+      "rarity": "Non comune",
+      "simpleName": "scudo di virtu",
+      "story": "La bella addormentata nel bosco",
+      "type": "Oggetto"
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Trasformazione 3 (Puoi pagare 3 \u2b21 per giocare questa carta\nsopra a uno dei tuoi personaggi chiamato Aurora.)",
+          "keyword": "Trasformazione",
+          "keywordValue": "3",
+          "keywordValueNumber": 3,
+          "reminderText": "Puoi pagare 3 \u2b21 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Aurora.",
+          "type": "keyword"
+        },
+        {
+          "effect": "I tuoi altri personaggi ottengono Protetto. (Gli avversari non possono sceglierli se non per sfidarli.)",
+          "fullText": "ABBRACCIO PROTETTIVO I tuoi altri personaggi ottengono\nProtetto. (Gli avversari non possono sceglierli se non per sfidarli.)",
+          "name": "ABBRACCIO PROTETTIVO",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Nicholas Kole"
+      ],
+      "artistsText": "Nicholas Kole",
+      "code": "2f",
+      "color": "Zaffiro",
+      "cost": 5,
+      "enchantedId": 213,
+      "externalLinks": {
+        "cardTraderId": 258921,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258921",
+        "cardmarketId": 729327,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Aurora-Dreaming-Guardian-V1?language=5",
+        "tcgPlayerId": 493497,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493497"
+      },
+      "flavorText": "Intanto che la principessa dormiva, il suo potere iniziava a\nrisvegliarsi.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "139/204 \u2022 IT \u2022 1",
+      "fullName": "Aurora - Guardiana Sognante",
+      "fullText": "Trasformazione 3 (Puoi pagare 3 \u2b21 per giocare questa carta\nsopra a uno dei tuoi personaggi chiamato Aurora.)\nABBRACCIO PROTETTIVO I tuoi altri personaggi ottengono\nProtetto. (Gli avversari non possono sceglierli se non per sfidarli.)",
+      "fullTextSections": [
+        "Trasformazione 3 (Puoi pagare 3 \u2b21 per giocare questa carta\nsopra a uno dei tuoi personaggi chiamato Aurora.)",
+        "ABBRACCIO PROTETTIVO I tuoi altri personaggi ottengono\nProtetto. (Gli avversari non possono sceglierli se non per sfidarli.)"
+      ],
+      "id": 139,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/139_9ee9969eb8eb0ef907b4e0d3ecb734af10121138.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/139_e90cad0c12533f80f9de2affd73886f370457464.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/139_feedfbce51e61fa818870e3c4706602fb20afefa.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Trasformazione"
+      ],
+      "lore": 2,
+      "name": "Aurora",
+      "number": 139,
+      "rarity": "Super Rara",
+      "reprintedAsIds": [
+        2089
+      ],
+      "simpleName": "aurora guardiana sognante",
+      "story": "La bella addormentata nel bosco",
+      "strength": 3,
+      "subtypes": [
+        "Imbevuto",
+        "Eroe",
+        "Principessa"
+      ],
+      "subtypesText": "Imbevuto \u2022 Eroe \u2022 Principessa",
+      "type": "Personaggio",
+      "version": "Guardiana Sognante",
+      "willpower": 5
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Samanta Erdini"
+      ],
+      "artistsText": "Samanta Erdini",
+      "code": "2g",
+      "color": "Zaffiro",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 258962,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258962",
+        "cardmarketId": 729328,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Aurora-Regal-Princess?language=5",
+        "tcgPlayerId": 493484,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493484"
+      },
+      "flavorText": "\u201cDicono che se sogni qualcosa pi\u00f9 di una volta,\nquesta si avverer\u00e0 di certo!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "140/204 \u2022 IT \u2022 1",
+      "fullName": "Aurora - Principessa Regale",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 140,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/140_239af653af5ad56bb7a23a71f7b314d899258a1e.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/140_8b521fa5167064e8c89b50d07316faa0fe6cbdc7.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/140_fce3bd1ec5d7c2416be559748e569e5ae7a392e4.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Aurora",
+      "number": 140,
+      "rarity": "Non comune",
+      "reprintedAsIds": [
+        2097
+      ],
+      "simpleName": "aurora principessa regale",
+      "story": "La bella addormentata nel bosco",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Eroe",
+        "Principessa"
+      ],
+      "subtypesText": "Classico \u2022 Eroe \u2022 Principessa",
+      "type": "Personaggio",
+      "version": "Principessa Regale",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Ogni volta che questo personaggio va all'avventura, paga 1 \u2b21 in meno per giocare il tuo prossimo oggetto per questo turno.",
+          "fullText": "INVENTRICE Ogni volta che questo personaggio\nva all'avventura, paga 1 \u2b21 in meno per giocare il\ntuo prossimo oggetto per questo turno.",
+          "name": "INVENTRICE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Gabriel Romero"
+      ],
+      "artistsText": "Gabriel Romero",
+      "code": "2h",
+      "color": "Zaffiro",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 258966,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258966",
+        "cardmarketId": 729329,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Belle-Inventive-Engineer?language=5",
+        "tcgPlayerId": 492727,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492727"
+      },
+      "flavorText": "Con un po' di ingegno e molta passione andrai\nlontano in questo mondo.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "141/204 \u2022 IT \u2022 1",
+      "fullName": "Belle - Ingegnera Creativa",
+      "fullText": "INVENTRICE Ogni volta che questo personaggio\nva all'avventura, paga 1 \u2b21 in meno per giocare il\ntuo prossimo oggetto per questo turno.",
+      "fullTextSections": [
+        "INVENTRICE Ogni volta che questo personaggio\nva all'avventura, paga 1 \u2b21 in meno per giocare il\ntuo prossimo oggetto per questo turno."
+      ],
+      "id": 141,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/141_d1a78dbc2d516ba44858d980c87c37472bdfcbde.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/141_8773f39696ccb4c5277a5b56e5dc9f8db8bcc475.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/141_3bc3ddd97c7d5958490e33de530cc84debda18fb.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Belle",
+      "number": 141,
+      "rarity": "Non comune",
+      "reprintedAsIds": [
+        2092
+      ],
+      "simpleName": "belle ingegnera creativa",
+      "story": "La bella e la bestia",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Eroe",
+        "Principessa",
+        "Inventore"
+      ],
+      "subtypesText": "Immaginato \u2022 Eroe \u2022 Principessa \u2022 Inventore",
+      "type": "Personaggio",
+      "version": "Ingegnera Creativa",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)",
+          "keyword": "Aiutante",
+          "reminderText": "Ogni volta che questo personaggio va all'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di un altro personaggio a tua scelta per questo turno.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Pirel"
+      ],
+      "artistsText": "Pirel",
+      "code": "2j",
+      "color": "Zaffiro",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 258969,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258969",
+        "cardmarketId": 729331,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Chief-Tui-Respected-Leader?language=5",
+        "tcgPlayerId": 508819,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/508819"
+      },
+      "flavorText": "\u201cPuoi sempre fare affidamento sul sostegno di\ncoloro che ti vogliono bene.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "143/204 \u2022 IT \u2022 1",
+      "fullName": "Capo Tui - Leader Rispettato",
+      "fullText": "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)",
+      "fullTextSections": [
+        "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)"
+      ],
+      "id": 143,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/143_872529adab0f58c6b6e45f36a0217a34428d00c0.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/143_f6e9529f4413b816e847b82cc13eb5a20bebf0f4.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/143_d235b5b12d1575aa77acbf6a2f6030cb4845fb7c.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Aiutante"
+      ],
+      "lore": 3,
+      "name": "Capo Tui",
+      "number": 143,
+      "rarity": "Non comune",
+      "simpleName": "capo tui leader rispettato",
+      "story": "Oceania",
+      "strength": 3,
+      "subtypes": [
+        "Classico",
+        "Mentore",
+        "Re"
+      ],
+      "subtypesText": "Classico \u2022 Mentore \u2022 Re",
+      "type": "Personaggio",
+      "version": "Leader Rispettato",
+      "willpower": 6
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Brian Weisz"
+      ],
+      "artistsText": "Brian Weisz",
+      "code": "2l",
+      "color": "Zaffiro",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 259033,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259033",
+        "cardmarketId": 729333,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Flounder-Voice-of-Reason?language=5",
+        "tcgPlayerId": 493496,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/493496"
+      },
+      "flavorText": "\u201cL'emozione, l'avventura, il pericolo in agguato\ndietro ogni angolo\u2026 AAAAAGGH!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "145/204 \u2022 IT \u2022 1",
+      "fullName": "Flounder - Voce della Ragione",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 145,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/145_e7ff61d7c3eb7b1f5a9a268f53852fa28b3ad927.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/145_75d5ea4956a8c8878a9f40f901db1d0099d7fc9a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/145_2d6b741dcfe5ed723e796efd0545bed0ad9b56ec.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Flounder",
+      "number": 145,
+      "rarity": "Comune",
+      "reprintedAsIds": [
+        2083
+      ],
+      "simpleName": "flounder voce della ragione",
+      "story": "La sirenetta",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Voce della Ragione",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Trasformazione 3 (Puoi pagare 3 \u2b21 per giocare\nquesta carta sopra a uno dei tuoi personaggi\nchiamato Jasmine.)",
+          "keyword": "Trasformazione",
+          "keywordValue": "3",
+          "keywordValueNumber": 3,
+          "reminderText": "Puoi pagare 3 \u2b21 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Jasmine.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Quando giochi questo personaggio e ogni volta che va all'avventura, puoi rimuovere fino a 2 danni da ogni tuo personaggio.",
+          "fullText": "PROVVIDENTE Quando giochi questo personaggio e\nogni volta che va all'avventura, puoi rimuovere fino a\n2 danni da ogni tuo personaggio.",
+          "name": "PROVVIDENTE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Filipe Laurentino"
+      ],
+      "artistsText": "Filipe Laurentino",
+      "code": "2p",
+      "color": "Zaffiro",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 258955,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258955",
+        "cardmarketId": 729337,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Jasmine-Queen-of-Agrabah?language=5",
+        "tcgPlayerId": 508857,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/508857"
+      },
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "149/204 \u2022 IT \u2022 1",
+      "fullName": "Jasmine - Regina di Agrabah",
+      "fullText": "Trasformazione 3 (Puoi pagare 3 \u2b21 per giocare\nquesta carta sopra a uno dei tuoi personaggi\nchiamato Jasmine.)\nPROVVIDENTE Quando giochi questo personaggio e\nogni volta che va all'avventura, puoi rimuovere fino a\n2 danni da ogni tuo personaggio.",
+      "fullTextSections": [
+        "Trasformazione 3 (Puoi pagare 3 \u2b21 per giocare\nquesta carta sopra a uno dei tuoi personaggi\nchiamato Jasmine.)",
+        "PROVVIDENTE Quando giochi questo personaggio e\nogni volta che va all'avventura, puoi rimuovere fino a\n2 danni da ogni tuo personaggio."
+      ],
+      "id": 149,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/149_9c68ef5359dddf108cb15094cf5884f4db6096c8.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/149_f13318c14513799b0a51462165d5110d8adf0e72.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/149_6b47079472c11e11663394cf1ed41a3a5f5db7b8.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Trasformazione"
+      ],
+      "lore": 2,
+      "name": "Jasmine",
+      "number": 149,
+      "rarity": "Rara",
+      "simpleName": "jasmine regina di agrabah",
+      "story": "Aladdin",
+      "strength": 2,
+      "subtypes": [
+        "Imbevuto",
+        "Eroe",
+        "Principessa",
+        "Regina"
+      ],
+      "subtypesText": "Imbevuto \u2022 Eroe \u2022 Principessa \u2022 Regina",
+      "type": "Personaggio",
+      "version": "Regina di Agrabah",
+      "willpower": 5
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Gaku Kumatori"
+      ],
+      "artistsText": "Gaku Kumatori",
+      "code": "2r",
+      "color": "Zaffiro",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 259389,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259389",
+        "cardmarketId": 729339,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Maleficent-Uninvited?language=5",
+        "tcgPlayerId": 505949,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/505949"
+      },
+      "flavorText": "Non aveva ricevuto alcun invito \u2014 e non aveva\nbisogno di alcuna presentazione.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "151/204 \u2022 IT \u2022 1",
+      "fullName": "Malefica - Non Invitata",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 151,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/151_c85a00a1d2767ba01ae68b7e16da348f3cbff54d.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/151_6831da2b2ee62d9d1243873fa221512f22e6959f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/151_278b61df1d6a5e2ae15fcd316ef90b4d68f9f9cc.jpg"
+      },
+      "inkwell": true,
+      "lore": 3,
+      "name": "Malefica",
+      "number": 151,
+      "promoIds": [
+        680
+      ],
+      "rarity": "Rara",
+      "simpleName": "malefica non invitata",
+      "story": "La bella addormentata nel bosco",
+      "strength": 3,
+      "subtypes": [
+        "Immaginato",
+        "Cattivo",
+        "Incantatore"
+      ],
+      "subtypesText": "Immaginato \u2022 Cattivo \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Non Invitata",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, puoi aggiungere la prima carta del tuo mazzo al tuo calamaio, a faccia in gi\u00f9 e impegnata.",
+          "fullText": "TROVARE UN INDIZIO Quando giochi questo\npersonaggio, puoi aggiungere la prima carta del tuo\nmazzo al tuo calamaio, a faccia in gi\u00f9 e impegnata.",
+          "name": "TROVARE UN INDIZIO",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Jared Nickerl"
+      ],
+      "artistsText": "Jared Nickerl",
+      "code": "2u",
+      "color": "Zaffiro",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 259056,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259056",
+        "cardmarketId": 729342,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Mickey-Mouse-Detective?language=5",
+        "tcgPlayerId": 508863,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/508863"
+      },
+      "flavorText": "Qualunque fosse la provenienza di quell'alga, Topolino\nera certo di una cosa sola: la faccenda puzzava.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "154/204 \u2022 IT \u2022 1",
+      "fullName": "Topolino - Detective",
+      "fullText": "TROVARE UN INDIZIO Quando giochi questo\npersonaggio, puoi aggiungere la prima carta del tuo\nmazzo al tuo calamaio, a faccia in gi\u00f9 e impegnata.",
+      "fullTextSections": [
+        "TROVARE UN INDIZIO Quando giochi questo\npersonaggio, puoi aggiungere la prima carta del tuo\nmazzo al tuo calamaio, a faccia in gi\u00f9 e impegnata."
+      ],
+      "id": 154,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/154_7a5ecbbba33586f5a8b777b18d16e182ce6746e6.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/154_ed7bb7e492f6a1156321aace2a0c14b847cf7884.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/154_3457ca987847ebdb14ff73d6d605401667bb0722.jpg"
+      },
+      "inkwell": false,
+      "lore": 1,
+      "name": "Topolino",
+      "number": 154,
+      "promoIds": [
+        666
+      ],
+      "rarity": "Comune",
+      "reprintedAsIds": [
+        2349
+      ],
+      "simpleName": "topolino detective",
+      "story": "Topolino e i suoi amici",
+      "strength": 1,
+      "subtypes": [
+        "Immaginato",
+        "Eroe",
+        "Detective"
+      ],
+      "subtypesText": "Immaginato \u2022 Eroe \u2022 Detective",
+      "type": "Personaggio",
+      "version": "Detective",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Cristian Romero"
+      ],
+      "artistsText": "Cristian Romero",
+      "code": "2A",
+      "color": "Zaffiro",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 259011,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259011",
+        "cardmarketId": 729348,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Triton-The-Sea-King?language=5",
+        "tcgPlayerId": 506023,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/506023"
+      },
+      "flavorText": "\u201c\u2018Perch\u00e9 lo dico io\u2019 non \u00e8 forse una motivazione\nsufficiente?\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "160/204 \u2022 IT \u2022 1",
+      "fullName": "Tritone - Il Re del Mare",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 160,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/160_f4720664b0c04c9aa4dcd33572ccf5c34cae76f3.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/160_d218c964029700cb73f7254421d0faf1b2a0bb36.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/160_ea4e4c5d096317ce555f6310d176175778d6c7ec.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Tritone",
+      "number": 160,
+      "rarity": "Non comune",
+      "simpleName": "tritone il re del mare",
+      "story": "La sirenetta",
+      "strength": 5,
+      "subtypes": [
+        "Classico",
+        "Re"
+      ],
+      "subtypesText": "Classico \u2022 Re",
+      "type": "Personaggio",
+      "version": "Il Re del Mare",
+      "willpower": 9
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 5 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 5 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Milica Celikovic"
+      ],
+      "artistsText": "Milica Celikovic",
+      "code": "2D",
+      "color": "Zaffiro",
+      "cost": 5,
+      "effects": [
+        "Aggiungi un personaggio a tua scelta al calamaio del suo\ngiocatore, a faccia in gi\u00f9 e impegnato."
+      ],
+      "externalLinks": {
+        "cardTraderId": 259385,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259385",
+        "cardmarketId": 729351,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Let-It-Go?language=5",
+        "tcgPlayerId": 492997,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492997"
+      },
+      "flavorText": "Non \u00e8 un difetto, \u00e8 una virt\u00f9\nE non la fermer\u00f2 mai pi\u00f9",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "163/204 \u2022 IT \u2022 1",
+      "fullName": "All'Alba Sorger\u00f2",
+      "fullText": "(Un personaggio con costo 5 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)\nAggiungi un personaggio a tua scelta al calamaio del suo\ngiocatore, a faccia in gi\u00f9 e impegnato.",
+      "fullTextSections": [
+        "(Un personaggio con costo 5 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)",
+        "Aggiungi un personaggio a tua scelta al calamaio del suo\ngiocatore, a faccia in gi\u00f9 e impegnato."
+      ],
+      "id": 163,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/163_5a7dbf07cafa830ae0f91ff42e2a442a704b160e.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/163_618def197349f3559e7b818a4afb744bd99e5b2c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/163_ff011e147caf1e2ce43cd9410d469b5c571aa784.jpg"
+      },
+      "inkwell": true,
+      "name": "All'Alba Sorger\u00f2",
+      "number": 163,
+      "promoIds": [
+        1188
+      ],
+      "rarity": "Rara",
+      "simpleName": "all'alba sorger\u00f2",
+      "story": "Frozen",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Un personaggio a tua scelta ottiene Aiutante per questo turno. (Ogni volta che va all'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di un altro personaggio a tua scelta per questo turno.)",
+          "fullText": "COMANDO \u27f3 \u2014 Un personaggio a tua scelta\nottiene Aiutante per questo turno. (Ogni volta che va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di un\naltro personaggio a tua scelta per questo turno.)",
+          "name": "COMANDO",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Grace Tran"
+      ],
+      "artistsText": "Grace Tran",
+      "code": "2K",
+      "color": "Zaffiro",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 259002,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259002",
+        "cardmarketId": 729358,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Scepter-of-Arendelle?language=5",
+        "tcgPlayerId": 505963,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/505963"
+      },
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "170/204 \u2022 IT \u2022 1",
+      "fullName": "Scettro di Arendelle",
+      "fullText": "COMANDO \u27f3 \u2014 Un personaggio a tua scelta\nottiene Aiutante per questo turno. (Ogni volta che va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di un\naltro personaggio a tua scelta per questo turno.)",
+      "fullTextSections": [
+        "COMANDO \u27f3 \u2014 Un personaggio a tua scelta\nottiene Aiutante per questo turno. (Ogni volta che va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di un\naltro personaggio a tua scelta per questo turno.)"
+      ],
+      "id": 170,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/170_3073482e975094d556db4f837c9345b22cc53a4e.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/170_273b4acd62eb4388871c1a794172fd687adcb8a4.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/170_b5cbacd01480362164a317368c55bfe2b74d79cd.jpg"
+      },
+      "inkwell": true,
+      "name": "Scettro di Arendelle",
+      "number": 170,
+      "rarity": "Non comune",
+      "simpleName": "scettro di arendelle",
+      "story": "Frozen",
+      "type": "Oggetto"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, puoi esiliare un oggetto a tua scelta.",
+          "fullText": "ROMPERE Quando giochi questo personaggio,\npuoi esiliare un oggetto a tua scelta.",
+          "name": "ROMPERE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Cookie"
+      ],
+      "artistsText": "Cookie",
+      "code": "2M",
+      "color": "Acciaio",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 258964,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/258964",
+        "cardmarketId": 729360,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Beast-Hardheaded?language=5",
+        "tcgPlayerId": 508900,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/508900"
+      },
+      "flavorText": "\u201cQuella ragazza non vedr\u00e0 mai niente in me\u2026\ntranne che un mostro.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "172/204 \u2022 IT \u2022 1",
+      "fullName": "La Bestia - Testarda",
+      "fullText": "ROMPERE Quando giochi questo personaggio,\npuoi esiliare un oggetto a tua scelta.",
+      "fullTextSections": [
+        "ROMPERE Quando giochi questo personaggio,\npuoi esiliare un oggetto a tua scelta."
+      ],
+      "id": 172,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/172_1b95ab9609425cfd837b79af0af6de4cdb3c9c2f.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/172_4bcac5e1629cef650918dc4d5360c85aa5b1ab3a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/172_d064604896007f973a9cffb028b89d6a1491ccf0.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "La Bestia",
+      "number": 172,
+      "rarity": "Non comune",
+      "simpleName": "la bestia testarda",
+      "story": "La bella e la bestia",
+      "strength": 4,
+      "subtypes": [
+        "Classico",
+        "Eroe",
+        "Principe"
+      ],
+      "subtypesText": "Classico \u2022 Eroe \u2022 Principe",
+      "type": "Personaggio",
+      "version": "Testarda",
+      "willpower": 4
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-09-08",
+      "artists": [
+        "Simangaliso Sibaya"
+      ],
+      "artistsText": "Simangaliso Sibaya",
+      "code": "3e",
+      "color": "Acciaio",
+      "cost": 3,
+      "effects": [
+        "Infliggi 3 danni a un personaggio a tua scelta."
+      ],
+      "externalLinks": {
+        "cardTraderId": 259005,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259005",
+        "cardmarketId": 729388,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/The-First-Chapter/Smash?language=5",
+        "tcgPlayerId": 508943,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/508943"
+      },
+      "flavorText": "\u201cAndate via!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "200/204 \u2022 IT \u2022 1",
+      "fullName": "Sfasciare",
+      "fullText": "Infliggi 3 danni a un personaggio a tua scelta.",
+      "fullTextSections": [
+        "Infliggi 3 danni a un personaggio a tua scelta."
+      ],
+      "id": 200,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set1/200_5615be6d0ba08f2507fba04d6d8a21dc16e72d29.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set1/200_4ed46778c70ba403dfc812cf5c80cb77d3ba8ee4.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set1/200_26f0c6740ed8ec783dfbc1abd0912ba43a886bed.jpg"
+      },
+      "inkwell": true,
+      "name": "Sfasciare",
+      "number": 200,
+      "rarity": "Non comune",
+      "reprintedAsIds": [
+        2134
+      ],
+      "simpleName": "sfasciare",
+      "story": "Frozen",
+      "type": "Azione"
+    }
+  ]
+}

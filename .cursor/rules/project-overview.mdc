@@ -1,0 +1,40 @@
+---
+description: Lorcana Sealed Simulator project overview and conventions
+alwaysApply: true
+---
+
+# Lorcana Sealed Simulator
+
+A Vue 3 web application simulating Lorcana Sealed format (opening boosters and building decks).
+
+## Tech Stack
+
+- **Framework**: Vue 3 with Composition API (`<script setup>`)
+- **Language**: TypeScript
+- **Build**: Vite
+- **Data**: LorcanaJSON.org API (bundled JSON files)
+- **Styling**: CSS with CSS Variables for theming
+
+## Project Structure
+
+```
+src/
+├── App.vue              # Main component with all business logic
+├── components/
+│   └── SingleCard.vue   # Card display component
+└── data/sets/           # Card data by language/set
+```
+
+## Key Patterns
+
+- All state management in App.vue using `ref()` and `reactive()`
+- Card data loaded dynamically via `loadSetData(setCode, language)`
+- CSS Variables for light/dark theme support
+- Drag-and-drop + click buttons for card movement
+
+## Documentation
+
+See `docs/` folder:
+- `docs/dev/` - Architecture & Design
+- `docs/feat/` - Feature documentation
+- `docs/ops/` - Build & Data management

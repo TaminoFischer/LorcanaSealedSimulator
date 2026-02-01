@@ -1,0 +1,2322 @@
+{
+  "prereleaseDate": "2023-11-17",
+  "releaseDate": "2023-12-01",
+  "hasAllCards": true,
+  "type": "expansion",
+  "number": 2,
+  "allowedInFormats": {
+    "Core": {
+      "allowed": false,
+      "allowedUntilDate": "2025-09-05",
+      "rotationGroup": 1
+    },
+    "Infinity": {
+      "allowed": true
+    }
+  },
+  "allowedInTournamentsFromDate": "2023-12-08",
+  "name": "L'Ascesa degli Imbevuti",
+  "code": "2",
+  "metadata": {
+    "formatVersion": "2.3.2",
+    "generatedOn": "2025-12-18T20:20:11",
+    "language": "it"
+  },
+  "cards": [
+    {
+      "abilities": [
+        {
+          "effect": "Ogni volta che prepari questo personaggio, se hai in gioco 2 o pi\u00f9 altri personaggi, ottieni 2 leggenda.",
+          "fullText": "SAREMO SEMPRE INSIEME Ogni volta che prepari\nquesto personaggio, se hai in gioco 2 o pi\u00f9 altri\npersonaggi, ottieni 2 leggenda.",
+          "name": "SAREMO SEMPRE INSIEME",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Eri Welli"
+      ],
+      "artistsText": "Eri Welli",
+      "code": "3w",
+      "color": "Ambra",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 268049,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268049",
+        "cardmarketId": 745020,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Christopher-Robin-Adventurer?language=5",
+        "tcgPlayerId": 526351,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/526351"
+      },
+      "flavorText": "\u201cGuarda, Pooh! Hai mai visto niente di cos\u00ec\ngrandioso?\u201d \u2014Christopher Robin",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "2/204 \u2022 IT \u2022 2",
+      "fullName": "Christopher Robin - Avventuriero",
+      "fullText": "SAREMO SEMPRE INSIEME Ogni volta che prepari\nquesto personaggio, se hai in gioco 2 o pi\u00f9 altri\npersonaggi, ottieni 2 leggenda.",
+      "fullTextSections": [
+        "SAREMO SEMPRE INSIEME Ogni volta che prepari\nquesto personaggio, se hai in gioco 2 o pi\u00f9 altri\npersonaggi, ottieni 2 leggenda."
+      ],
+      "id": 218,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/2_07022df14fe89987aca4999cfdce64f329b4417d.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/2_8cad5e387448cf6307699e2bedc438455931e28b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/2_4300034c261611e2112db3c9283ae10a1bdcfc70.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Christopher Robin",
+      "number": 2,
+      "rarity": "Rara",
+      "simpleName": "christopher robin avventuriero",
+      "story": "Winnie the Pooh",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Eroe"
+      ],
+      "subtypesText": "Immaginato \u2022 Eroe",
+      "type": "Personaggio",
+      "version": "Avventuriero",
+      "willpower": 6
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Jake Parker"
+      ],
+      "artistsText": "Jake Parker",
+      "code": "3y",
+      "color": "Ambra",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 268053,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268053",
+        "cardmarketId": 745022,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Cobra-Bubbles-Just-a-Social-Worker?language=5",
+        "tcgPlayerId": 525118,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/525118"
+      },
+      "flavorText": "\u201cFammi capire bene. Il tuo \u2018magico\u2019 libro degli\nincantesimi \u00e8 stato trascinato via da una marea di\n\u2018magico\u2019 inchiostro?\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "4/204 \u2022 IT \u2022 2",
+      "fullName": "Cobra Bubbles - Un Semplice Assistente Sociale",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 220,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/4_38a318c8df41cf3d9031bbe75649248e10747b09.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/4_e47fef63db764cb46d6fa62f5401a97af90ccc57.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/4_fe834d3e758d6fcb5a480e8f2ebfe6b7dd9a293c.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Cobra Bubbles",
+      "number": 4,
+      "rarity": "Rara",
+      "simpleName": "cobra bubbles un semplice assistente sociale",
+      "story": "Lilo & Stitch",
+      "strength": 5,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Un Semplice Assistente Sociale",
+      "willpower": 9
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)",
+          "keyword": "Aiutante",
+          "reminderText": "Ogni volta che questo personaggio va all'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di un altro personaggio a tua scelta per questo turno.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Amber Kommavongsa"
+      ],
+      "artistsText": "Amber Kommavongsa",
+      "code": "3J",
+      "color": "Ambra",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 268319,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268319",
+        "cardmarketId": 745403,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Mulan-Free-Spirit?language=5",
+        "tcgPlayerId": 527715,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527715"
+      },
+      "flavorText": "Ogni cosa \u00e8 pi\u00f9 bella quando sei libera di essere\nte stessa.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "15/204 \u2022 IT \u2022 2",
+      "fullName": "Mulan - Spirito Libero",
+      "fullText": "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)",
+      "fullTextSections": [
+        "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)"
+      ],
+      "id": 231,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/15_e6f1bbf4c80f2315ab0f86cbe9f7deee1a9ed647.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/15_f704f91b70121efe3628c9e49258d574798e80ed.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/15_cd0dfb3b0225b78053213378dcbf69b600494907.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Aiutante"
+      ],
+      "lore": 2,
+      "name": "Mulan",
+      "number": 15,
+      "rarity": "Comune",
+      "reprintedAsIds": [
+        1946
+      ],
+      "simpleName": "mulan spirito libero",
+      "story": "Mulan",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Eroe",
+        "Principessa"
+      ],
+      "subtypesText": "Immaginato \u2022 Eroe \u2022 Principessa",
+      "type": "Personaggio",
+      "version": "Spirito Libero",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Kiersten Hale"
+      ],
+      "artistsText": "Kiersten Hale",
+      "code": "3M",
+      "color": "Ambra",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 268308,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268308",
+        "cardmarketId": 745405,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Piglet-Very-Small-Animal?language=5",
+        "tcgPlayerId": 527720,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527720"
+      },
+      "flavorText": "Per essere un animale cos\u00ec piccolo, ha un cuore\nincredibilmente grande.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "18/204 \u2022 IT \u2022 2",
+      "fullName": "Pimpi - Animale Molto Piccolo",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 234,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/18_f05e189201731ec2d75e4b5e0352133797b8e6c0.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/18_6e7d9e1641ef272111578cf14516443eb35f3364.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/18_0eaceac96374616149822fc43aa91bea8ef3283d.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Pimpi",
+      "number": 18,
+      "rarity": "Comune",
+      "simpleName": "pimpi animale molto piccolo",
+      "story": "Winnie the Pooh",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Animale Molto Piccolo",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Rimuovi fino a 2 danni da un personaggio a tua scelta.",
+          "fullText": "CAPELLI MAGICI \u27f3 \u2014 Rimuovi fino a 2 danni da\nun personaggio a tua scelta.",
+          "name": "CAPELLI MAGICI",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Aubrey Archer"
+      ],
+      "artistsText": "Aubrey Archer",
+      "code": "3O",
+      "color": "Ambra",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 268317,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268317",
+        "cardmarketId": 745031,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Rapunzel-Sunshine?language=5",
+        "tcgPlayerId": 527531,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527531"
+      },
+      "flavorText": "\u201cTutti noi possiamo rendere il mondo un po' pi\u00f9\nluminoso, a modo nostro.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "20/204 \u2022 IT \u2022 2",
+      "fullName": "Rapunzel - Raggio di Sole",
+      "fullText": "CAPELLI MAGICI \u27f3 \u2014 Rimuovi fino a 2 danni da\nun personaggio a tua scelta.",
+      "fullTextSections": [
+        "CAPELLI MAGICI \u27f3 \u2014 Rimuovi fino a 2 danni da\nun personaggio a tua scelta."
+      ],
+      "id": 236,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/20_f05b1d306c3431cb64aaa19c0312a94a114b9a33.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/20_aeffa83224dd79d3bcd5179c8ea5f825652bed16.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/20_20aeb4288977cdc2e82b152ee03a0ad0846a66d4.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Rapunzel",
+      "number": 20,
+      "rarity": "Comune",
+      "reprintedAsIds": [
+        1944
+      ],
+      "simpleName": "rapunzel raggio di sole",
+      "story": "Rapunzel - L'intreccio della torre",
+      "strength": 1,
+      "subtypes": [
+        "Immaginato",
+        "Eroe",
+        "Principessa"
+      ],
+      "subtypesText": "Immaginato \u2022 Eroe \u2022 Principessa",
+      "type": "Personaggio",
+      "version": "Raggio di Sole",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Giulia Riva"
+      ],
+      "artistsText": "Giulia Riva",
+      "code": "3Z",
+      "color": "Ambra",
+      "cost": 3,
+      "effects": [
+        "Esilia un personaggio a tua scelta con 5 \u00a4 o\nsuperiore."
+      ],
+      "externalLinks": {
+        "cardTraderId": 268402,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268402",
+        "cardmarketId": 745037,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Worlds-Greatest-Criminal-Mind?language=5",
+        "tcgPlayerId": 526209,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/526209"
+      },
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "31/204 \u2022 IT \u2022 2",
+      "fullName": "Oh, Rattigan!",
+      "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)\nEsilia un personaggio a tua scelta con 5 \u00a4 o\nsuperiore.",
+      "fullTextSections": [
+        "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+        "Esilia un personaggio a tua scelta con 5 \u00a4 o\nsuperiore."
+      ],
+      "id": 247,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/31_03205b32b8ea15aa8ad7d7e7a770d5e268458e5d.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/31_5ae857ed4b48bd6763304ab96325ce2ea18d3d11.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/31_280a333c589cb6f94755e0b5530dd047efdeed4f.jpg"
+      },
+      "inkwell": true,
+      "name": "Oh, Rattigan!",
+      "number": 31,
+      "rarity": "Rara",
+      "reprintedAsIds": [
+        1966
+      ],
+      "simpleName": "oh rattigan",
+      "story": "Basil l'investigatopo",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando questo personaggio viene esiliato in una sfida, riprendi in mano questa carta.",
+          "fullText": "\u00c8 TORNATO! Quando questo personaggio viene\nesiliato in una sfida, riprendi in mano questa carta.",
+          "name": "\u00c8 TORNATO!",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Ellie Horie"
+      ],
+      "artistsText": "Ellie Horie",
+      "code": "4b",
+      "color": "Ametista",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 268348,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268348",
+        "cardmarketId": 745416,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/HeiHei-Persistent-Presence?language=5",
+        "tcgPlayerId": 527736,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527736"
+      },
+      "flavorText": "Potere. Bellezza. Heihei.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "43/204 \u2022 IT \u2022 2",
+      "fullName": "Heihei - Presenza Persistente",
+      "fullText": "\u00c8 TORNATO! Quando questo personaggio viene\nesiliato in una sfida, riprendi in mano questa carta.",
+      "fullTextSections": [
+        "\u00c8 TORNATO! Quando questo personaggio viene\nesiliato in una sfida, riprendi in mano questa carta."
+      ],
+      "id": 259,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/43_953248282a9efa93e937e2e25ce1ac79dad102c3.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/43_ec805996d58b37bf714871d3367215112d7bb205.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/43_0054851ece1386182378144d38ba39999ce002fb.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Heihei",
+      "number": 43,
+      "rarity": "Non comune",
+      "simpleName": "heihei presenza persistente",
+      "story": "Oceania",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Alleato"
+      ],
+      "subtypesText": "Immaginato \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Presenza Persistente",
+      "willpower": 1
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, esilialo o riprendi in mano un tuo altro personaggio a tua scelta.",
+          "fullText": "INSEGUIRE IL CONIGLIO Quando giochi questo\npersonaggio, esilialo o riprendi in mano un tuo\naltro personaggio a tua scelta.",
+          "name": "INSEGUIRE IL CONIGLIO",
+          "type": "triggered"
+        },
+        {
+          "fullText": "Lesto (Questo personaggio pu\u00f2 sfidare nel turno in\ncui \u00e8 stato giocato.)",
+          "keyword": "Lesto",
+          "reminderText": "Questo personaggio pu\u00f2 sfidare nel turno in cui \u00e8 stato giocato.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Alice Pisoni"
+      ],
+      "artistsText": "Alice Pisoni",
+      "code": "4e",
+      "color": "Ametista",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 268431,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268431",
+        "cardmarketId": 745042,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Madam-Mim-Fox?language=5",
+        "tcgPlayerId": 521719,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/521719"
+      },
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "46/204 \u2022 IT \u2022 2",
+      "fullName": "Maga Mag\u00f2 - Volpe",
+      "fullText": "INSEGUIRE IL CONIGLIO Quando giochi questo\npersonaggio, esilialo o riprendi in mano un tuo\naltro personaggio a tua scelta.\nLesto (Questo personaggio pu\u00f2 sfidare nel turno in\ncui \u00e8 stato giocato.)",
+      "fullTextSections": [
+        "INSEGUIRE IL CONIGLIO Quando giochi questo\npersonaggio, esilialo o riprendi in mano un tuo\naltro personaggio a tua scelta.",
+        "Lesto (Questo personaggio pu\u00f2 sfidare nel turno in\ncui \u00e8 stato giocato.)"
+      ],
+      "id": 262,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/46_2d5357165f66c727cd31cea28a470eff6c753857.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/46_bbc4c71ed41f3d400d983860d2147293780ac3e6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/46_b9e224f4245f35ecd26f46d9a595cbaab902a52e.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Lesto"
+      ],
+      "lore": 1,
+      "name": "Maga Mag\u00f2",
+      "number": 46,
+      "rarity": "Rara",
+      "simpleName": "maga mag\u00f2 volpe",
+      "story": "La spada nella roccia",
+      "strength": 4,
+      "subtypes": [
+        "Classico",
+        "Cattivo",
+        "Incantatore"
+      ],
+      "subtypesText": "Classico \u2022 Cattivo \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Volpe",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Trasformazione 3 (Puoi pagare 3 \u2b21 per giocare questa carta\nsopra a uno dei tuoi personaggi chiamato Maga Mag\u00f2.)",
+          "keyword": "Trasformazione",
+          "keywordValue": "3",
+          "keywordValueNumber": 3,
+          "reminderText": "Puoi pagare 3 \u2b21 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Maga Mag\u00f2.",
+          "type": "keyword"
+        },
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Gioca un personaggio con costo 4 o inferiore, gratis. Quel personaggio ottiene Lesto. Alla fine del turno, esilialo. (Pu\u00f2 sfidare nel turno in cui viene giocato.)",
+          "fullText": "SOLO IL DEMONIO UGUAGLIARE MI PU\u00d2 \u27f3 \u2014 Gioca\nun personaggio con costo 4 o inferiore, gratis. Quel\npersonaggio ottiene Lesto. Alla fine del turno, esilialo.\n(Pu\u00f2 sfidare nel turno in cui viene giocato.)",
+          "name": "SOLO IL DEMONIO UGUAGLIARE MI PU\u00d2",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Man\u00e9 Kandalyan",
+        "Pix Smith"
+      ],
+      "artistsText": "Man\u00e9 Kandalyan / Pix Smith",
+      "code": "4g",
+      "color": "Ametista",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 268428,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268428",
+        "cardmarketId": 745418,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Madam-Mim-Rival-of-Merlin?language=5",
+        "tcgPlayerId": 527737,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527737"
+      },
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "48/204 \u2022 IT \u2022 2",
+      "fullName": "Maga Mag\u00f2 - Rivale di Merlino",
+      "fullText": "Trasformazione 3 (Puoi pagare 3 \u2b21 per giocare questa carta\nsopra a uno dei tuoi personaggi chiamato Maga Mag\u00f2.)\nSOLO IL DEMONIO UGUAGLIARE MI PU\u00d2 \u27f3 \u2014 Gioca\nun personaggio con costo 4 o inferiore, gratis. Quel\npersonaggio ottiene Lesto. Alla fine del turno, esilialo.\n(Pu\u00f2 sfidare nel turno in cui viene giocato.)",
+      "fullTextSections": [
+        "Trasformazione 3 (Puoi pagare 3 \u2b21 per giocare questa carta\nsopra a uno dei tuoi personaggi chiamato Maga Mag\u00f2.)",
+        "SOLO IL DEMONIO UGUAGLIARE MI PU\u00d2 \u27f3 \u2014 Gioca\nun personaggio con costo 4 o inferiore, gratis. Quel\npersonaggio ottiene Lesto. Alla fine del turno, esilialo.\n(Pu\u00f2 sfidare nel turno in cui viene giocato.)"
+      ],
+      "id": 264,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/48_a5227405ba02431cc619c630b6233304a033caa1.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/48_f67895c287d7b489fce3f23702f0c355e23e3753.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/48_d331fe66d018c59f6627a01a5c1fe4e5517fa700.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Trasformazione"
+      ],
+      "lore": 2,
+      "name": "Maga Mag\u00f2",
+      "number": 48,
+      "rarity": "Rara",
+      "simpleName": "maga mag\u00f2 rivale di merlino",
+      "story": "La spada nella roccia",
+      "strength": 2,
+      "subtypes": [
+        "Imbevuto",
+        "Cattivo",
+        "Incantatore"
+      ],
+      "subtypesText": "Imbevuto \u2022 Cattivo \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Rivale di Merlino",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, esilialo o riprendi in mano un tuo altro personaggio a tua scelta.",
+          "fullText": "ASPETTA E VEDRAI Quando giochi questo\npersonaggio, esilialo o riprendi in mano un tuo\naltro personaggio a tua scelta.",
+          "name": "ASPETTA E VEDRAI",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Brian Weisz"
+      ],
+      "artistsText": "Brian Weisz",
+      "code": "4h",
+      "color": "Ametista",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 268394,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268394",
+        "cardmarketId": 745044,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Madam-Mim-Snake?language=5",
+        "tcgPlayerId": 522651,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/522651"
+      },
+      "flavorText": "\u201cTi ho tra le mie spire, ormai!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "49/204 \u2022 IT \u2022 2",
+      "fullName": "Maga Mag\u00f2 - Serpente",
+      "fullText": "ASPETTA E VEDRAI Quando giochi questo\npersonaggio, esilialo o riprendi in mano un tuo\naltro personaggio a tua scelta.",
+      "fullTextSections": [
+        "ASPETTA E VEDRAI Quando giochi questo\npersonaggio, esilialo o riprendi in mano un tuo\naltro personaggio a tua scelta."
+      ],
+      "id": 265,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/49_bf049031099aa50fa1d600d6b26f9ebc863e6f8e.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/49_42361a83da3290dcf7151fffcdd5f33cc60abce1.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/49_508b4ef2ca9024c96e15b5e18908bc542136c853.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Maga Mag\u00f2",
+      "number": 49,
+      "rarity": "Non comune",
+      "simpleName": "maga mag\u00f2 serpente",
+      "story": "La spada nella roccia",
+      "strength": 3,
+      "subtypes": [
+        "Classico",
+        "Cattivo",
+        "Incantatore"
+      ],
+      "subtypesText": "Classico \u2022 Cattivo \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Serpente",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio e quando lascia il gioco, puoi pescare una carta.",
+          "fullText": "HOPPITI HIP! Quando giochi questo personaggio\ne quando lascia il gioco, puoi pescare una carta.",
+          "name": "HOPPITI HIP!",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Michaela Martin"
+      ],
+      "artistsText": "Michaela Martin",
+      "code": "4k",
+      "color": "Ametista",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 268418,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268418",
+        "cardmarketId": 745047,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Merlin-Rabbit?language=5",
+        "tcgPlayerId": 520939,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/520939"
+      },
+      "flavorText": "La giornata stava diventando a dir poco difficile.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "52/204 \u2022 IT \u2022 2",
+      "fullName": "Merlino - Coniglio",
+      "fullText": "HOPPITI HIP! Quando giochi questo personaggio\ne quando lascia il gioco, puoi pescare una carta.",
+      "fullTextSections": [
+        "HOPPITI HIP! Quando giochi questo personaggio\ne quando lascia il gioco, puoi pescare una carta."
+      ],
+      "id": 268,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/52_121f2c564f3de549556d4f88f67d8f19c304549b.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/52_50d3e71bf2356ad9774c16c5f70d3bf6e26db3e2.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/52_6406089e7cf8f0310eeb9a327794887ee41e35e6.jpg"
+      },
+      "inkwell": false,
+      "lore": 1,
+      "name": "Merlino",
+      "number": 52,
+      "rarity": "Rara",
+      "simpleName": "merlino coniglio",
+      "story": "La spada nella roccia",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Mentore",
+        "Incantatore"
+      ],
+      "subtypesText": "Classico \u2022 Mentore \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Coniglio",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "John Loren"
+      ],
+      "artistsText": "John Loren",
+      "code": "4r",
+      "color": "Ametista",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 268300,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268300",
+        "cardmarketId": 737794,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Winnie-the-Pooh-Hunny-Wizard?language=5",
+        "tcgPlayerId": 516327,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/516327"
+      },
+      "flavorText": "Aveva sempre sentito una certa affinit\u00e0 con il\nmiele. Entrambi erano dorati e dolci, e propensi a\ncacciarsi in situazioni appiccicose.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "59/204 \u2022 IT \u2022 2",
+      "fullName": "Winnie the Pooh - Mago del Miele",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 275,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/59_d82173be1225f146373378aa3104380a78d6f6b8.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/59_4cb15c159945be1d78935736f26aa813c89036c5.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/59_fcdc5e4c1a07a8b4c0f7d9c827c4084d536a621c.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Winnie the Pooh",
+      "number": 59,
+      "rarity": "Comune",
+      "reprintedAsIds": [
+        1977
+      ],
+      "simpleName": "winnie the pooh mago del miele",
+      "story": "Winnie the Pooh",
+      "strength": 5,
+      "subtypes": [
+        "Immaginato",
+        "Eroe",
+        "Incantatore"
+      ],
+      "subtypesText": "Immaginato \u2022 Eroe \u2022 Incantatore",
+      "type": "Personaggio",
+      "version": "Mago del Miele",
+      "willpower": 5
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Rob Di Salvo"
+      ],
+      "artistsText": "Rob Di Salvo",
+      "code": "4v",
+      "color": "Ametista",
+      "cost": 1,
+      "effects": [
+        "Un personaggio impegnato a tua scelta non si pu\u00f2\npreparare all'inizio del suo prossimo turno."
+      ],
+      "externalLinks": {
+        "cardTraderId": 268331,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268331",
+        "cardmarketId": 737796,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Im-Stuck?language=5",
+        "tcgPlayerId": 517032,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/517032"
+      },
+      "flavorText": "\u201cOh, rabbia \u2014 non di nuovo.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "63/204 \u2022 IT \u2022 2",
+      "fullName": "Sono Bloccato!",
+      "fullText": "Un personaggio impegnato a tua scelta non si pu\u00f2\npreparare all'inizio del suo prossimo turno.",
+      "fullTextSections": [
+        "Un personaggio impegnato a tua scelta non si pu\u00f2\npreparare all'inizio del suo prossimo turno."
+      ],
+      "id": 279,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/63_02921b2b2674846bef534d5fa963bfc9661081e9.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/63_c005a5450b24e5b55f75270ccac6e9777ab50c8d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/63_a83b07f255585e8066e17069295ad8a5ea8ee720.jpg"
+      },
+      "inkwell": true,
+      "name": "Sono Bloccato!",
+      "number": 63,
+      "rarity": "Comune",
+      "reprintedAsIds": [
+        1999
+      ],
+      "simpleName": "sono bloccato",
+      "story": "Winnie the Pooh",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Kuya Jaypi"
+      ],
+      "artistsText": "Kuya Jaypi",
+      "code": "4w",
+      "color": "Ametista",
+      "cost": 2,
+      "effects": [
+        "Un personaggio a tua scelta ottiene Sfidante +3 per questo\nturno. (Riceve +3 \u00a4 mentre sta sfidando.)"
+      ],
+      "externalLinks": {
+        "cardTraderId": 268322,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268322",
+        "cardmarketId": 745053,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Legend-of-the-Sword-in-the-Stone?language=5",
+        "tcgPlayerId": 526302,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/526302"
+      },
+      "flavorText": "Si narra che un d\u00ec l'Inghilterra fior\u00ec\nDi audaci cavalier",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "64/204 \u2022 IT \u2022 2",
+      "fullName": "La Leggenda della Spada nella Roccia",
+      "fullText": "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)\nUn personaggio a tua scelta ottiene Sfidante +3 per questo\nturno. (Riceve +3 \u00a4 mentre sta sfidando.)",
+      "fullTextSections": [
+        "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)",
+        "Un personaggio a tua scelta ottiene Sfidante +3 per questo\nturno. (Riceve +3 \u00a4 mentre sta sfidando.)"
+      ],
+      "id": 280,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/64_76a9893d12784b0c8b750492aa3cf8af027a4da9.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/64_b8eb11f6bfa64d78418ae0144020df98cdcb0663.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/64_eb4e25ecaee4e9b94fe8597c80a7fc93639e2c4e.jpg"
+      },
+      "inkwell": true,
+      "name": "La Leggenda della Spada nella Roccia",
+      "number": 64,
+      "rarity": "Comune",
+      "simpleName": "la leggenda della spada nella roccia",
+      "story": "La spada nella roccia",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Lauren Levering"
+      ],
+      "artistsText": "Lauren Levering",
+      "code": "54",
+      "color": "Smeraldo",
+      "cost": 3,
+      "effects": [
+        "Ogni avversario sceglie e scarta una carta. Pesca una\ncarta."
+      ],
+      "externalLinks": {
+        "cardTraderId": 268343,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268343",
+        "cardmarketId": 737808,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Hypnotize?language=5",
+        "tcgPlayerId": 518790,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/518790"
+      },
+      "flavorText": "\u201cGuardami negli occhi quando parlo con te.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "98/204 \u2022 IT \u2022 2",
+      "fullName": "Ipnotizzare",
+      "fullText": "Ogni avversario sceglie e scarta una carta. Pesca una\ncarta.",
+      "fullTextSections": [
+        "Ogni avversario sceglie e scarta una carta. Pesca una\ncarta."
+      ],
+      "id": 314,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/98_79b8a4973a48d9f5d79b7237ddd3e0e5028323f9.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/98_1a5761e8c90b3aec84ed982d35739571c641ecad.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/98_65944cc2a25dec5f6697c793e1c2acc959af92b3.jpg"
+      },
+      "inkwell": true,
+      "name": "Ipnotizzare",
+      "number": 98,
+      "rarity": "Comune",
+      "simpleName": "ipnotizzare",
+      "story": "Il libro della giungla",
+      "type": "Azione"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Man\u00e9 Kandalyan"
+      ],
+      "artistsText": "Man\u00e9 Kandalyan",
+      "code": "55",
+      "color": "Smeraldo",
+      "cost": 1,
+      "effects": [
+        "Un personaggio a tua scelta riceve +1 \u00a4 per questo\nturno. Pesca una carta."
+      ],
+      "externalLinks": {
+        "cardTraderId": 268344,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268344",
+        "cardmarketId": 745068,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Improvise?language=5",
+        "tcgPlayerId": 520863,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/520863"
+      },
+      "flavorText": "Shan-Yu: \u201cPare che tu sia a corto di idee.\u201d\nMulan: \u201cNon \u00e8 esatto!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "99/204 \u2022 IT \u2022 2",
+      "fullName": "Improvvisare",
+      "fullText": "Un personaggio a tua scelta riceve +1 \u00a4 per questo\nturno. Pesca una carta.",
+      "fullTextSections": [
+        "Un personaggio a tua scelta riceve +1 \u00a4 per questo\nturno. Pesca una carta."
+      ],
+      "id": 315,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/99_6fd43ab68ac96ad52c83d3c44ba6c836fd468ed3.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/99_7b20cdff4710fa4342aaf9f55505e97aba15f4a4.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/99_9367a0a4ca25d741932142d064aa265c9fa15b60.jpg"
+      },
+      "inkwell": true,
+      "name": "Improvvisare",
+      "number": 99,
+      "rarity": "Comune",
+      "reprintedAsIds": [
+        2032
+      ],
+      "simpleName": "improvvisare",
+      "story": "Mulan",
+      "type": "Azione"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Bill Robinson"
+      ],
+      "artistsText": "Bill Robinson",
+      "code": "5b",
+      "color": "Rubino",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 268357,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268357",
+        "cardmarketId": 745073,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Card-Soldiers-Full-Deck?language=5",
+        "tcgPlayerId": 525428,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/525428"
+      },
+      "flavorText": "Dovrete fare i conti anche con questa mano di\ncarte, prima o poi.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "105/204 \u2022 IT \u2022 2",
+      "fullName": "Carte Soldato - Mazzo Completo",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 321,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/105_42821b77ad7fb04c4ff8ea60df65abcafc7533d4.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/105_ed251b2709605a251d182e697f126835190c9fbb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/105_bbb2407d4d257fc2055e1860e907ccb6cf8388da.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Carte Soldato",
+      "number": 105,
+      "rarity": "Non comune",
+      "reprintedAsIds": [
+        2058
+      ],
+      "simpleName": "carte soldato mazzo completo",
+      "story": "Alice nel Paese delle Meraviglie",
+      "strength": 5,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Mazzo Completo",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Trasformazione 2 (Puoi pagare 2 \u2b21 per giocare questa\ncarta sopra a uno dei tuoi personaggi chiamato Minni.)",
+          "keyword": "Trasformazione",
+          "keywordValue": "2",
+          "keywordValueNumber": 2,
+          "reminderText": "Puoi pagare 2 \u2b21 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Minni.",
+          "type": "keyword"
+        },
+        {
+          "fullText": "Sfuggente (Solo altri personaggi con Sfuggente possono\nsfidare questo personaggio.)",
+          "keyword": "Sfuggente",
+          "reminderText": "Solo altri personaggi con Sfuggente possono sfidare questo personaggio.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Ogni volta che giochi una seconda azione in un turno, questo personaggio riceve +2 \u25ca per questo turno.",
+          "fullText": "AVVENTURA SOTTOMARINA Ogni volta che giochi una\nseconda azione in un turno, questo personaggio riceve\n+2 \u25ca per questo turno.",
+          "name": "AVVENTURA SOTTOMARINA",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Adam Fenton"
+      ],
+      "artistsText": "Adam Fenton",
+      "code": "5k",
+      "color": "Rubino",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 268430,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268430",
+        "cardmarketId": 737809,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Minnie-Mouse-Wide-Eyed-Diver?language=5",
+        "tcgPlayerId": 519169,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/519169"
+      },
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "114/204 \u2022 IT \u2022 2",
+      "fullName": "Minni - Subacquea Stupefatta",
+      "fullText": "Trasformazione 2 (Puoi pagare 2 \u2b21 per giocare questa\ncarta sopra a uno dei tuoi personaggi chiamato Minni.)\nSfuggente (Solo altri personaggi con Sfuggente possono\nsfidare questo personaggio.)\nAVVENTURA SOTTOMARINA Ogni volta che giochi una\nseconda azione in un turno, questo personaggio riceve\n+2 \u25ca per questo turno.",
+      "fullTextSections": [
+        "Trasformazione 2 (Puoi pagare 2 \u2b21 per giocare questa\ncarta sopra a uno dei tuoi personaggi chiamato Minni.)",
+        "Sfuggente (Solo altri personaggi con Sfuggente possono\nsfidare questo personaggio.)",
+        "AVVENTURA SOTTOMARINA Ogni volta che giochi una\nseconda azione in un turno, questo personaggio riceve\n+2 \u25ca per questo turno."
+      ],
+      "id": 330,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/114_50a71e582aa280d4eab769267e158e302caf04c7.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/114_e49226e76e0f4dde509ffe752195d24ea68e1f1f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/114_8002fca7e4764838c216675c851123f11e5cdd76.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Trasformazione",
+        "Sfuggente"
+      ],
+      "lore": 1,
+      "name": "Minni",
+      "number": 114,
+      "promoIds": [
+        674
+      ],
+      "rarity": "Rara",
+      "simpleName": "minni subacquea stupefatta",
+      "story": "Topolino e i suoi amici",
+      "strength": 2,
+      "subtypes": [
+        "Imbevuto",
+        "Eroe"
+      ],
+      "subtypesText": "Imbevuto \u2022 Eroe",
+      "type": "Personaggio",
+      "version": "Subacquea Stupefatta",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Gaku Kumatori"
+      ],
+      "artistsText": "Gaku Kumatori",
+      "code": "5z",
+      "color": "Rubino",
+      "cost": 2,
+      "effects": [
+        "Prepara un tuo personaggio danneggiato a tua scelta.\nNon pu\u00f2 andare all'avventura per il resto di questo\nturno. Pesca una carta."
+      ],
+      "externalLinks": {
+        "cardTraderId": 268328,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268328",
+        "cardmarketId": 745086,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Go-the-Distance?language=5",
+        "tcgPlayerId": 527242,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527242"
+      },
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "129/204 \u2022 IT \u2022 2",
+      "fullName": "Ce la Posso Fare",
+      "fullText": "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)\nPrepara un tuo personaggio danneggiato a tua scelta.\nNon pu\u00f2 andare all'avventura per il resto di questo\nturno. Pesca una carta.",
+      "fullTextSections": [
+        "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+        "Prepara un tuo personaggio danneggiato a tua scelta.\nNon pu\u00f2 andare all'avventura per il resto di questo\nturno. Pesca una carta."
+      ],
+      "id": 345,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/129_57e74f12e2330465abac5f92308ea7964f161071.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/129_3ab7d6838428a675fd47dba9e709ee06661f9764.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/129_0f012cbed3b0a4aadbcb2e49f01f7cfa33796150.jpg"
+      },
+      "inkwell": true,
+      "name": "Ce la Posso Fare",
+      "number": 129,
+      "rarity": "Comune",
+      "simpleName": "ce la posso fare",
+      "story": "Hercules",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Jake Parker"
+      ],
+      "artistsText": "Jake Parker",
+      "code": "5A",
+      "color": "Rubino",
+      "cost": 2,
+      "effects": [
+        "Infliggi 2 danni a un tuo personaggio a tua scelta per\ninfliggere 2 danni a un altro personaggio a tua scelta."
+      ],
+      "externalLinks": {
+        "cardTraderId": 268419,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268419",
+        "cardmarketId": 745087,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Teeth-and-Ambitions?language=5",
+        "tcgPlayerId": 527248,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527248"
+      },
+      "flavorText": "Ma in cambio di questa indulgenza,\nqualcosa mi aspetto da voi",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "130/204 \u2022 IT \u2022 2",
+      "fullName": "Affiliamo le Zanne",
+      "fullText": "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)\nInfliggi 2 danni a un tuo personaggio a tua scelta per\ninfliggere 2 danni a un altro personaggio a tua scelta.",
+      "fullTextSections": [
+        "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare\nquesta canzone gratis.)",
+        "Infliggi 2 danni a un tuo personaggio a tua scelta per\ninfliggere 2 danni a un altro personaggio a tua scelta."
+      ],
+      "id": 346,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/130_445352d895c4a649c0b3f7e14bb81f6efab221ca.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/130_a91852dd04079ee642f2fb4596123c03e3b3201c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/130_a874cd35e849bab431f7449f3e848fdf4b578918.jpg"
+      },
+      "inkwell": true,
+      "name": "Affiliamo le Zanne",
+      "number": 130,
+      "rarity": "Rara",
+      "simpleName": "affiliamo le zanne",
+      "story": "Il re lione",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Eva Widermann"
+      ],
+      "artistsText": "Eva Widermann",
+      "code": "5D",
+      "color": "Rubino",
+      "cost": 2,
+      "effects": [
+        "Un personaggio a tua scelta ottiene Sfuggente fino\nall'inizio del tuo prossimo turno. (Solo altri personaggi\ncon Sfuggente possono sfidarlo.)"
+      ],
+      "externalLinks": {
+        "cardTraderId": 268374,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268374",
+        "cardmarketId": 745088,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/You-Can-Fly?language=5",
+        "tcgPlayerId": 527243,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527243"
+      },
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "133/204 \u2022 IT \u2022 2",
+      "fullName": "Puoi Volar!",
+      "fullText": "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)\nUn personaggio a tua scelta ottiene Sfuggente fino\nall'inizio del tuo prossimo turno. (Solo altri personaggi\ncon Sfuggente possono sfidarlo.)",
+      "fullTextSections": [
+        "(Un personaggio con costo 2 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+        "Un personaggio a tua scelta ottiene Sfuggente fino\nall'inizio del tuo prossimo turno. (Solo altri personaggi\ncon Sfuggente possono sfidarlo.)"
+      ],
+      "id": 349,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/133_a68ae8af5ba87ab09b781a026efefac7fda4f22e.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/133_a4d403f95b0bc7bdaca2058383a9c37a4093def0.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/133_927646350b5efae9656519e5eaa6375aa7290076.jpg"
+      },
+      "inkwell": true,
+      "name": "Puoi Volar!",
+      "number": 133,
+      "rarity": "Non comune",
+      "reprintedAsIds": [
+        2067
+      ],
+      "simpleName": "puoi volar",
+      "story": "Le avventure di Peter Pan",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)",
+          "keyword": "Aiutante",
+          "reminderText": "Ogni volta che questo personaggio va all'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di un altro personaggio a tua scelta per questo turno.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Jake Parker"
+      ],
+      "artistsText": "Jake Parker",
+      "code": "5J",
+      "color": "Zaffiro",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 268287,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268287",
+        "cardmarketId": 745092,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Basil-Of-Baker-Street?language=5",
+        "tcgPlayerId": 525239,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/525239"
+      },
+      "flavorText": "\u201cChe marchingegno notevole! Se la sua luce viene\nrifratta attraverso questi, allora le immagini devono\ncomparire da qualche parte qui sotto.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "139/204 \u2022 IT \u2022 2",
+      "fullName": "Basil - Di Baker Street",
+      "fullText": "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)",
+      "fullTextSections": [
+        "Aiutante (Ogni volta che questo personaggio va\nall'avventura, puoi aggiungere la sua \u00a4 alla \u00a4 di\nun altro personaggio a tua scelta per questo turno.)"
+      ],
+      "id": 355,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/139_3fb087b0611203f8313c49fc892ba8e64fea7273.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/139_2f63da1f1f40dea9aff7b001ce4ef8d98e7c1d98.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/139_9d3755912e7fdb2e9a3122a4ad46beff8c05d119.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Aiutante"
+      ],
+      "lore": 1,
+      "name": "Basil",
+      "number": 139,
+      "rarity": "Comune",
+      "simpleName": "basil di baker street",
+      "story": "Basil l'investigatopo",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Eroe",
+        "Detective"
+      ],
+      "subtypesText": "Immaginato \u2022 Eroe \u2022 Detective",
+      "type": "Personaggio",
+      "version": "Di Baker Street",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "I tuoi personaggi con Attaccabrighe ottengono \u201c\u27f3 \u2014 ottieni 1 leggenda.\u201d",
+          "fullText": "VIENI QUI I tuoi personaggi con Attaccabrighe\nottengono \u201c\u27f3 \u2014 ottieni 1 leggenda.\u201d",
+          "name": "VIENI QUI",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Leonardo Giammichele"
+      ],
+      "artistsText": "Leonardo Giammichele",
+      "code": "5N",
+      "color": "Zaffiro",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 268354,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268354",
+        "cardmarketId": 737818,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Cogsworth-Talking-Clock?language=5",
+        "tcgPlayerId": 517592,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/517592"
+      },
+      "flavorText": "\u201cOra basta, stiamo esagerando. Sono io il\nresponsabile!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "143/204 \u2022 IT \u2022 2",
+      "fullName": "Tockins - Orologio Parlante",
+      "fullText": "VIENI QUI I tuoi personaggi con Attaccabrighe\nottengono \u201c\u27f3 \u2014 ottieni 1 leggenda.\u201d",
+      "fullTextSections": [
+        "VIENI QUI I tuoi personaggi con Attaccabrighe\nottengono \u201c\u27f3 \u2014 ottieni 1 leggenda.\u201d"
+      ],
+      "id": 359,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/143_af1325651f9ffd3c45e3c4576e8d20922e49e487.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/143_4e34451bf00763226fdf518fb760b273abe976bf.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/143_ecfead10c2b5bbaf26173b7651b3f92e7c2b9a84.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Tockins",
+      "number": 143,
+      "rarity": "Non comune",
+      "simpleName": "tockins orologio parlante",
+      "story": "La bella e la bestia",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Orologio Parlante",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Protetto (Gli avversari non possono scegliere\nquesto personaggio se non per sfidarlo.)",
+          "keyword": "Protetto",
+          "reminderText": "Gli avversari non possono scegliere questo personaggio se non per sfidarlo.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "R. la Barbera",
+        "L. Giammichele"
+      ],
+      "artistsNormalized": [
+        "Rosa la Barbera",
+        "Leonardo Giammichele"
+      ],
+      "artistsText": "R. la Barbera / L. Giammichele",
+      "code": "5Q",
+      "color": "Zaffiro",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 268285,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268285",
+        "cardmarketId": 745448,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Duke-Weaselton-Small-Time-Crook?language=5",
+        "tcgPlayerId": 527763,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527763"
+      },
+      "flavorText": "\u201cDonno-lesi. Duke Donnolesi.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "146/204 \u2022 IT \u2022 2",
+      "fullName": "Duke Weaselton - Ladruncolo da Quattro Soldi",
+      "fullText": "Protetto (Gli avversari non possono scegliere\nquesto personaggio se non per sfidarlo.)",
+      "fullTextSections": [
+        "Protetto (Gli avversari non possono scegliere\nquesto personaggio se non per sfidarlo.)"
+      ],
+      "id": 362,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/146_673148a6b55bb91f775634d3e219a54162382e99.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/146_3508a03a93866b07b7c8995dd61c6fd76b46e95c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/146_f618251a1eb79a48848537d67c0d0f169fa65e39.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Protetto"
+      ],
+      "lore": 2,
+      "name": "Duke Weaselton",
+      "number": 146,
+      "rarity": "Comune",
+      "simpleName": "duke weaselton ladruncolo da quattro soldi",
+      "story": "Zootropolis",
+      "strength": 1,
+      "subtypes": [
+        "Classico"
+      ],
+      "subtypesText": "Classico",
+      "type": "Personaggio",
+      "version": "Ladruncolo da Quattro Soldi",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Trasformazione 4 (Puoi pagare 4 \u2b21 per giocare questa\ncarta sopra a uno dei tuoi personaggi chiamato Gaston.)",
+          "keyword": "Trasformazione",
+          "keywordValue": "4",
+          "keywordValueNumber": 4,
+          "reminderText": "Puoi pagare 4 \u2b21 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Gaston.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Quando giochi questo personaggio, guarda le prime 3 carte del tuo mazzo. Puoi aggiungerne una alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+          "fullText": "CERVELLO SVILUPPATO Quando giochi questo\npersonaggio, guarda le prime 3 carte del tuo mazzo.\nPuoi aggiungerne una alla tua mano. Metti il resto in\nfondo al tuo mazzo in qualsiasi ordine.",
+          "name": "CERVELLO SVILUPPATO",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Matthew Robert Davies"
+      ],
+      "artistsText": "Matthew Robert Davies",
+      "code": "5R",
+      "color": "Zaffiro",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 268442,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268442",
+        "cardmarketId": 737819,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Gaston-Intellectual-Powerhouse?language=5",
+        "tcgPlayerId": 516406,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/516406"
+      },
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "147/204 \u2022 IT \u2022 2",
+      "fullName": "Gaston - Concentrato di Intelligenza",
+      "fullText": "Trasformazione 4 (Puoi pagare 4 \u2b21 per giocare questa\ncarta sopra a uno dei tuoi personaggi chiamato Gaston.)\nCERVELLO SVILUPPATO Quando giochi questo\npersonaggio, guarda le prime 3 carte del tuo mazzo.\nPuoi aggiungerne una alla tua mano. Metti il resto in\nfondo al tuo mazzo in qualsiasi ordine.",
+      "fullTextSections": [
+        "Trasformazione 4 (Puoi pagare 4 \u2b21 per giocare questa\ncarta sopra a uno dei tuoi personaggi chiamato Gaston.)",
+        "CERVELLO SVILUPPATO Quando giochi questo\npersonaggio, guarda le prime 3 carte del tuo mazzo.\nPuoi aggiungerne una alla tua mano. Metti il resto in\nfondo al tuo mazzo in qualsiasi ordine."
+      ],
+      "id": 363,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/147_52e113322ae78f5804bdc1b2f5ae67d22b8d8792.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/147_42a67e4402be62d0d9716f523b7bdfae8703a62f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/147_24bbadbb695de97fde6557522fd8ac585f4c346b.jpg"
+      },
+      "inkwell": false,
+      "keywordAbilities": [
+        "Trasformazione"
+      ],
+      "lore": 3,
+      "name": "Gaston",
+      "number": 147,
+      "rarity": "Rara",
+      "simpleName": "gaston concentrato di intelligenza",
+      "story": "La bella e la bestia",
+      "strength": 4,
+      "subtypes": [
+        "Imbevuto",
+        "Cattivo"
+      ],
+      "subtypesText": "Imbevuto \u2022 Cattivo",
+      "type": "Personaggio",
+      "version": "Concentrato di Intelligenza",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, rimuovi fino a 1 danno da un tuo personaggio a tua scelta.",
+          "fullText": "IMPARO IN FRETTA Quando giochi questo\npersonaggio, rimuovi fino a 1 danno da un tuo\npersonaggio a tua scelta.",
+          "name": "IMPARO IN FRETTA",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "R. la Barbera",
+        "L. Giammichele"
+      ],
+      "artistsNormalized": [
+        "Rosa la Barbera",
+        "Leonardo Giammichele"
+      ],
+      "artistsText": "R. la Barbera / L. Giammichele",
+      "code": "5V",
+      "color": "Zaffiro",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 268330,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268330",
+        "cardmarketId": 745451,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Jasmine-Heir-of-Agrabah?language=5",
+        "tcgPlayerId": 527765,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527765"
+      },
+      "flavorText": "Sar\u00e0 anche giovane, ma ha lo spirito di una vera\nleader.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "151/204 \u2022 IT \u2022 2",
+      "fullName": "Jasmine - Erede di Agrabah",
+      "fullText": "IMPARO IN FRETTA Quando giochi questo\npersonaggio, rimuovi fino a 1 danno da un tuo\npersonaggio a tua scelta.",
+      "fullTextSections": [
+        "IMPARO IN FRETTA Quando giochi questo\npersonaggio, rimuovi fino a 1 danno da un tuo\npersonaggio a tua scelta."
+      ],
+      "id": 367,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/151_3881db8b81193340a49cd2b784f343f10458bc68.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/151_6d6be482846cd1cb613dfda4f311390bfbd4b965.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/151_3b32ca926c4c38da7cf156ff4557e732872a6e54.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Jasmine",
+      "number": 151,
+      "rarity": "Comune",
+      "reprintedAsIds": [
+        2091
+      ],
+      "simpleName": "jasmine erede di agrabah",
+      "story": "Aladdin",
+      "strength": 1,
+      "subtypes": [
+        "Classico",
+        "Eroe",
+        "Principessa"
+      ],
+      "subtypesText": "Classico \u2022 Eroe \u2022 Principessa",
+      "type": "Personaggio",
+      "version": "Erede di Agrabah",
+      "willpower": 2
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Giulia Riva"
+      ],
+      "artistsText": "Giulia Riva",
+      "code": "62",
+      "color": "Zaffiro",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 268321,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268321",
+        "cardmarketId": 745454,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Rabbit-Reluctant-Host?language=5",
+        "tcgPlayerId": 527767,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527767"
+      },
+      "flavorText": "Pooh: \u201cNon c'\u00e8 proprio nessuno qui?\u201d\nTappo: \u201cNessuno!\u201d\nPooh: \u201cCi deve essere qualcuno\u2026 perch\u00e9 qualcuno\ndeve aver detto \u2018Nessuno\u2019.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "158/204 \u2022 IT \u2022 2",
+      "fullName": "Tappo - Padrone di Casa Riluttante",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 374,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/158_5919d3faa8b155fbf310a9acc32a7f429075497b.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/158_f7fed08616a44d79df334fb770e0c0847b0aff82.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/158_19bd09a192b0367c0c0e536019cd9f6809d384b8.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Tappo",
+      "number": 158,
+      "rarity": "Comune",
+      "simpleName": "tappo padrone di casa riluttante",
+      "story": "Winnie the Pooh",
+      "strength": 4,
+      "subtypes": [
+        "Classico",
+        "Alleato"
+      ],
+      "subtypesText": "Classico \u2022 Alleato",
+      "type": "Personaggio",
+      "version": "Padrone di Casa Riluttante",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, puoi esiliare un oggetto a tua scelta.",
+          "fullText": "LA SCELTA \u00c8 NOSTRA Quando giochi questo\npersonaggio, puoi esiliare un oggetto a tua scelta.",
+          "name": "LA SCELTA \u00c8 NOSTRA",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Grace Tran"
+      ],
+      "artistsText": "Grace Tran",
+      "code": "6i",
+      "color": "Acciaio",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 268296,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268296",
+        "cardmarketId": 745462,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Benja-Guardian-of-the-Dragon-Gem?language=5",
+        "tcgPlayerId": 527773,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527773"
+      },
+      "flavorText": "\u201cConfondi impeto con abilit\u00e0.\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "174/204 \u2022 IT \u2022 2",
+      "fullName": "Benja - Custode della Gemma Drago",
+      "fullText": "LA SCELTA \u00c8 NOSTRA Quando giochi questo\npersonaggio, puoi esiliare un oggetto a tua scelta.",
+      "fullTextSections": [
+        "LA SCELTA \u00c8 NOSTRA Quando giochi questo\npersonaggio, puoi esiliare un oggetto a tua scelta."
+      ],
+      "id": 390,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/174_67144c873a20633a656c61b53a27dd429d06c20f.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/174_b86e1e2e03c6e778adfc967b8cd710d8a3f18f48.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/174_a243a18763bc2911f9ea2d6691ae73148d547528.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Benja",
+      "number": 174,
+      "rarity": "Comune",
+      "reprintedAsIds": [
+        2116
+      ],
+      "simpleName": "benja custode della gemma drago",
+      "story": "Raya e l'ultimo drago",
+      "strength": 2,
+      "subtypes": [
+        "Classico",
+        "Mentore",
+        "Re"
+      ],
+      "subtypesText": "Classico \u2022 Mentore \u2022 Re",
+      "type": "Personaggio",
+      "version": "Custode della Gemma Drago",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Quando giochi questo personaggio, un personaggio a tua scelta ottiene Resistere +1 fino all'inizio del tuo prossimo turno. (Il danno che gli viene inflitto \u00e8 ridotto di 1.)",
+          "fullText": "FALLO BRILLARE Quando giochi questo personaggio, un\npersonaggio a tua scelta ottiene Resistere +1 fino all'inizio\ndel tuo prossimo turno. (Il danno che gli viene inflitto \u00e8\nridotto di 1.)",
+          "name": "FALLO BRILLARE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Cristian Romero"
+      ],
+      "artistsText": "Cristian Romero",
+      "code": "6w",
+      "color": "Acciaio",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 268315,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268315",
+        "cardmarketId": 745466,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Magic-Broom-Industrial-Model?language=5",
+        "tcgPlayerId": 527777,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527777"
+      },
+      "flavorText": "Persino con una capacit\u00e0 di carico di \u201cdavvero, un sacco\u201d,\nha comunque i suoi limiti in caso di inondazioni magiche.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "188/204 \u2022 IT \u2022 2",
+      "fullName": "Scopa Magica - Modello Industriale",
+      "fullText": "FALLO BRILLARE Quando giochi questo personaggio, un\npersonaggio a tua scelta ottiene Resistere +1 fino all'inizio\ndel tuo prossimo turno. (Il danno che gli viene inflitto \u00e8\nridotto di 1.)",
+      "fullTextSections": [
+        "FALLO BRILLARE Quando giochi questo personaggio, un\npersonaggio a tua scelta ottiene Resistere +1 fino all'inizio\ndel tuo prossimo turno. (Il danno che gli viene inflitto \u00e8\nridotto di 1.)"
+      ],
+      "id": 404,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/188_924e256dafd3ca2ae9da855e2fe29d9a23d6bbe9.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/188_cd166e367d37d342e6b7d78c3a0ad4a933f97174.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/188_1fd998afdf0b1f386d15893bb7334235a7c392c8.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Scopa Magica",
+      "number": 188,
+      "rarity": "Comune",
+      "simpleName": "scopa magica modello industriale",
+      "story": "L'apprendista stregone",
+      "strength": 2,
+      "subtypes": [
+        "Immaginato",
+        "Scopa"
+      ],
+      "subtypesText": "Immaginato \u2022 Scopa",
+      "type": "Personaggio",
+      "version": "Modello Industriale",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Hedvig H\u00e4ggman-Sund"
+      ],
+      "artistsNormalized": [
+        "Hedvig H-S"
+      ],
+      "artistsText": "Hedvig H\u00e4ggman-Sund",
+      "code": "6G",
+      "color": "Acciaio",
+      "cost": 2,
+      "effects": [
+        "Un personaggio a tua scelta ottiene Sfidante +2 e\nResistere +2 per questo turno. (Riceve +2 \u00a4 mentre sta\nsfidando. Il danno che gli viene inflitto \u00e8 ridotto di 2.)"
+      ],
+      "externalLinks": {
+        "cardTraderId": 268283,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268283",
+        "cardmarketId": 745471,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Charge?language=5",
+        "tcgPlayerId": 527639,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527639"
+      },
+      "flavorText": "A volte occorre agire con delicatezza. Questa non \u00e8 una\ndi quelle volte.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "198/204 \u2022 IT \u2022 2",
+      "fullName": "Carica!",
+      "fullText": "Un personaggio a tua scelta ottiene Sfidante +2 e\nResistere +2 per questo turno. (Riceve +2 \u00a4 mentre sta\nsfidando. Il danno che gli viene inflitto \u00e8 ridotto di 2.)",
+      "fullTextSections": [
+        "Un personaggio a tua scelta ottiene Sfidante +2 e\nResistere +2 per questo turno. (Riceve +2 \u00a4 mentre sta\nsfidando. Il danno che gli viene inflitto \u00e8 ridotto di 2.)"
+      ],
+      "id": 414,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/198_af0031541ebcbe9f8acead0047337649d19e1724.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/198_f5c3180085ac14d1e16b504690af21347a92efc0.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/198_990d4422bd9aafedd5eb97661de70c2eabe8f074.jpg"
+      },
+      "inkwell": true,
+      "name": "Carica!",
+      "number": 198,
+      "rarity": "Comune",
+      "simpleName": "carica",
+      "story": "Raya e l'ultimo drago",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "R. la Barbera",
+        "L. Giammichele"
+      ],
+      "artistsNormalized": [
+        "Rosa la Barbera",
+        "Leonardo Giammichele"
+      ],
+      "artistsText": "R. la Barbera / L. Giammichele",
+      "code": "6H",
+      "color": "Acciaio",
+      "cost": 3,
+      "effects": [
+        "Infliggi 2 danni a un personaggio a tua scelta. Pesca\nuna carta."
+      ],
+      "externalLinks": {
+        "cardTraderId": 268341,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268341",
+        "cardmarketId": 745117,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Let-the-Storm-Rage-On?language=5",
+        "tcgPlayerId": 527239,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527239"
+      },
+      "flavorText": "Da oggi il freddo \u00e8 casa mia",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "199/204 \u2022 IT \u2022 2",
+      "fullName": "Ecco Qua la Tempesta",
+      "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)\nInfliggi 2 danni a un personaggio a tua scelta. Pesca\nuna carta.",
+      "fullTextSections": [
+        "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per\ncantare questa canzone gratis.)",
+        "Infliggi 2 danni a un personaggio a tua scelta. Pesca\nuna carta."
+      ],
+      "id": 415,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/199_3d5afc7e316a5658687686518c1f5d4a9a3e2022.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/199_d1d6b70930851611ee93de599aed034e581a9677.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/199_5c2d57402a0306010bdfa99dfaa3feaea6891a63.jpg"
+      },
+      "inkwell": false,
+      "name": "Ecco Qua la Tempesta",
+      "number": 199,
+      "rarity": "Comune",
+      "simpleName": "ecco qua la tempesta",
+      "story": "Frozen",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Pablo Hidalgo",
+        "Jeff Merghart"
+      ],
+      "artistsText": "Pablo Hidalgo / Jeff Merghart",
+      "code": "6I",
+      "color": "Acciaio",
+      "cost": 2,
+      "effects": [
+        "Un personaggio a tua scelta pu\u00f2 sfidare i personaggi\npreparati per questo turno."
+      ],
+      "externalLinks": {
+        "cardTraderId": 268379,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268379",
+        "cardmarketId": 745118,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Pick-a-Fight?language=5",
+        "tcgPlayerId": 527296,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527296"
+      },
+      "flavorText": "\u201cSpacco tutto!\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "200/204 \u2022 IT \u2022 2",
+      "fullName": "Attaccare Briga",
+      "fullText": "Un personaggio a tua scelta pu\u00f2 sfidare i personaggi\npreparati per questo turno.",
+      "fullTextSections": [
+        "Un personaggio a tua scelta pu\u00f2 sfidare i personaggi\npreparati per questo turno."
+      ],
+      "id": 416,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/200_a9a9e696791f5a7fe3381c6c1370d94dd0ea2e0a.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/200_e65c536a381868be635d829d6b2998d516eaa05c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/200_55bc34e18a999f5503fe8dd92ea04d9f31dd8e12.jpg"
+      },
+      "inkwell": false,
+      "name": "Attaccare Briga",
+      "number": 200,
+      "rarity": "Non comune",
+      "simpleName": "attaccare briga",
+      "story": "Ralph Spaccatutto",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per cantare questa canzone gratis.",
+          "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per cantare questa\ncanzone gratis.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Jared Nickerl",
+        "Alex Accorsi"
+      ],
+      "artistsText": "Jared Nickerl / Alex Accorsi",
+      "code": "6J",
+      "color": "Acciaio",
+      "cost": 3,
+      "effects": [
+        "Infliggi danno a un personaggio a tua scelta pari al numero di\npersonaggi che hai in gioco."
+      ],
+      "externalLinks": {
+        "cardTraderId": 268417,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268417",
+        "cardmarketId": 745119,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Strength-of-a-Raging-Fire?language=5",
+        "tcgPlayerId": 527238,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527238"
+      },
+      "flavorText": "La foresta \u00e8 calma\nMa nasconde in s\u00e9\nMille e pi\u00f9 minacce",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "201/204 \u2022 IT \u2022 2",
+      "fullName": "Potente Come un Vulcano Attivo",
+      "fullText": "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per cantare questa\ncanzone gratis.)\nInfliggi danno a un personaggio a tua scelta pari al numero di\npersonaggi che hai in gioco.",
+      "fullTextSections": [
+        "(Un personaggio con costo 3 o superiore pu\u00f2 \u27f3 per cantare questa\ncanzone gratis.)",
+        "Infliggi danno a un personaggio a tua scelta pari al numero di\npersonaggi che hai in gioco."
+      ],
+      "id": 417,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/201_43769452fe3f8090ca1b64db2f022ec817da9f5f.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/201_2636756b7091cf3b41086ddcadc22ab275d87b6e.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/201_63a2697533efbc316b204d416166d0b5b560674e.jpg"
+      },
+      "inkwell": true,
+      "name": "Potente Come un Vulcano Attivo",
+      "number": 201,
+      "promoIds": [
+        2186
+      ],
+      "rarity": "Rara",
+      "reprintedAsIds": [
+        2137
+      ],
+      "simpleName": "potente come un vulcano attivo",
+      "story": "Mulan",
+      "subtypes": [
+        "Canzone"
+      ],
+      "subtypesText": "Canzone",
+      "type": "Azione"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Un personaggio a tua scelta ottiene Resistere +1 fino all'inizio del tuo prossimo turno. (Il danno che gli viene inflitto \u00e8 ridotto di 1.)",
+          "fullText": "PROTEZIONE \u27f3 \u2014 Un personaggio a tua scelta ottiene\nResistere +1 fino all'inizio del tuo prossimo turno. (Il\ndanno che gli viene inflitto \u00e8 ridotto di 1.)",
+          "name": "PROTEZIONE",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2025-09-05"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2023-12-08",
+      "artists": [
+        "Gaku Kumatori"
+      ],
+      "artistsText": "Gaku Kumatori",
+      "code": "6L",
+      "color": "Acciaio",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 268381,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268381",
+        "cardmarketId": 745120,
+        "cardmarketUrl": "https://www.cardmarket.com/it/Lorcana/Products/Singles/Rise-of-the-Floodborn/Mouse-Armor?language=5",
+        "tcgPlayerId": 520862,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/520862"
+      },
+      "flavorText": "Costruita da mani piccolissime per grandissimi cuori\nvalorosi.",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "203/204 \u2022 IT \u2022 2",
+      "fullName": "Armatura per Topi",
+      "fullText": "PROTEZIONE \u27f3 \u2014 Un personaggio a tua scelta ottiene\nResistere +1 fino all'inizio del tuo prossimo turno. (Il\ndanno che gli viene inflitto \u00e8 ridotto di 1.)",
+      "fullTextSections": [
+        "PROTEZIONE \u27f3 \u2014 Un personaggio a tua scelta ottiene\nResistere +1 fino all'inizio del tuo prossimo turno. (Il\ndanno che gli viene inflitto \u00e8 ridotto di 1.)"
+      ],
+      "id": 419,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/it/set2/203_e22a9c5144a68f125c674fd2702c1a08b85a163c.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/it/set2/203_d474c9f99ecd9cdb8ae976dfd6a241a0fd0bb65a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/it/set2/203_bc00b349c926b518979b221329b2bf0433b47696.jpg"
+      },
+      "inkwell": false,
+      "name": "Armatura per Topi",
+      "number": 203,
+      "rarity": "Non comune",
+      "simpleName": "armatura per topi",
+      "story": "Basil l'investigatopo",
+      "type": "Oggetto"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+---
+description: LorcanaJSON card data handling conventions
+globs: "**/*.{ts,vue}"
+alwaysApply: false
+---
+
+# Card Data Handling
+
+## Loading Set Data
+
+Use the centralized loader:
+
+```typescript
+import { loadSetData, availableSets } from './data/sets/index'
+
+// Load set data
+const data = await loadSetData(setCode, language)
+const cards = data.cards  // Array of CardData
+```
+
+## CardData Interface
+
+Key fields from LorcanaJSON:
+
+```typescript
+interface CardData {
+  id: number           // Unique ID (consistent across languages)
+  name: string         // Card name
+  fullName: string     // "Name - Version"
+  cost: number         // Ink cost
+  color: string        // Amber, Amethyst, Emerald, Ruby, Sapphire, Steel
+  rarity: string       // Common, Uncommon, Rare, Super Rare, Legendary, Enchanted
+  type: string         // Character, Item, Action, Song, Location
+  
+  // Character only
+  strength?: number
+  willpower?: number
+  lore?: number
+  
+  inkwell: boolean     // Can be inked
+  fullText?: string    // Card text
+  images: { full: string }
+}
+```
+
+## Rarity Localization
+
+Rarity names vary by language. Use the `rarityMapping`:
+
+```typescript
+const rarityMapping: Record<string, Record<string, string>> = {
+  en: { Common: 'Common', Uncommon: 'Uncommon', ... },
+  de: { Common: 'Gewöhnlich', Uncommon: 'Ungewöhnlich', ... },
+  // ...
+}
+
+const localizedRarity = rarityMapping[language][englishRarity]
+```
+
+## Location Cards
+
+Detect by type (varies by language):
+
+```typescript
+const locationTypes = ['Location', 'Ort', 'Lieu', 'Luogo']
+const isLocation = locationTypes.includes(card.type)
+```

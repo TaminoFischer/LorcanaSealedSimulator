@@ -1,0 +1,2257 @@
+{
+  "prereleaseDate": "2025-05-30",
+  "releaseDate": "2025-06-06",
+  "hasAllCards": true,
+  "type": "quest",
+  "number": 2,
+  "allowedInFormats": {
+    "Core": {
+      "allowed": false
+    },
+    "Infinity": {
+      "allowed": false
+    }
+  },
+  "allowedInTournamentsFromDate": null,
+  "name": "Die Luminari Chroniken: \u00dcberfall auf den Palast",
+  "code": "Q2",
+  "metadata": {
+    "formatVersion": "2.3.2",
+    "generatedOn": "2025-12-18T20:20:09",
+    "language": "de"
+  },
+  "cards": [
+    {
+      "abilities": [
+        {
+          "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)",
+          "keyword": "Wendig",
+          "reminderText": "Nur Charaktere mit Wendig k\u00f6nnen diesen Charakter herausfordern.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Wenn Dschafar diesen Charakter ausspielt, w\u00e4hlen alle Luminari je einen ihrer Charaktere, einen ihrer Gegenst\u00e4nde und einen ihrer Orte und verbannen diese.",
+          "fullText": "SIMULTANER SCHLAG Wenn Dschafar diesen\nCharakter ausspielt, w\u00e4hlen alle Luminari je einen\nihrer Charaktere, einen ihrer Gegenst\u00e4nde und\neinen ihrer Orte und verbannen diese.",
+          "name": "SIMULTANER SCHLAG",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Carlos Ruiz"
+      ],
+      "artistsText": "Carlos Ruiz",
+      "code": "uA",
+      "color": "",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 334375,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334375",
+        "cardmarketId": 828111,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Metal-Scorpion-Deadly-Statue?language=3",
+        "tcgPlayerId": 634273,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634273"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "1/35 \u2022 DE \u2022 Q2",
+      "fullName": "Metallskorpion - T\u00f6dliche Statue",
+      "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)\nSIMULTANER SCHLAG Wenn Dschafar diesen\nCharakter ausspielt, w\u00e4hlen alle Luminari je einen\nihrer Charaktere, einen ihrer Gegenst\u00e4nde und\neinen ihrer Orte und verbannen diese.",
+      "fullTextSections": [
+        "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)",
+        "SIMULTANER SCHLAG Wenn Dschafar diesen\nCharakter ausspielt, w\u00e4hlen alle Luminari je einen\nihrer Charaktere, einen ihrer Gegenst\u00e4nde und\neinen ihrer Orte und verbannen diese."
+      ],
+      "id": 1896,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/1_aa7e6963f19cbbc4ce782b6e96394774839385b5.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/1_7434b5f1b31f6aa9c09411095e44cc1435221333.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Wendig"
+      ],
+      "lore": 2,
+      "name": "Metallskorpion",
+      "number": 1,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "metallskorpion todliche statue",
+      "story": "Lorcana",
+      "strength": 8,
+      "subtypes": [
+        "Koloss"
+      ],
+      "subtypesText": "Koloss",
+      "type": "Charakter",
+      "version": "T\u00f6dliche Statue",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn Dschafar diesen Charakter ausspielt, stiehlt er \u201eDie neu geschmiedete Krone\u201c.",
+          "fullText": "BRING SIE MIR Wenn Dschafar diesen Charakter\nausspielt, stiehlt er \u201eDie neu geschmiedete Krone\u201c.",
+          "name": "BRING SIE MIR",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Anderson Mahanski"
+      ],
+      "artistsText": "Anderson Mahanski",
+      "code": "uB",
+      "color": "",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 334388,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334388",
+        "cardmarketId": 828112,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Palace-Guard-Crown-Hunter?language=3",
+        "tcgPlayerId": 634279,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634279"
+      },
+      "flavorText": "\u201eAch, ja. Ich nehme das.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "2/35 \u2022 DE \u2022 Q2",
+      "fullName": "Palastwache - Kronenj\u00e4ger",
+      "fullText": "BRING SIE MIR Wenn Dschafar diesen Charakter\nausspielt, stiehlt er \u201eDie neu geschmiedete Krone\u201c.",
+      "fullTextSections": [
+        "BRING SIE MIR Wenn Dschafar diesen Charakter\nausspielt, stiehlt er \u201eDie neu geschmiedete Krone\u201c."
+      ],
+      "id": 1897,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/2_24888f1f951d8c08e0567c583854e452c39c844c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/2_9212382ce77bdedeff5d72083fa85e1278a8693f.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Palastwache",
+      "number": 2,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "palastwache kronenjager",
+      "story": "Aladdin",
+      "strength": 2,
+      "subtypes": [
+        "Sagengestalt",
+        "Verb\u00fcndeter"
+      ],
+      "subtypesText": "Sagengestalt \u2022 Verb\u00fcndeter",
+      "type": "Charakter",
+      "version": "Kronenj\u00e4ger",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Besch\u00fctzen (Gegnerische Charaktere m\u00fcssen beim\nHerausfordern von Dschafars Charakteren zuerst seine\nCharaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)",
+          "keyword": "Besch\u00fctzen",
+          "reminderText": "Gegnerische Charaktere m\u00fcssen beim Herausfordern von Dschafars Charakteren zuerst seine Charaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Dieser Charakter kommt ersch\u00f6pft ins Spiel.",
+          "fullText": "DSCHAFARS W\u00c4CHTER Dieser Charakter kommt ersch\u00f6pft\nins Spiel.",
+          "name": "DSCHAFARS W\u00c4CHTER",
+          "type": "static"
+        },
+        {
+          "effect": "Solange dieser Charakter ersch\u00f6pft ist, k\u00f6nnen Dschafars Orte nicht herausgefordert werden.",
+          "fullText": "ALARM SCHLAGEN Solange dieser Charakter ersch\u00f6pft ist,\nk\u00f6nnen Dschafars Orte nicht herausgefordert werden.",
+          "name": "ALARM SCHLAGEN",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Diogo Saito"
+      ],
+      "artistsText": "Diogo Saito",
+      "code": "uC",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 334385,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334385",
+        "cardmarketId": 828113,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Iago-Raucous-Lookout?language=3",
+        "tcgPlayerId": 634284,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634284"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "3/35 \u2022 DE \u2022 Q2",
+      "fullName": "Jago - Lauter Wachposten",
+      "fullText": "Besch\u00fctzen (Gegnerische Charaktere m\u00fcssen beim\nHerausfordern von Dschafars Charakteren zuerst seine\nCharaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)\nDSCHAFARS W\u00c4CHTER Dieser Charakter kommt ersch\u00f6pft\nins Spiel.\nALARM SCHLAGEN Solange dieser Charakter ersch\u00f6pft ist,\nk\u00f6nnen Dschafars Orte nicht herausgefordert werden.",
+      "fullTextSections": [
+        "Besch\u00fctzen (Gegnerische Charaktere m\u00fcssen beim\nHerausfordern von Dschafars Charakteren zuerst seine\nCharaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)",
+        "DSCHAFARS W\u00c4CHTER Dieser Charakter kommt ersch\u00f6pft\nins Spiel.",
+        "ALARM SCHLAGEN Solange dieser Charakter ersch\u00f6pft ist,\nk\u00f6nnen Dschafars Orte nicht herausgefordert werden."
+      ],
+      "id": 1898,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/3_79c65464f5b59788fb4eff5948ac06dd7e0b6cd5.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/3_03e9d772cd4b4a50ac5e8aca43b8cdb4e9574b11.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Besch\u00fctzen"
+      ],
+      "lore": 1,
+      "name": "Jago",
+      "number": 3,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "jago lauter wachposten",
+      "story": "Aladdin",
+      "strength": 4,
+      "subtypes": [
+        "Traumgestalt",
+        "Verb\u00fcndeter"
+      ],
+      "subtypesText": "Traumgestalt \u2022 Verb\u00fcndeter",
+      "type": "Charakter",
+      "version": "Lauter Wachposten",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Besch\u00fctzen (Gegnerische Charaktere m\u00fcssen\nbeim Herausfordern von Dschafars Charakteren\nzuerst seine Charaktere mit Besch\u00fctzen w\u00e4hlen,\nwenn m\u00f6glich.)",
+          "keyword": "Besch\u00fctzen",
+          "reminderText": "Gegnerische Charaktere m\u00fcssen beim Herausfordern von Dschafars Charakteren zuerst seine Charaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Dieser Charakter kommt ersch\u00f6pft ins Spiel.",
+          "fullText": "DSCHAFARS W\u00c4CHTER Dieser Charakter kommt\nersch\u00f6pft ins Spiel.",
+          "name": "DSCHAFARS W\u00c4CHTER",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Omar Lozano"
+      ],
+      "artistsText": "Omar Lozano",
+      "code": "uD",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 334394,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334394",
+        "cardmarketId": 828114,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Razoul-Unyielding-Guard?language=3",
+        "tcgPlayerId": 634286,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634286"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "4/35 \u2022 DE \u2022 Q2",
+      "fullName": "Rasul - Unnachgiebiger W\u00e4chter",
+      "fullText": "Besch\u00fctzen (Gegnerische Charaktere m\u00fcssen\nbeim Herausfordern von Dschafars Charakteren\nzuerst seine Charaktere mit Besch\u00fctzen w\u00e4hlen,\nwenn m\u00f6glich.)\nDSCHAFARS W\u00c4CHTER Dieser Charakter kommt\nersch\u00f6pft ins Spiel.",
+      "fullTextSections": [
+        "Besch\u00fctzen (Gegnerische Charaktere m\u00fcssen\nbeim Herausfordern von Dschafars Charakteren\nzuerst seine Charaktere mit Besch\u00fctzen w\u00e4hlen,\nwenn m\u00f6glich.)",
+        "DSCHAFARS W\u00c4CHTER Dieser Charakter kommt\nersch\u00f6pft ins Spiel."
+      ],
+      "id": 1899,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/4_e1efa657badabc0e1f5fa2986690922289040901.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/4_92fef0c45dd9e2aa203b5aa4a5d13b1cb258db41.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Besch\u00fctzen"
+      ],
+      "lore": 1,
+      "name": "Rasul",
+      "number": 4,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "rasul unnachgiebiger wachter",
+      "story": "Aladdin",
+      "strength": 4,
+      "subtypes": [
+        "Traumgestalt",
+        "Verb\u00fcndeter",
+        "Kapit\u00e4n"
+      ],
+      "subtypesText": "Traumgestalt \u2022 Verb\u00fcndeter \u2022 Kapit\u00e4n",
+      "type": "Charakter",
+      "version": "Unnachgiebiger W\u00e4chter",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Luminari k\u00f6nnen keine F\u00e4higkeiten von Kampfpl\u00e4tzen nutzen.",
+          "fullText": "STR\u00d6MENDER SAND Luminari k\u00f6nnen keine\nF\u00e4higkeiten von Kampfpl\u00e4tzen nutzen.",
+          "name": "STR\u00d6MENDER SAND",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Stefano Zanchi"
+      ],
+      "artistsText": "Stefano Zanchi",
+      "code": "uE",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 334392,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334392",
+        "cardmarketId": 828115,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Treasure-Guardian-Illusionary-Protector?language=3",
+        "tcgPlayerId": 634288,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634288"
+      },
+      "flavorText": "\u201eOh je, haben sich die Regeln ge\u00e4ndert? Wie\nfurchtbar traurig \u2026 f\u00fcr dich.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "5/35 \u2022 DE \u2022 Q2",
+      "fullName": "H\u00fcter des Schatzes - Illusion\u00e4rer Besch\u00fctzer",
+      "fullText": "STR\u00d6MENDER SAND Luminari k\u00f6nnen keine\nF\u00e4higkeiten von Kampfpl\u00e4tzen nutzen.",
+      "fullTextSections": [
+        "STR\u00d6MENDER SAND Luminari k\u00f6nnen keine\nF\u00e4higkeiten von Kampfpl\u00e4tzen nutzen."
+      ],
+      "id": 1900,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/5_892aaed5bdefa0719abadc048a3a68b7342a1fbc.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/5_18ff730f0dce235183dafbb617880780a5532195.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "H\u00fcter des Schatzes",
+      "number": 5,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "huter des schatzes illusionarer beschutzer",
+      "story": "Aladdin",
+      "strength": 3,
+      "subtypes": [
+        "Illusion"
+      ],
+      "subtypesText": "Illusion",
+      "type": "Charakter",
+      "version": "Illusion\u00e4rer Besch\u00fctzer",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn Dschafar diesen Charakter ausspielt, spielt er alle Mechanische- Schlange-Gegenstandskarten aus seinem Ablagestapel kostenlos aus.",
+          "fullText": "KEHRT ZU MIR ZUR\u00dcCK! Wenn Dschafar diesen\nCharakter ausspielt, spielt er alle Mechanische-\nSchlange-Gegenstandskarten aus seinem Ablagestapel\nkostenlos aus.",
+          "name": "KEHRT ZU MIR ZUR\u00dcCK!",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luigi Aim\u00e8"
+      ],
+      "artistsText": "Luigi Aim\u00e8",
+      "code": "uF",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 334391,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334391",
+        "cardmarketId": 828116,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Jafar-Spectral-Sorcerer?language=3",
+        "tcgPlayerId": 634293,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634293"
+      },
+      "flavorText": "\u201eDu hast nicht wirklich geglaubt, dass das hier zu Ende\nsei, oder? Verneige dich vor wahrer Macht!\u201c",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "6/35 \u2022 DE \u2022 Q2",
+      "fullName": "Dschafar - Spektraler Magier",
+      "fullText": "KEHRT ZU MIR ZUR\u00dcCK! Wenn Dschafar diesen\nCharakter ausspielt, spielt er alle Mechanische-\nSchlange-Gegenstandskarten aus seinem Ablagestapel\nkostenlos aus.",
+      "fullTextSections": [
+        "KEHRT ZU MIR ZUR\u00dcCK! Wenn Dschafar diesen\nCharakter ausspielt, spielt er alle Mechanische-\nSchlange-Gegenstandskarten aus seinem Ablagestapel\nkostenlos aus."
+      ],
+      "id": 1901,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/6_41001c1c1a585be7ac48eeda56ba59e3018222c6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/6_b1c083abe21e336d534b3ec62c09fdc6e9431354.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Dschafar",
+      "number": 6,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "dschafar spektraler magier",
+      "story": "Aladdin",
+      "strength": 5,
+      "subtypes": [
+        "Schurke",
+        "Illusion",
+        "Magier"
+      ],
+      "subtypesText": "Schurke \u2022 Illusion \u2022 Magier",
+      "type": "Charakter",
+      "version": "Spektraler Magier",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn Dschafar diesen Charakter ausspielt und falls alle Luminari je einen ersch\u00f6pften Charakter im Spiel haben, sammelt er 3 Legenden.",
+          "fullText": "PERFEKTES TIMING Wenn Dschafar diesen Charakter\nausspielt und falls alle Luminari je einen ersch\u00f6pften\nCharakter im Spiel haben, sammelt er 3 Legenden.",
+          "name": "PERFEKTES TIMING",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Gonzalo Kenny"
+      ],
+      "artistsText": "Gonzalo Kenny",
+      "code": "uG",
+      "color": "",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 334390,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334390",
+        "cardmarketId": 828117,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Genie-Towering-Phantom?language=3",
+        "tcgPlayerId": 634294,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634294"
+      },
+      "flavorText": "\u201eBestaune die Macht meiner Magie. Dieser Dschinni\ngeh\u00f6rt mir!\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "7/35 \u2022 DE \u2022 Q2",
+      "fullName": "Dschinni - Gewaltiges Gespenst",
+      "fullText": "PERFEKTES TIMING Wenn Dschafar diesen Charakter\nausspielt und falls alle Luminari je einen ersch\u00f6pften\nCharakter im Spiel haben, sammelt er 3 Legenden.",
+      "fullTextSections": [
+        "PERFEKTES TIMING Wenn Dschafar diesen Charakter\nausspielt und falls alle Luminari je einen ersch\u00f6pften\nCharakter im Spiel haben, sammelt er 3 Legenden."
+      ],
+      "id": 1902,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/7_a905adb0b77b9c76452fd4ca8a59cbc4f76d88a3.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/7_8163cbb4c47c219f2989958a74c069adb770eea0.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Dschinni",
+      "number": 7,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "dschinni gewaltiges gespenst",
+      "story": "Aladdin",
+      "strength": 3,
+      "subtypes": [
+        "Verb\u00fcndeter",
+        "Illusion"
+      ],
+      "subtypesText": "Verb\u00fcndeter \u2022 Illusion",
+      "type": "Charakter",
+      "version": "Gewaltiges Gespenst",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn Dschafar diesen Charakter ausspielt, w\u00e4hlen alle Luminari je 1 Karte aus ihrer Hand und werfen sie ab.",
+          "fullText": "ABGABEN ZAHLEN Wenn Dschafar diesen\nCharakter ausspielt, w\u00e4hlen alle Luminari je 1\nKarte aus ihrer Hand und werfen sie ab.",
+          "name": "ABGABEN ZAHLEN",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Grace Woo"
+      ],
+      "artistsText": "Grace Woo",
+      "code": "uH",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 334371,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334371",
+        "cardmarketId": 828118,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/The-Sultan-Spectral-Ruler?language=3",
+        "tcgPlayerId": 634295,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634295"
+      },
+      "flavorText": "\u201eJetzt kniet er vor mir.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "8/35 \u2022 DE \u2022 Q2",
+      "fullName": "Der Sultan - Spektraler Herrscher",
+      "fullText": "ABGABEN ZAHLEN Wenn Dschafar diesen\nCharakter ausspielt, w\u00e4hlen alle Luminari je 1\nKarte aus ihrer Hand und werfen sie ab.",
+      "fullTextSections": [
+        "ABGABEN ZAHLEN Wenn Dschafar diesen\nCharakter ausspielt, w\u00e4hlen alle Luminari je 1\nKarte aus ihrer Hand und werfen sie ab."
+      ],
+      "id": 1903,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/8_fbebdf5ae3a887bce10451243f8b360c5fbe81d6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/8_047df5a98ed17736f13b75d43007a2fdc429b873.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Der Sultan",
+      "number": 8,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "der sultan spektraler herrscher",
+      "story": "Aladdin",
+      "strength": 3,
+      "subtypes": [
+        "Verb\u00fcndeter",
+        "K\u00f6nig",
+        "Illusion"
+      ],
+      "subtypesText": "Verb\u00fcndeter \u2022 K\u00f6nig \u2022 Illusion",
+      "type": "Charakter",
+      "version": "Spektraler Herrscher",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Jedes Mal, wenn dieser Charakter erkundet, zieht Dschafar eine Karte.",
+          "fullText": "HIER DR\u00dcBEN! Jedes Mal, wenn dieser Charakter\nerkundet, zieht Dschafar eine Karte.",
+          "name": "HIER DR\u00dcBEN!",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Ian MacDonald"
+      ],
+      "artistsText": "Ian MacDonald",
+      "code": "uI",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 334396,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334396",
+        "cardmarketId": 828119,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Jasmine-Ephemeral-Princess?language=3",
+        "tcgPlayerId": 634297,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634297"
+      },
+      "flavorText": "\u201eDiese Version mag zwar weniger substanzreich sein als\ndie echte Prinzessin, aber sie ist trotzdem recht n\u00fctzlich.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "9/35 \u2022 DE \u2022 Q2",
+      "fullName": "Jasmin - Verg\u00e4ngliche Prinzessin",
+      "fullText": "HIER DR\u00dcBEN! Jedes Mal, wenn dieser Charakter\nerkundet, zieht Dschafar eine Karte.",
+      "fullTextSections": [
+        "HIER DR\u00dcBEN! Jedes Mal, wenn dieser Charakter\nerkundet, zieht Dschafar eine Karte."
+      ],
+      "id": 1904,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/9_3037a335775ce59d1aba7b204af10abdd9399426.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/9_34dca773deddc4c1db49a7f4f3dad2fdf17ab474.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Jasmin",
+      "number": 9,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "jasmin vergangliche prinzessin",
+      "story": "Aladdin",
+      "strength": 2,
+      "subtypes": [
+        "Held",
+        "Prinzessin",
+        "Illusion"
+      ],
+      "subtypesText": "Held \u2022 Prinzessin \u2022 Illusion",
+      "type": "Charakter",
+      "version": "Verg\u00e4ngliche Prinzessin",
+      "willpower": 7
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn Dschafar diesen Charakter ausspielt, f\u00fcgt er jedem gegnerischen besch\u00e4digten Charakter 2 Schaden zu.",
+          "fullText": "SCHMUTZIGE TRICKS Wenn Dschafar diesen Charakter\nausspielt, f\u00fcgt er jedem gegnerischen besch\u00e4digten\nCharakter 2 Schaden zu.",
+          "name": "SCHMUTZIGE TRICKS",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "James Rey Sanchez"
+      ],
+      "artistsText": "James Rey Sanchez",
+      "code": "uJ",
+      "color": "",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 334398,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334398",
+        "cardmarketId": 828120,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Gazeem-Ruthless-Ruffian?language=3",
+        "tcgPlayerId": 634299,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634299"
+      },
+      "flavorText": "\u201eWas ihm an Manieren fehlt, macht er durch reine\nGrausamkeit wett.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "10/35 \u2022 DE \u2022 Q2",
+      "fullName": "Gazzim - R\u00fccksichtsloser R\u00fcpel",
+      "fullText": "SCHMUTZIGE TRICKS Wenn Dschafar diesen Charakter\nausspielt, f\u00fcgt er jedem gegnerischen besch\u00e4digten\nCharakter 2 Schaden zu.",
+      "fullTextSections": [
+        "SCHMUTZIGE TRICKS Wenn Dschafar diesen Charakter\nausspielt, f\u00fcgt er jedem gegnerischen besch\u00e4digten\nCharakter 2 Schaden zu."
+      ],
+      "id": 1905,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/10_ddc8317899cdfcaab51b783c3c03c0e9366c2464.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/10_09453729d2acf645abd9d6ff0199b34f2cea0eac.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Gazzim",
+      "number": 10,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "gazzim rucksichtsloser rupel",
+      "story": "Aladdin",
+      "strength": 4,
+      "subtypes": [
+        "Traumgestalt"
+      ],
+      "subtypesText": "Traumgestalt",
+      "type": "Charakter",
+      "version": "R\u00fccksichtsloser R\u00fcpel",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)",
+          "keyword": "Wendig",
+          "reminderText": "Nur Charaktere mit Wendig k\u00f6nnen diesen Charakter herausfordern.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Jedes Mal, wenn dieser Charakter erkundet, stiehlt Dschafar \u201eDie neu geschmiedete Krone\u201c.",
+          "fullText": "HAB DICH! Jedes Mal, wenn dieser Charakter\nerkundet, stiehlt Dschafar \u201eDie neu\ngeschmiedete Krone\u201c.",
+          "name": "HAB DICH!",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Eva Widermann"
+      ],
+      "artistsText": "Eva Widermann",
+      "code": "uK",
+      "color": "",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 333079,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/333079",
+        "cardmarketId": 828121,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Iago-Crown-Seeker?language=3",
+        "tcgPlayerId": 631973,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/631973"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "11/35 \u2022 DE \u2022 Q2",
+      "fullName": "Jago - Kronensucher",
+      "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)\nHAB DICH! Jedes Mal, wenn dieser Charakter\nerkundet, stiehlt Dschafar \u201eDie neu\ngeschmiedete Krone\u201c.",
+      "fullTextSections": [
+        "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)",
+        "HAB DICH! Jedes Mal, wenn dieser Charakter\nerkundet, stiehlt Dschafar \u201eDie neu\ngeschmiedete Krone\u201c."
+      ],
+      "id": 1906,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/11_e4e651c507c2a152a0abba0e6a7a0cfce64dc967.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/11_d262c8cdb9b3e41c94b01978b4a16a29b454cfe8.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Wendig"
+      ],
+      "lore": 2,
+      "name": "Jago",
+      "number": 11,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "jago kronensucher",
+      "story": "Aladdin",
+      "strength": 3,
+      "subtypes": [
+        "Traumgestalt",
+        "Verb\u00fcndeter"
+      ],
+      "subtypesText": "Traumgestalt \u2022 Verb\u00fcndeter",
+      "type": "Charakter",
+      "version": "Kronensucher",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Die Luminari k\u00f6nnen in ihrem Zug je 3 \u2b21 bezahlen um diesen Charakter zu verbannen.",
+          "fullText": "GEHEIME SCHWACHSTELLE Die Luminari k\u00f6nnen in\nihrem Zug je 3 \u2b21 bezahlen um diesen Charakter zu\nverbannen.",
+          "name": "GEHEIME SCHWACHSTELLE",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Carlos Ruiz"
+      ],
+      "artistsText": "Carlos Ruiz",
+      "code": "uL",
+      "color": "",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 334367,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334367",
+        "cardmarketId": 828122,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Monumental-Scarab-Skittering-Statue?language=3",
+        "tcgPlayerId": 634304,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634304"
+      },
+      "flavorText": "\u201eGenau das Richtige, um mit Sch\u00e4dlingen wie dir fertig\nzu werden!\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "12/35 \u2022 DE \u2022 Q2",
+      "fullName": "Riesiger Skarab\u00e4us - Flitzende Statue",
+      "fullText": "GEHEIME SCHWACHSTELLE Die Luminari k\u00f6nnen in\nihrem Zug je 3 \u2b21 bezahlen um diesen Charakter zu\nverbannen.",
+      "fullTextSections": [
+        "GEHEIME SCHWACHSTELLE Die Luminari k\u00f6nnen in\nihrem Zug je 3 \u2b21 bezahlen um diesen Charakter zu\nverbannen."
+      ],
+      "id": 1907,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/12_3dc2faeeced3e7c43d571b9c4e2b8e90e5ac1e12.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/12_2318f9dd68967b71d67edf4928651e680ae27f56.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Riesiger Skarab\u00e4us",
+      "number": 12,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "riesiger skarabaus flitzende statue",
+      "story": "Lorcana",
+      "strength": 8,
+      "subtypes": [
+        "Koloss"
+      ],
+      "subtypesText": "Koloss",
+      "type": "Charakter",
+      "version": "Flitzende Statue",
+      "willpower": 8
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn Dschafar diesen Charakter ausspielt, f\u00fcgt er jedem gegnerischen ersch\u00f6pften Charakter 3 Schaden zu.",
+          "fullText": "DER SCHATTEN DER SCHLANGE Wenn Dschafar diesen\nCharakter ausspielt, f\u00fcgt er jedem gegnerischen\nersch\u00f6pften Charakter 3 Schaden zu.",
+          "name": "DER SCHATTEN DER SCHLANGE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Diego Machuca"
+      ],
+      "artistsText": "Diego Machuca",
+      "code": "uM",
+      "color": "",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 334400,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334400",
+        "cardmarketId": 828123,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Gargantuan-Cobra-Slithering-Statue?language=3",
+        "tcgPlayerId": 634306,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634306"
+      },
+      "flavorText": "\u201eSeht die Wunder der wahren Macht! Sogar den Stein\nkann ich beherrschen!\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "13/35 \u2022 DE \u2022 Q2",
+      "fullName": "Gigantische Kobra - Schl\u00e4ngelnde Statue",
+      "fullText": "DER SCHATTEN DER SCHLANGE Wenn Dschafar diesen\nCharakter ausspielt, f\u00fcgt er jedem gegnerischen\nersch\u00f6pften Charakter 3 Schaden zu.",
+      "fullTextSections": [
+        "DER SCHATTEN DER SCHLANGE Wenn Dschafar diesen\nCharakter ausspielt, f\u00fcgt er jedem gegnerischen\nersch\u00f6pften Charakter 3 Schaden zu."
+      ],
+      "id": 1908,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/13_0fb5667d8ac271016d4b55c515bc200a722f6a20.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/13_54f9b2abb03fbaac2e23342ca9f817339bc21f9d.jpg"
+      },
+      "inkwell": true,
+      "lore": 3,
+      "name": "Gigantische Kobra",
+      "number": 13,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "gigantische kobra schlangelnde statue",
+      "story": "Lorcana",
+      "strength": 7,
+      "subtypes": [
+        "Koloss"
+      ],
+      "subtypesText": "Koloss",
+      "type": "Charakter",
+      "version": "Schl\u00e4ngelnde Statue",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Dieser Charakter kann nicht von besch\u00e4digten Charakteren herausgefordert werden.",
+          "fullText": "FURCHTERREGENDER BLICK Dieser Charakter kann nicht\nvon besch\u00e4digten Charakteren herausgefordert werden.",
+          "name": "FURCHTERREGENDER BLICK",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Diego Machuca"
+      ],
+      "artistsText": "Diego Machuca",
+      "code": "uN",
+      "color": "",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 334350,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334350",
+        "cardmarketId": 828124,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Tiger-Behemoth-Hulking-Statue?language=3",
+        "tcgPlayerId": 634308,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634308"
+      },
+      "flavorText": "\u201eDie W\u00e4chter des Palastes sind nicht gut auf\nEindringlinge zu sprechen. Betrachte dies als Warnung.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "14/35 \u2022 DE \u2022 Q2",
+      "fullName": "Tiger Behemoth - Massige Statue",
+      "fullText": "FURCHTERREGENDER BLICK Dieser Charakter kann nicht\nvon besch\u00e4digten Charakteren herausgefordert werden.",
+      "fullTextSections": [
+        "FURCHTERREGENDER BLICK Dieser Charakter kann nicht\nvon besch\u00e4digten Charakteren herausgefordert werden."
+      ],
+      "id": 1909,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/14_df4c0b82a0f59f890e4af1bca83a4796e12d297b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/14_1827e6f52892c79f1dcbf8c6d47ba8228b30b417.jpg"
+      },
+      "inkwell": true,
+      "lore": 3,
+      "name": "Tiger Behemoth",
+      "number": 14,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "tiger behemoth massige statue",
+      "story": "Lorcana",
+      "strength": 7,
+      "subtypes": [
+        "Koloss"
+      ],
+      "subtypesText": "Koloss",
+      "type": "Charakter",
+      "version": "Massige Statue",
+      "willpower": 8
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Shutianyi Li"
+      ],
+      "artistsText": "Shutianyi Li",
+      "code": "uO",
+      "color": "",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 334348,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334348",
+        "cardmarketId": 828125,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Abu-Cheeky-Phantasm?language=3",
+        "tcgPlayerId": 634407,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634407"
+      },
+      "flavorText": "\u201eNun ja, er ist nervig. Wie sch\u00f6n, dass es dir\naufgefallen ist. Ich wollte, dass diese Illusion so\nkorrekt wie m\u00f6glich ist.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "15/35 \u2022 DE \u2022 Q2",
+      "fullName": "Abu - Freches Gespenst",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 1910,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/15_814b8e125e69da08371fd3a60cda0322de430993.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/15_1b91dc14ccdfaa7ed1a9fb7d9854a2d99b9d56dc.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Abu",
+      "number": 15,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "abu freches gespenst",
+      "story": "Aladdin",
+      "strength": 6,
+      "subtypes": [
+        "Verb\u00fcndeter",
+        "Illusion"
+      ],
+      "subtypesText": "Verb\u00fcndeter \u2022 Illusion",
+      "type": "Charakter",
+      "version": "Freches Gespenst",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen diesen\nCharakter herausfordern.)",
+          "keyword": "Wendig",
+          "reminderText": "Nur Charaktere mit Wendig k\u00f6nnen diesen Charakter herausfordern.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Malia Ewart"
+      ],
+      "artistsText": "Malia Ewart",
+      "code": "uP",
+      "color": "",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 334346,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334346",
+        "cardmarketId": 828126,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Aladdin-Misleading-Phantom?language=3",
+        "tcgPlayerId": 634411,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634411"
+      },
+      "flavorText": "\u201eDas Beste an dieser Illusion? Sie kennt ihren Platz.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "16/35 \u2022 DE \u2022 Q2",
+      "fullName": "Aladdin - Irref\u00fchrendes Phantom",
+      "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen diesen\nCharakter herausfordern.)",
+      "fullTextSections": [
+        "Wendig (Nur Charaktere mit Wendig k\u00f6nnen diesen\nCharakter herausfordern.)"
+      ],
+      "id": 1911,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/16_692fe02a8e268fd03ef5418501df9755b8d4681e.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/16_c3021459bfa6f28b6897271feabbc18863dcd013.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Wendig"
+      ],
+      "lore": 1,
+      "name": "Aladdin",
+      "number": 16,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "aladdin irrefuhrendes phantom",
+      "story": "Aladdin",
+      "strength": 4,
+      "subtypes": [
+        "Held",
+        "Illusion"
+      ],
+      "subtypesText": "Held \u2022 Illusion",
+      "type": "Charakter",
+      "version": "Irref\u00fchrendes Phantom",
+      "willpower": 2
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Marc Perez"
+      ],
+      "artistsText": "Marc Perez",
+      "code": "uQ",
+      "color": "",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 334344,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334344",
+        "cardmarketId": 828127,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Basil-Shadow-Sleuth?language=3",
+        "tcgPlayerId": 634414,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634414"
+      },
+      "flavorText": "\u201eIch muss zugeben, er hat einen gro\u00dfartigen\nVerstand \u2013 f\u00fcr eine Maus.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "17/35 \u2022 DE \u2022 Q2",
+      "fullName": "Basil - Schattenhafter Detektiv",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 1912,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/17_dfc1b4b7ac460cbda700181302ab2fde6980356e.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/17_357d213de7546765d4bed07d1df3b7509b05eefb.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Basil",
+      "number": 17,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "basil schattenhafter detektiv",
+      "story": "Basil, der gro\u00dfe M\u00e4usedetektiv",
+      "strength": 3,
+      "subtypes": [
+        "Held",
+        "Illusion",
+        "Detektiv"
+      ],
+      "subtypesText": "Held \u2022 Illusion \u2022 Detektiv",
+      "type": "Charakter",
+      "version": "Schattenhafter Detektiv",
+      "willpower": 2
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jonathan Livslyst"
+      ],
+      "artistsText": "Jonathan Livslyst",
+      "code": "uR",
+      "color": "",
+      "cost": 2,
+      "effects": [
+        "Dschafar f\u00fcgt jedem gegnerischen Charakter 1\nSchaden zu. Lege danach diese Karte verdeckt in\nseinen Tintenvorrat."
+      ],
+      "externalLinks": {
+        "cardTraderId": 334342,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334342",
+        "cardmarketId": 828128,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Sandblast?language=3",
+        "tcgPlayerId": 634432,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634432"
+      },
+      "flavorText": "\u201eDie Lage wird langsam ungem\u00fctlich, nicht wahr?\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "18/35 \u2022 DE \u2022 Q2",
+      "fullName": "Flut aus Sand",
+      "fullText": "Dschafar f\u00fcgt jedem gegnerischen Charakter 1\nSchaden zu. Lege danach diese Karte verdeckt in\nseinen Tintenvorrat.",
+      "fullTextSections": [
+        "Dschafar f\u00fcgt jedem gegnerischen Charakter 1\nSchaden zu. Lege danach diese Karte verdeckt in\nseinen Tintenvorrat."
+      ],
+      "id": 1913,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/18_34e6b65dba07a438f2f33ccd0e4d9f1fb1ea0e92.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/18_b14dfe6786613cd0c418c11d0de3f7dacf101822.jpg"
+      },
+      "inkwell": true,
+      "name": "Flut aus Sand",
+      "number": 18,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "flut aus sand",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Diogo Saito"
+      ],
+      "artistsText": "Diogo Saito",
+      "code": "uS",
+      "color": "",
+      "cost": 3,
+      "effects": [
+        "Dschafars Orte verlieren bis zu Beginn seines n\u00e4chsten\nZuges Beh\u00fctet und k\u00f6nnen es bis dahin nicht erhalten.",
+        "Die Luminari d\u00fcrfen bis zu einen Ort von Dschafar\nausw\u00e4hlen und verbannen."
+      ],
+      "externalLinks": {
+        "cardTraderId": 334359,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334359",
+        "cardmarketId": 828129,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Destructive-Misstep?language=3",
+        "tcgPlayerId": 634433,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634433"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "19/35 \u2022 DE \u2022 Q2",
+      "fullName": "Vernichtender Fehltritt",
+      "fullText": "Dschafars Orte verlieren bis zu Beginn seines n\u00e4chsten\nZuges Beh\u00fctet und k\u00f6nnen es bis dahin nicht erhalten.\nDie Luminari d\u00fcrfen bis zu einen Ort von Dschafar\nausw\u00e4hlen und verbannen.",
+      "fullTextSections": [
+        "Dschafars Orte verlieren bis zu Beginn seines n\u00e4chsten\nZuges Beh\u00fctet und k\u00f6nnen es bis dahin nicht erhalten.",
+        "Die Luminari d\u00fcrfen bis zu einen Ort von Dschafar\nausw\u00e4hlen und verbannen."
+      ],
+      "id": 1914,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/19_0982abf0096ad983021bda8a8ad59e0127db3548.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/19_6727f55efdf0f2e6e4a2a6eeef6082f149fde7f3.jpg"
+      },
+      "inkwell": true,
+      "name": "Vernichtender Fehltritt",
+      "number": 19,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "vernichtender fehltritt",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Pietro B. Zemelo",
+        "Theonidas"
+      ],
+      "artistsNormalized": [
+        "Pietro B. Zemelo",
+        "Andrew Theophilopoulos"
+      ],
+      "artistsText": "Pietro B. Zemelo / Theonidas",
+      "code": "uT",
+      "color": "",
+      "cost": 4,
+      "effects": [
+        "Alle Luminari w\u00e4hlen je einen ihrer Gegenst\u00e4nde oder\nOrte und verbannen ihn."
+      ],
+      "externalLinks": {
+        "cardTraderId": 334357,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334357",
+        "cardmarketId": 828130,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Disastrous-Sandstorm?language=3",
+        "tcgPlayerId": 634437,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634437"
+      },
+      "flavorText": "\u201eDu musst tief graben, um das zur\u00fcckzubekommen!\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "20/35 \u2022 DE \u2022 Q2",
+      "fullName": "Verheerender Sandsturm",
+      "fullText": "Alle Luminari w\u00e4hlen je einen ihrer Gegenst\u00e4nde oder\nOrte und verbannen ihn.",
+      "fullTextSections": [
+        "Alle Luminari w\u00e4hlen je einen ihrer Gegenst\u00e4nde oder\nOrte und verbannen ihn."
+      ],
+      "id": 1915,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/20_5cf7a38ed4735ad6e478d26e8e29c62569fc4c64.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/20_c594e7bece2e6fed6bda6a684e8e657b940eccb7.jpg"
+      },
+      "inkwell": true,
+      "name": "Verheerender Sandsturm",
+      "number": 20,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "verheerender sandsturm",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Gonzalo Kenny"
+      ],
+      "artistsText": "Gonzalo Kenny",
+      "code": "uU",
+      "color": "",
+      "cost": 3,
+      "effects": [
+        "Dschafar sammelt 2 Legenden. Lege danach diese\nKarte verdeckt in seinen Tintenvorrat."
+      ],
+      "externalLinks": {
+        "cardTraderId": 334355,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334355",
+        "cardmarketId": 828131,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Sudden-Power?language=3",
+        "tcgPlayerId": 634435,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634435"
+      },
+      "flavorText": "\u201eJa! Ich kann sie sp\u00fcren! Ganz Lorcana wird vor mir\nerzittern!\u201c",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "21/35 \u2022 DE \u2022 Q2",
+      "fullName": "Unverhoffte Macht",
+      "fullText": "Dschafar sammelt 2 Legenden. Lege danach diese\nKarte verdeckt in seinen Tintenvorrat.",
+      "fullTextSections": [
+        "Dschafar sammelt 2 Legenden. Lege danach diese\nKarte verdeckt in seinen Tintenvorrat."
+      ],
+      "id": 1916,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/21_d71105d2dd2ddd4a6dfddeb2d5daa4020be81980.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/21_d8298423151bdf4068cb8b0afda6b629f6dcf159.jpg"
+      },
+      "inkwell": true,
+      "name": "Unverhoffte Macht",
+      "number": 21,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "unverhoffte macht",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "French Carlomagno"
+      ],
+      "artistsText": "French Carlomagno",
+      "code": "uV",
+      "color": "",
+      "cost": 4,
+      "effects": [
+        "Dschafar ersch\u00f6pft alle gegnerischen Charaktere. Sie werden\nzu Beginn ihres n\u00e4chsten Zuges nicht bereit gemacht."
+      ],
+      "externalLinks": {
+        "cardTraderId": 334353,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334353",
+        "cardmarketId": 828132,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Arcane-Quake?language=3",
+        "tcgPlayerId": 634444,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634444"
+      },
+      "flavorText": "\u201eDein Plan beginnt zu br\u00f6ckeln. Versuche, nicht den Boden\nunter den F\u00fc\u00dfen zu verlieren!\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "22/35 \u2022 DE \u2022 Q2",
+      "fullName": "Arkanes Beben",
+      "fullText": "Dschafar ersch\u00f6pft alle gegnerischen Charaktere. Sie werden\nzu Beginn ihres n\u00e4chsten Zuges nicht bereit gemacht.",
+      "fullTextSections": [
+        "Dschafar ersch\u00f6pft alle gegnerischen Charaktere. Sie werden\nzu Beginn ihres n\u00e4chsten Zuges nicht bereit gemacht."
+      ],
+      "id": 1917,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/22_5f7ab43359fcb032e6a7f900140c4714ca1a2214.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/22_026e1fee6b686a55c190e8530b9beb561961bf92.jpg"
+      },
+      "inkwell": true,
+      "name": "Arkanes Beben",
+      "number": 22,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "arkanes beben",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Douglas De La Hoz"
+      ],
+      "artistsText": "Douglas De La Hoz",
+      "code": "uW",
+      "color": "",
+      "cost": 6,
+      "effects": [
+        "Alle Luminari w\u00e4hlen je einen ihrer Charaktere, Gegenst\u00e4nde\noder Orte aus. Danach verbannt Dschafar alle anderen\ngegnerischen Charaktere, Gegenst\u00e4nde und Orte."
+      ],
+      "externalLinks": {
+        "cardTraderId": 334351,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334351",
+        "cardmarketId": 828133,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Cataclysmic-Cyclone?language=3",
+        "tcgPlayerId": 634439,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634439"
+      },
+      "flavorText": "\u201eDas wird dich so richtig wegfegen!\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "23/35 \u2022 DE \u2022 Q2",
+      "fullName": "Kataklystischer Wirbelsturm",
+      "fullText": "Alle Luminari w\u00e4hlen je einen ihrer Charaktere, Gegenst\u00e4nde\noder Orte aus. Danach verbannt Dschafar alle anderen\ngegnerischen Charaktere, Gegenst\u00e4nde und Orte.",
+      "fullTextSections": [
+        "Alle Luminari w\u00e4hlen je einen ihrer Charaktere, Gegenst\u00e4nde\noder Orte aus. Danach verbannt Dschafar alle anderen\ngegnerischen Charaktere, Gegenst\u00e4nde und Orte."
+      ],
+      "id": 1918,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/23_5a7fbe9af99ba8ddf29d7b4c30514917fbc7e229.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/23_e10055c6fd58800fbdbc0492a4271278541d4bec.jpg"
+      },
+      "inkwell": true,
+      "name": "Kataklystischer Wirbelsturm",
+      "number": 23,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "kataklystischer wirbelsturm",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Simone Tentoni"
+      ],
+      "artistsText": "Simone Tentoni",
+      "code": "uX",
+      "color": "",
+      "cost": 5,
+      "effects": [
+        "Dschafar schickt alle gegnerischen ersch\u00f6pften\nCharaktere auf die zugeh\u00f6rigen H\u00e4nde zur\u00fcck."
+      ],
+      "externalLinks": {
+        "cardTraderId": 334361,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334361",
+        "cardmarketId": 828134,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Sand-Wave?language=3",
+        "tcgPlayerId": 634434,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634434"
+      },
+      "flavorText": "\u201eLass dich lieber nicht davon mitrei\u00dfen!\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "24/35 \u2022 DE \u2022 Q2",
+      "fullName": "Sand-Tsunami",
+      "fullText": "Dschafar schickt alle gegnerischen ersch\u00f6pften\nCharaktere auf die zugeh\u00f6rigen H\u00e4nde zur\u00fcck.",
+      "fullTextSections": [
+        "Dschafar schickt alle gegnerischen ersch\u00f6pften\nCharaktere auf die zugeh\u00f6rigen H\u00e4nde zur\u00fcck."
+      ],
+      "id": 1919,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/24_f4c924f174a73600a349416a73a32336cd8bfcf0.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/24_7ab48cdadf774f111d77e1e55a21d7ff18d27702.jpg"
+      },
+      "inkwell": true,
+      "name": "Sand-Tsunami",
+      "number": 24,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "sand-tsunami",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn Dschafar diesen Gegenstand ausspielt, stiehlt er \u201eDie neu geschmiedete Krone\u201c.",
+          "fullText": "ERGREIFE DIE KRONE! Wenn Dschafar diesen Gegenstand\nausspielt, stiehlt er \u201eDie neu geschmiedete Krone\u201c.",
+          "name": "ERGREIFE DIE KRONE!",
+          "type": "triggered"
+        },
+        {
+          "costs": [
+            "\u27f3",
+            "Verbanne diesen Gegenstand"
+          ],
+          "costsText": "\u27f3, Verbanne diesen Gegenstand",
+          "effect": "Dschafar sammelt 2 Legenden.",
+          "fullText": "SELBSTZERST\u00d6RENDE SCHLANGE \u27f3, Verbanne diesen\nGegenstand \u2013 Dschafar sammelt 2 Legenden.",
+          "name": "SELBSTZERST\u00d6RENDE SCHLANGE",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Carlos Ruiz"
+      ],
+      "artistsText": "Carlos Ruiz",
+      "code": "uY",
+      "color": "",
+      "cost": 0,
+      "externalLinks": {
+        "cardTraderId": 334363,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334363",
+        "cardmarketId": 828135,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Mechanical-Snake?language=3",
+        "tcgPlayerId": 634426,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634426"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "25/35 \u2022 DE \u2022 Q2",
+      "fullName": "Mechanische Schlange",
+      "fullText": "ERGREIFE DIE KRONE! Wenn Dschafar diesen Gegenstand\nausspielt, stiehlt er \u201eDie neu geschmiedete Krone\u201c.\nSELBSTZERST\u00d6RENDE SCHLANGE \u27f3, Verbanne diesen\nGegenstand \u2013 Dschafar sammelt 2 Legenden.",
+      "fullTextSections": [
+        "ERGREIFE DIE KRONE! Wenn Dschafar diesen Gegenstand\nausspielt, stiehlt er \u201eDie neu geschmiedete Krone\u201c.",
+        "SELBSTZERST\u00d6RENDE SCHLANGE \u27f3, Verbanne diesen\nGegenstand \u2013 Dschafar sammelt 2 Legenden."
+      ],
+      "id": 1920,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/25_4e4ffb32c24cf5716fe24f03c4f1e0a0f283fbba.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/25_d26396b78109a358712eb839d5db545b98f74718.jpg"
+      },
+      "inkwell": true,
+      "name": "Mechanische Schlange",
+      "number": 25,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "mechanische schlange",
+      "story": "Lorcana",
+      "type": "Gegenstand"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Zu Beginn von Dschafars Zug verbannt er diesen Gegenstand, damit alle Luminari je einen ihrer Charaktere ausw\u00e4hlen und diesem 4 Schaden zuf\u00fcgen.",
+          "fullText": "STELL DICH DEN FLAMMEN Zu Beginn von Dschafars Zug\nverbannt er diesen Gegenstand, damit alle Luminari je einen\nihrer Charaktere ausw\u00e4hlen und diesem 4 Schaden zuf\u00fcgen.",
+          "name": "STELL DICH DEN FLAMMEN",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Ilaria Sposetti",
+        "Rodney Bills"
+      ],
+      "artistsText": "Ilaria Sposetti / Rodney Bills",
+      "code": "uZ",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 334364,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334364",
+        "cardmarketId": 828136,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Fiery-Basin?language=3",
+        "tcgPlayerId": 634400,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634400"
+      },
+      "flavorText": "\u201eDu spielst gerade mit dem Feuer.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "26/35 \u2022 DE \u2022 Q2",
+      "fullName": "Feuriges Becken",
+      "fullText": "STELL DICH DEN FLAMMEN Zu Beginn von Dschafars Zug\nverbannt er diesen Gegenstand, damit alle Luminari je einen\nihrer Charaktere ausw\u00e4hlen und diesem 4 Schaden zuf\u00fcgen.",
+      "fullTextSections": [
+        "STELL DICH DEN FLAMMEN Zu Beginn von Dschafars Zug\nverbannt er diesen Gegenstand, damit alle Luminari je einen\nihrer Charaktere ausw\u00e4hlen und diesem 4 Schaden zuf\u00fcgen."
+      ],
+      "id": 1921,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/26_a02eb9bd31e5ff9d96f88a236bba58bfc37f2420.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/26_6dc30253d9123028bebe66c92db248db0e3d21e9.jpg"
+      },
+      "inkwell": true,
+      "name": "Feuriges Becken",
+      "number": 26,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "feuriges becken",
+      "story": "Lorcana",
+      "type": "Gegenstand"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Dschafar f\u00fcgt jedem gegnerischen Charakter 1 Schaden zu.",
+          "fullText": "STEIGENDER SAND \u27f3 \u2013 Dschafar f\u00fcgt jedem\ngegnerischen Charakter 1 Schaden zu.",
+          "name": "STEIGENDER SAND",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Veronica Di Lorenzo",
+        "Livio Cacciatore"
+      ],
+      "artistsText": "Veronica Di Lorenzo / Livio Cacciatore",
+      "code": "v0",
+      "color": "",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 334365,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/334365",
+        "cardmarketId": 828137,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Giant-Hourglass?language=3",
+        "tcgPlayerId": 634429,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634429"
+      },
+      "flavorText": "\u201eEs ist wichtig, sich Zeit f\u00fcr Freunde zu nehmen.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "27/35 \u2022 DE \u2022 Q2",
+      "fullName": "Riesige Sanduhr",
+      "fullText": "STEIGENDER SAND \u27f3 \u2013 Dschafar f\u00fcgt jedem\ngegnerischen Charakter 1 Schaden zu.",
+      "fullTextSections": [
+        "STEIGENDER SAND \u27f3 \u2013 Dschafar f\u00fcgt jedem\ngegnerischen Charakter 1 Schaden zu."
+      ],
+      "id": 1922,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/27_fb34e7a8c47f0c44f03c2381f504b4d50a40876d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/27_261e2889fb10f21a88d12d45e43fc99883b31b54.jpg"
+      },
+      "inkwell": true,
+      "name": "Riesige Sanduhr",
+      "number": 27,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "riesige sanduhr",
+      "story": "Lorcana",
+      "type": "Gegenstand"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er jedem gegnerischen Charakter 1 Schaden zu.",
+          "fullText": "SCHLANGENBISS Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er jedem\ngegnerischen Charakter 1 Schaden zu.",
+          "name": "SCHLANGENBISS",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "French Carlomagno"
+      ],
+      "artistsText": "French Carlomagno",
+      "code": "v1",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 335005,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/335005",
+        "cardmarketId": 828138,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Cobra-Pit-Seething-Serpents?language=3",
+        "tcgPlayerId": 634405,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634405"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "28/35 \u2022 DE \u2022 Q2",
+      "fullName": "Kobra-Fallgrube - Wimmelnde Schlangen",
+      "fullText": "SCHLANGENBISS Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er jedem\ngegnerischen Charakter 1 Schaden zu.",
+      "fullTextSections": [
+        "SCHLANGENBISS Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er jedem\ngegnerischen Charakter 1 Schaden zu."
+      ],
+      "id": 1923,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/28_f551befd035e01bd16837ed765c103794c071cec.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/28_3dcf9414aa6f20702bea2013157cf9c9b077409d.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "moveCost": 0,
+      "name": "Kobra-Fallgrube",
+      "number": 28,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "kobra-fallgrube wimmelnde schlangen",
+      "story": "Lorcana",
+      "subtypes": [
+        "Hindernis"
+      ],
+      "subtypesText": "Hindernis",
+      "type": "Ort",
+      "version": "Wimmelnde Schlangen",
+      "willpower": 8
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er dem Charakter mit den h\u00f6chsten Kosten jedes Luminari je 3 Schaden zu. (Bei Gleichstand d\u00fcrfen die Luminari w\u00e4hlen.)",
+          "fullText": "SCHWINDEL Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er dem\nCharakter mit den h\u00f6chsten Kosten jedes Luminari je 3 Schaden zu.\n(Bei Gleichstand d\u00fcrfen die Luminari w\u00e4hlen.)",
+          "name": "SCHWINDEL",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Douglas De La Hoz"
+      ],
+      "artistsText": "Douglas De La Hoz",
+      "code": "v2",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 335004,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/335004",
+        "cardmarketId": 828139,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Endless-Staircase-Perilous-Ascent?language=3",
+        "tcgPlayerId": 634427,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634427"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "29/35 \u2022 DE \u2022 Q2",
+      "fullName": "Endloses Treppenhaus - Gef\u00e4hrlicher Aufstieg",
+      "fullText": "SCHWINDEL Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er dem\nCharakter mit den h\u00f6chsten Kosten jedes Luminari je 3 Schaden zu.\n(Bei Gleichstand d\u00fcrfen die Luminari w\u00e4hlen.)",
+      "fullTextSections": [
+        "SCHWINDEL Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er dem\nCharakter mit den h\u00f6chsten Kosten jedes Luminari je 3 Schaden zu.\n(Bei Gleichstand d\u00fcrfen die Luminari w\u00e4hlen.)"
+      ],
+      "id": 1924,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/29_12bb3041ce57d3eb4c9695928b5897fbf26f64da.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/29_53935bc8c2c26113e5c6123865dc8a84c42e1b1e.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "moveCost": 0,
+      "name": "Endloses Treppenhaus",
+      "number": 29,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "endloses treppenhaus gefahrlicher aufstieg",
+      "story": "Lorcana",
+      "subtypes": [
+        "Hindernis"
+      ],
+      "subtypesText": "Hindernis",
+      "type": "Ort",
+      "version": "Gef\u00e4hrlicher Aufstieg",
+      "willpower": 9
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Robust +1 (Reduziere jeglichen Schaden, der diesem Ort zugef\u00fcgt wird, um 1.)",
+          "keyword": "Robust",
+          "keywordValue": "+1",
+          "keywordValueNumber": 1,
+          "reminderText": "Reduziere jeglichen Schaden, der diesem Ort zugef\u00fcgt wird, um 1.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Veronica Di Lorenzo"
+      ],
+      "artistsText": "Veronica Di Lorenzo",
+      "code": "v3",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 335000,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/335000",
+        "cardmarketId": 828140,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Royal-Armory-Heavily-Guarded?language=3",
+        "tcgPlayerId": 634421,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634421"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "30/35 \u2022 DE \u2022 Q2",
+      "fullName": "K\u00f6nigliche Waffenkammer - Stark bewacht",
+      "fullText": "Robust +1 (Reduziere jeglichen Schaden, der diesem Ort zugef\u00fcgt wird, um 1.)",
+      "fullTextSections": [
+        "Robust +1 (Reduziere jeglichen Schaden, der diesem Ort zugef\u00fcgt wird, um 1.)"
+      ],
+      "id": 1925,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/30_d7d1b868b6e77ea9b8ecc8c4c1f987746272d36f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/30_7761c53ba8a04ea09d45b1ccc468cb95415566f2.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Robust"
+      ],
+      "lore": 1,
+      "moveCost": 0,
+      "name": "K\u00f6nigliche Waffenkammer",
+      "number": 30,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "konigliche waffenkammer stark bewacht",
+      "story": "Lorcana",
+      "subtypes": [
+        "Hindernis"
+      ],
+      "subtypesText": "Hindernis",
+      "type": "Ort",
+      "version": "Stark bewacht",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Beh\u00fctet (Luminari k\u00f6nnen diesen Ort nicht ausw\u00e4hlen, au\u00dfer um ihn herauszufordern.)",
+          "keyword": "Beh\u00fctet",
+          "reminderText": "Luminari k\u00f6nnen diesen Ort nicht ausw\u00e4hlen, au\u00dfer um ihn herauszufordern.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Elodie Mondoloni"
+      ],
+      "artistsText": "Elodie Mondoloni",
+      "code": "v4",
+      "color": "",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 335001,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/335001",
+        "cardmarketId": 828141,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Crystal-Gate-Unbreakable-Boundary?language=3",
+        "tcgPlayerId": 634446,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634446"
+      },
+      "flavorText": "\u201eEin magischer Kristall zur Sicherung meiner m\u00e4chtigsten Sch\u00e4tze.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "31/35 \u2022 DE \u2022 Q2",
+      "fullName": "Kristalltor - Unzerst\u00f6rbare Barriere",
+      "fullText": "Beh\u00fctet (Luminari k\u00f6nnen diesen Ort nicht ausw\u00e4hlen, au\u00dfer um ihn herauszufordern.)",
+      "fullTextSections": [
+        "Beh\u00fctet (Luminari k\u00f6nnen diesen Ort nicht ausw\u00e4hlen, au\u00dfer um ihn herauszufordern.)"
+      ],
+      "id": 1926,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/31_aee07f4cf63fa07a14ace646765122a9f4fe0754.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/31_99d35d5d65b20916652cb865fa75396c94853c65.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Beh\u00fctet"
+      ],
+      "lore": 2,
+      "moveCost": 0,
+      "name": "Kristalltor",
+      "number": 31,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "kristalltor unzerstorbare barriere",
+      "story": "Lorcana",
+      "subtypes": [
+        "Hindernis"
+      ],
+      "subtypesText": "Hindernis",
+      "type": "Ort",
+      "version": "Unzerst\u00f6rbare Barriere",
+      "willpower": 10
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Jedes Mal, wenn ein Charakter diesen Ort herausfordert, w\u00e4hlen alle Luminari je 1 Karte aus ihrer Hand und werfen sie ab.",
+          "fullText": "DAS LABYRINTH KARTIEREN Jedes Mal, wenn ein Charakter diesen Ort\nherausfordert, w\u00e4hlen alle Luminari je 1 Karte aus ihrer Hand und werfen\nsie ab.",
+          "name": "DAS LABYRINTH KARTIEREN",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Giuseppe di Maio"
+      ],
+      "artistsText": "Giuseppe di Maio",
+      "code": "v5",
+      "color": "",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 335002,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/335002",
+        "cardmarketId": 828142,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Deepwell-Labyrinth?language=3",
+        "tcgPlayerId": 634417,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634417"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "32/35 \u2022 DE \u2022 Q2",
+      "fullName": "Tiefbrunnen-Labyrinth - Geheimnisvolle Hallen",
+      "fullText": "DAS LABYRINTH KARTIEREN Jedes Mal, wenn ein Charakter diesen Ort\nherausfordert, w\u00e4hlen alle Luminari je 1 Karte aus ihrer Hand und werfen\nsie ab.",
+      "fullTextSections": [
+        "DAS LABYRINTH KARTIEREN Jedes Mal, wenn ein Charakter diesen Ort\nherausfordert, w\u00e4hlen alle Luminari je 1 Karte aus ihrer Hand und werfen\nsie ab."
+      ],
+      "id": 1927,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/32_f59d27bc7b4c68954002206af643d2211992012f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/32_4541a33dc21022d04acee14a3d3efe91c6f3d105.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "moveCost": 0,
+      "name": "Tiefbrunnen-Labyrinth",
+      "number": 32,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "tiefbrunnen-labyrinth geheimnisvolle hallen",
+      "story": "Lorcana",
+      "subtypes": [
+        "Hindernis"
+      ],
+      "subtypesText": "Hindernis",
+      "type": "Ort",
+      "version": "Geheimnisvolle Hallen",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Gegnerische Charaktere k\u00f6nnen nicht erkunden.",
+          "fullText": "VERWUNDERUNG Gegnerische Charaktere k\u00f6nnen nicht erkunden.",
+          "name": "VERWUNDERUNG",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Sylvain Sarrailh"
+      ],
+      "artistsText": "Sylvain Sarrailh",
+      "code": "v6",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 333080,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/333080",
+        "cardmarketId": 828143,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Hall-of-Illusions-Mysterious-Chamber?language=3",
+        "tcgPlayerId": 631974,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/631974"
+      },
+      "flavorText": "\u201eIch bin sicher, dass du sie in tausend Jahren oder so verstehen wirst.\u201c\n\u2014Dschafar",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "33/35 \u2022 DE \u2022 Q2",
+      "fullName": "Halle der Illusionen - Mysteri\u00f6se Kammer",
+      "fullText": "VERWUNDERUNG Gegnerische Charaktere k\u00f6nnen nicht erkunden.",
+      "fullTextSections": [
+        "VERWUNDERUNG Gegnerische Charaktere k\u00f6nnen nicht erkunden."
+      ],
+      "id": 1928,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/33_ab7dd03882d6674807b832478875122f095fb159.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/33_9fd091afbb7effc3fa7b8033d873db5e36d8a03f.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "moveCost": 0,
+      "name": "Halle der Illusionen",
+      "number": 33,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "halle der illusionen mysteriose kammer",
+      "story": "Lorcana",
+      "subtypes": [
+        "Hindernis"
+      ],
+      "subtypesText": "Hindernis",
+      "type": "Ort",
+      "version": "Mysteri\u00f6se Kammer",
+      "willpower": 8
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Beh\u00fctet (Luminari k\u00f6nnen diesen Ort nicht ausw\u00e4hlen, au\u00dfer um ihn herauszufordern.)",
+          "keyword": "Beh\u00fctet",
+          "reminderText": "Luminari k\u00f6nnen diesen Ort nicht ausw\u00e4hlen, au\u00dfer um ihn herauszufordern.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er jedem gegnerischen Charakter 2 Schaden zu.",
+          "fullText": "KEIN ENTKOMMEN Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er jedem gegnerischen\nCharakter 2 Schaden zu.",
+          "name": "KEIN ENTKOMMEN",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Michela Cacciatore",
+        "Giulia Priori"
+      ],
+      "artistsText": "Michela Cacciatore / Giulia Priori",
+      "code": "v7",
+      "color": "",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 335003,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/335003",
+        "cardmarketId": 828144,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Clockwork-Sawblades-Treacherous-Trap?language=3",
+        "tcgPlayerId": 634283,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634283"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "34/35 \u2022 DE \u2022 Q2",
+      "fullName": "Uhrwerk-S\u00e4gebl\u00e4tter - Verr\u00e4terische Falle",
+      "fullText": "Beh\u00fctet (Luminari k\u00f6nnen diesen Ort nicht ausw\u00e4hlen, au\u00dfer um ihn herauszufordern.)\nKEIN ENTKOMMEN Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er jedem gegnerischen\nCharakter 2 Schaden zu.",
+      "fullTextSections": [
+        "Beh\u00fctet (Luminari k\u00f6nnen diesen Ort nicht ausw\u00e4hlen, au\u00dfer um ihn herauszufordern.)",
+        "KEIN ENTKOMMEN Wenn Dschafar diesen Ort ausspielt, f\u00fcgt er jedem gegnerischen\nCharakter 2 Schaden zu."
+      ],
+      "id": 1929,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/34_ef1b6f994fc37e5a62f34790dbe9a534e7944881.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/34_6cc78feb487bea0eff2f291a0aa64ac59fead289.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Beh\u00fctet"
+      ],
+      "lore": 0,
+      "moveCost": 0,
+      "name": "Uhrwerk-S\u00e4gebl\u00e4tter",
+      "number": 34,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "uhrwerk-sageblatter verraterische falle",
+      "story": "Lorcana",
+      "subtypes": [
+        "Hindernis"
+      ],
+      "subtypesText": "Hindernis",
+      "type": "Ort",
+      "version": "Verr\u00e4terische Falle",
+      "willpower": 9
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Kaluba"
+      ],
+      "artistsNormalized": [
+        "Kristen Kaluba"
+      ],
+      "artistsText": "Kaluba",
+      "code": "v8",
+      "color": "",
+      "cost": 0,
+      "externalLinks": {
+        "cardTraderId": 335006,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/335006",
+        "cardmarketId": 828145,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Illumineers-Quest-Palace-Heist/Ink-Moat-First-Line-of-Defense?language=3",
+        "tcgPlayerId": 634271,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/634271"
+      },
+      "flavorText": "Werde nicht \u00fcberm\u00fctig. Sie werden nicht alle so leicht zu bew\u00e4ltigen sein.",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "35/35 \u2022 DE \u2022 Q2",
+      "fullName": "Tintengraben - Erste Abwehrma\u00dfnahme",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 1930,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest2/35_3c100c35cb08ecaff6c874274bba8472fc358ae6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest2/35_07be8302b239c8c8df988eed74f5005ea0dbe854.jpg"
+      },
+      "inkwell": true,
+      "lore": 0,
+      "moveCost": 0,
+      "name": "Tintengraben",
+      "number": 35,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "tintengraben erste abwehrmassnahme",
+      "story": "Lorcana",
+      "subtypes": [
+        "Hindernis"
+      ],
+      "subtypesText": "Hindernis",
+      "type": "Ort",
+      "version": "Erste Abwehrma\u00dfnahme",
+      "willpower": 5
+    }
+  ]
+}

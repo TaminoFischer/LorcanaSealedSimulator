@@ -1,0 +1,1880 @@
+{
+  "prereleaseDate": "2024-05-17",
+  "releaseDate": "2024-05-31",
+  "hasAllCards": true,
+  "type": "quest",
+  "number": 1,
+  "allowedInFormats": {
+    "Core": {
+      "allowed": false
+    },
+    "Infinity": {
+      "allowed": false
+    }
+  },
+  "allowedInTournamentsFromDate": null,
+  "name": "Qu\u00eate des Illumineurs - Menace des profondeurs",
+  "code": "Q1",
+  "metadata": {
+    "formatVersion": "2.3.2",
+    "generatedOn": "2025-12-18T20:20:07",
+    "language": "fr"
+  },
+  "cards": [
+    {
+      "abilities": [
+        {
+          "fullText": "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
+          "keyword": "Insaisissable",
+          "reminderText": "Seuls les personnages avec Insaisissable peuvent d\u00e9fier ce personnage.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Dustin Panzino"
+      ],
+      "artistsText": "Dustin Panzino",
+      "code": "eK",
+      "color": "",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 291166,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291166",
+        "cardmarketId": 771365,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Anna-Ensnared-Sister?language=2",
+        "tcgPlayerId": 552746,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552746"
+      },
+      "flavorText": "\u201cAh, ces souverains ! Si beaux. Si na\u00effs.\nSi facilement impressionnables.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "1/31 \u2022 FR \u2022 Q1",
+      "fullName": "Anna - Soeur prise au pi\u00e8ge",
+      "fullText": "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
+      "fullTextSections": [
+        "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)"
+      ],
+      "id": 914,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/1_19a4acaee3199d80ed3efaef959ccf8528fd8d4b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/1_63485071819f5ac82b448127f8bf2a234f133a54.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Insaisissable"
+      ],
+      "lore": 2,
+      "name": "Anna",
+      "number": 1,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "anna soeur prise au piege",
+      "story": "La Reine des neiges",
+      "strength": 5,
+      "subtypes": [
+        "Envout\u00e9",
+        "H\u00e9ros",
+        "Reine"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 H\u00e9ros \u2022 Reine",
+      "type": "Personnage",
+      "version": "Soeur prise au pi\u00e8ge",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, chaque adversaire place les 3 cartes du dessus de sa pioche dans sa d\u00e9fausse.",
+          "fullText": "SOMBRE PROPH\u00c9TIE Lorsque vous jouez ce\npersonnage, chaque adversaire place les 3 cartes\ndu dessus de sa pioche dans sa d\u00e9fausse.",
+          "name": "SOMBRE PROPH\u00c9TIE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Brian Kesinger"
+      ],
+      "artistsText": "Brian Kesinger",
+      "code": "eL",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 291168,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291168",
+        "cardmarketId": 771366,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Bruno-Madrigal-Unspeakable-Seer?language=2",
+        "tcgPlayerId": 552747,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552747"
+      },
+      "flavorText": "\u201cSes talents particuliers se sont d\u00e9j\u00e0 r\u00e9v\u00e9l\u00e9s fort utiles.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "2/31 \u2022 FR \u2022 Q1",
+      "fullName": "Bruno Madrigal - Oracle innomable",
+      "fullText": "SOMBRE PROPH\u00c9TIE Lorsque vous jouez ce\npersonnage, chaque adversaire place les 3 cartes\ndu dessus de sa pioche dans sa d\u00e9fausse.",
+      "fullTextSections": [
+        "SOMBRE PROPH\u00c9TIE Lorsque vous jouez ce\npersonnage, chaque adversaire place les 3 cartes\ndu dessus de sa pioche dans sa d\u00e9fausse."
+      ],
+      "id": 915,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/2_57ab2d8b64b445544a8545d8e1234a5a24cb243b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/2_5211ec61bb4395cde6b7b5780edc6a4bfbf43fa0.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Bruno Madrigal",
+      "number": 2,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "bruno madrigal oracle innomable",
+      "story": "Encanto",
+      "strength": 4,
+      "subtypes": [
+        "Envout\u00e9",
+        "Alli\u00e9",
+        "Madrigal"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 Alli\u00e9 \u2022 Madrigal",
+      "type": "Personnage",
+      "version": "Oracle innomable",
+      "willpower": 4
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Gonzalo Kenny"
+      ],
+      "artistsText": "Gonzalo Kenny",
+      "code": "eM",
+      "color": "",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 291159,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291159",
+        "cardmarketId": 771367,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Captain-Hook-Devious-Duelist?language=2",
+        "tcgPlayerId": 552748,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552748"
+      },
+      "flavorText": "\u201cUn choix \u00e9vident, bien s\u00fbr. Si empreint de ruse et\nde perfidie. Il me rappelle\u2026 moi.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "3/31 \u2022 FR \u2022 Q1",
+      "fullName": "Capitaine Crochet - Duelliste sournois",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 916,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/3_f1005e6cbfbb44ddb3f552a63bb41b627ee7b8cd.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/3_349b58e54129fa23e0753aed27a12d561317c28e.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Capitaine Crochet",
+      "number": 3,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "capitaine crochet duelliste sournois",
+      "story": "Peter Pan",
+      "strength": 7,
+      "subtypes": [
+        "Envout\u00e9",
+        "M\u00e9chant",
+        "Pirate",
+        "Capitaine"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 M\u00e9chant \u2022 Pirate \u2022 Capitaine",
+      "type": "Personnage",
+      "version": "Duelliste sournois",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Rempart (Lorsqu'un adversaire d\u00e9fie l'un de vos\npersonnages, il doit, si possible, choisir l'un de vos\npersonnages avec Rempart.)",
+          "keyword": "Rempart",
+          "reminderText": "Lorsqu'un adversaire d\u00e9fie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Ce personnage entre en jeu \u00e9puis\u00e9.",
+          "fullText": "SENTINELLE D'URSULA Ce personnage entre en jeu \u00e9puis\u00e9.",
+          "name": "SENTINELLE D'URSULA",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jeanne Plounevez"
+      ],
+      "artistsText": "Jeanne Plounevez",
+      "code": "eN",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 291155,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291155",
+        "cardmarketId": 771368,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Flotsam-Wicked-Defender?language=2",
+        "tcgPlayerId": 552749,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552749"
+      },
+      "flavorText": "\u201cMon b\u00e9b\u00e9 ch\u00e9ri, toujours aussi protecteur.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "4/31 \u2022 FR \u2022 Q1",
+      "fullName": "Flotsam - Vil d\u00e9fenseur",
+      "fullText": "Rempart (Lorsqu'un adversaire d\u00e9fie l'un de vos\npersonnages, il doit, si possible, choisir l'un de vos\npersonnages avec Rempart.)\nSENTINELLE D'URSULA Ce personnage entre en jeu \u00e9puis\u00e9.",
+      "fullTextSections": [
+        "Rempart (Lorsqu'un adversaire d\u00e9fie l'un de vos\npersonnages, il doit, si possible, choisir l'un de vos\npersonnages avec Rempart.)",
+        "SENTINELLE D'URSULA Ce personnage entre en jeu \u00e9puis\u00e9."
+      ],
+      "id": 917,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/4_f3bae5915b6210c2260f33c61202815efbfcdcf8.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/4_8490b179646144f7090d28fbc09976f490eae73f.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Rempart"
+      ],
+      "lore": 2,
+      "name": "Flotsam",
+      "number": 4,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "flotsam vil defenseur",
+      "story": "La Petite Sir\u00e8ne",
+      "strength": 5,
+      "subtypes": [
+        "Alli\u00e9"
+      ],
+      "subtypesText": "Alli\u00e9",
+      "type": "Personnage",
+      "version": "Vil d\u00e9fenseur",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, infligez 4 dommages au personnage adverse avec le co\u00fbt le plus bas. (En cas d'\u00e9galit\u00e9, vos adversaires choisissent un personnage parmi ceux \u00e0 \u00e9galit\u00e9.)",
+          "fullText": "BASIQUE ET PRIMAIRE Lorsque vous jouez ce\npersonnage, infligez 4 dommages au personnage\nadverse avec le co\u00fbt le plus bas. (En cas d'\u00e9galit\u00e9,\nvos adversaires choisissent un personnage parmi\nceux \u00e0 \u00e9galit\u00e9.)",
+          "name": "BASIQUE ET PRIMAIRE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Leonardo Giammichele"
+      ],
+      "artistsText": "Leonardo Giammichele",
+      "code": "eO",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 291162,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291162",
+        "cardmarketId": 771369,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Gaston-Egotistical-Bully?language=2",
+        "tcgPlayerId": 552750,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552750"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "5/31 \u2022 FR \u2022 Q1",
+      "fullName": "Gaston - Brute \u00e9gocentrique",
+      "fullText": "BASIQUE ET PRIMAIRE Lorsque vous jouez ce\npersonnage, infligez 4 dommages au personnage\nadverse avec le co\u00fbt le plus bas. (En cas d'\u00e9galit\u00e9,\nvos adversaires choisissent un personnage parmi\nceux \u00e0 \u00e9galit\u00e9.)",
+      "fullTextSections": [
+        "BASIQUE ET PRIMAIRE Lorsque vous jouez ce\npersonnage, infligez 4 dommages au personnage\nadverse avec le co\u00fbt le plus bas. (En cas d'\u00e9galit\u00e9,\nvos adversaires choisissent un personnage parmi\nceux \u00e0 \u00e9galit\u00e9.)"
+      ],
+      "id": 918,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/5_cbd7baea9df10e7a52667d86e9d4f1f86d70319a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/5_e679a94d94c3a8baf09ea63aaee5f872426940d3.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Gaston",
+      "number": 5,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "gaston brute egocentrique",
+      "story": "La Belle et la B\u00eate",
+      "strength": 2,
+      "subtypes": [
+        "Envout\u00e9",
+        "M\u00e9chant"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 M\u00e9chant",
+      "type": "Personnage",
+      "version": "Brute \u00e9gocentrique",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
+          "keyword": "Insaisissable",
+          "reminderText": "Seuls les personnages avec Insaisissable peuvent d\u00e9fier ce personnage.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Veronica Di Lorenzo",
+        "Livio Cacciatore"
+      ],
+      "artistsText": "Veronica Di Lorenzo / Livio Cacciatore",
+      "code": "eP",
+      "color": "",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 291161,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291161",
+        "cardmarketId": 771370,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/HeiHei-Peckish-Pal?language=2",
+        "tcgPlayerId": 552751,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552751"
+      },
+      "flavorText": "Il ne sait pas ce qu'il fait ici. Ursula non plus,\nd'ailleurs.",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "6/31 \u2022 FR \u2022 Q1",
+      "fullName": "Heihei - Pote affam\u00e9",
+      "fullText": "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
+      "fullTextSections": [
+        "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)"
+      ],
+      "id": 919,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/6_97ff3a0217ce458fba1264576e1fd0c3d6c4e2f9.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/6_e5bef6ad83b32559fded6db75f54aa2473b8c500.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Insaisissable"
+      ],
+      "lore": 1,
+      "name": "Heihei",
+      "number": 6,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "heihei pote affame",
+      "story": "Vaiana",
+      "strength": 3,
+      "subtypes": [
+        "Alli\u00e9"
+      ],
+      "subtypesText": "Alli\u00e9",
+      "type": "Personnage",
+      "version": "Pote affam\u00e9",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Rempart (Lorsqu'un adversaire d\u00e9fie l'un de vos\npersonnages, il doit, si possible, choisir l'un de vos\npersonnages avec Rempart.)",
+          "keyword": "Rempart",
+          "reminderText": "Lorsqu'un adversaire d\u00e9fie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Ce personnage entre en jeu \u00e9puis\u00e9.",
+          "fullText": "SENTINELLE D'URSULA Ce personnage entre en jeu \u00e9puis\u00e9.",
+          "name": "SENTINELLE D'URSULA",
+          "type": "static"
+        },
+        {
+          "effect": "Pendant le tour de vos adversaires, ils peuvent payer collectivement 3 \u00e9clats de Lore pour bannir ce personnage.",
+          "fullText": "TOUT A UN PRIX Pendant le tour de vos adversaires, ils\npeuvent payer collectivement 3 \u00e9clats de Lore pour bannir\nce personnage.",
+          "name": "TOUT A UN PRIX",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Mario Oscar Gabriele"
+      ],
+      "artistsText": "Mario Oscar Gabriele",
+      "code": "eQ",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 291158,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291158",
+        "cardmarketId": 771371,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Hercules-Manipulated-Hero?language=2",
+        "tcgPlayerId": 552752,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552752"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "7/31 \u2022 FR \u2022 Q1",
+      "fullName": "Hercule - H\u00e9ros manipul\u00e9",
+      "fullText": "Rempart (Lorsqu'un adversaire d\u00e9fie l'un de vos\npersonnages, il doit, si possible, choisir l'un de vos\npersonnages avec Rempart.)\nSENTINELLE D'URSULA Ce personnage entre en jeu \u00e9puis\u00e9.\nTOUT A UN PRIX Pendant le tour de vos adversaires, ils\npeuvent payer collectivement 3 \u00e9clats de Lore pour bannir\nce personnage.",
+      "fullTextSections": [
+        "Rempart (Lorsqu'un adversaire d\u00e9fie l'un de vos\npersonnages, il doit, si possible, choisir l'un de vos\npersonnages avec Rempart.)",
+        "SENTINELLE D'URSULA Ce personnage entre en jeu \u00e9puis\u00e9.",
+        "TOUT A UN PRIX Pendant le tour de vos adversaires, ils\npeuvent payer collectivement 3 \u00e9clats de Lore pour bannir\nce personnage."
+      ],
+      "id": 920,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/7_467a1b6187a585d9f7cf5e7d2b7f06547f50929d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/7_8ae17ebff924cb11b620356058f9e691d99d3ac3.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Rempart"
+      ],
+      "lore": 2,
+      "name": "Hercule",
+      "number": 7,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "hercule heros manipule",
+      "story": "Hercule",
+      "strength": 3,
+      "subtypes": [
+        "Envout\u00e9",
+        "H\u00e9ros",
+        "Prince"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 H\u00e9ros \u2022 Prince",
+      "type": "Personnage",
+      "version": "H\u00e9ros manipul\u00e9",
+      "willpower": 7
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Ilaria Sposetti"
+      ],
+      "artistsText": "Ilaria Sposetti",
+      "code": "eR",
+      "color": "",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 291150,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291150",
+        "cardmarketId": 771372,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Jafar-Double-Crossing-Vizier?language=2",
+        "tcgPlayerId": 552753,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552753"
+      },
+      "flavorText": "\u201cAvec une volont\u00e9 aussi forte, il \u00e9tait difficile \u00e0\nenvouter. Mais je finis toujours par obtenir ce que\nje veux.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "8/31 \u2022 FR \u2022 Q1",
+      "fullName": "Jafar - Vizir perfide",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 921,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/8_d62e9c5d1c7d348388479f57ac7951183118e724.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/8_81b22ae91dfa2f255870d5e65535a7b0162b0e0b.jpg"
+      },
+      "inkwell": true,
+      "lore": 3,
+      "name": "Jafar",
+      "number": 8,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "jafar vizir perfide",
+      "story": "Aladdin",
+      "strength": 9,
+      "subtypes": [
+        "Envout\u00e9",
+        "M\u00e9chant",
+        "Mage"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 M\u00e9chant \u2022 Mage",
+      "type": "Personnage",
+      "version": "Vizir perfide",
+      "willpower": 9
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, infligez 1 dommage \u00e0 chaque personnage adverse.",
+          "fullText": "URSULA A DE GRANDS POUVOIRS Lorsque vous\njouez ce personnage, infligez 1 dommage \u00e0 chaque\npersonnage adverse.",
+          "name": "URSULA A DE GRANDS POUVOIRS",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jeanne Plounevez"
+      ],
+      "artistsText": "Jeanne Plounevez",
+      "code": "eS",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 291145,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291145",
+        "cardmarketId": 771373,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Jetsam-Wicked-Whisperer?language=2",
+        "tcgPlayerId": 552754,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552754"
+      },
+      "flavorText": "\u201cMon petit b\u00e9b\u00e9 peut m\u00eame influencer les Glimmers\nles plus obstin\u00e9s.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "9/31 \u2022 FR \u2022 Q1",
+      "fullName": "Jetsam - Vil chuchoteur",
+      "fullText": "URSULA A DE GRANDS POUVOIRS Lorsque vous\njouez ce personnage, infligez 1 dommage \u00e0 chaque\npersonnage adverse.",
+      "fullTextSections": [
+        "URSULA A DE GRANDS POUVOIRS Lorsque vous\njouez ce personnage, infligez 1 dommage \u00e0 chaque\npersonnage adverse."
+      ],
+      "id": 922,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/9_14dc0c187c5d182366958e32c0d017c77b33567d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/9_0d1b8b9fd86f66c9ef71b8969c03368cbf9d68f0.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Jetsam",
+      "number": 9,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "jetsam vil chuchoteur",
+      "story": "La Petite Sir\u00e8ne",
+      "strength": 5,
+      "subtypes": [
+        "Alli\u00e9"
+      ],
+      "subtypesText": "Alli\u00e9",
+      "type": "Personnage",
+      "version": "Vil chuchoteur",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "John Loren"
+      ],
+      "artistsText": "John Loren",
+      "code": "eT",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 291156,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291156",
+        "cardmarketId": 771374,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Mad-Hatter-Sinister-Host?language=2",
+        "tcgPlayerId": 552755,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552755"
+      },
+      "flavorText": "\u201cIl est tout bonnement fou de f\u00eates. Il c\u00e9l\u00e8bre d\u00e9j\u00e0\nma victoire !\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "10/31 \u2022 FR \u2022 Q1",
+      "fullName": "Le Chapelier Fou - H\u00f4te sinistre",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 923,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/10_1fa6489f93f94bb43c2809beae7b3b53217f8c25.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/10_0029a662a2c02792bee2e36e37a73b00c87c450d.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Le Chapelier Fou",
+      "number": 10,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "le chapelier fou hote sinistre",
+      "story": "Alice au pays des merveilles",
+      "strength": 3,
+      "subtypes": [
+        "Envout\u00e9",
+        "Alli\u00e9"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 Alli\u00e9",
+      "type": "Personnage",
+      "version": "H\u00f4te sinistre",
+      "willpower": 5
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Gonzalo Kenny"
+      ],
+      "artistsText": "Gonzalo Kenny",
+      "code": "eU",
+      "color": "",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 291143,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291143",
+        "cardmarketId": 771375,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Magica-De-Spell-Shadowy-Sorceress?language=2",
+        "tcgPlayerId": 552756,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552756"
+      },
+      "flavorText": "\u201cSes petits sorts d\u00e9suets ne sont que broutilles\ncompar\u00e9s aux miens. Mais elle a son utilit\u00e9.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "11/31 \u2022 FR \u2022 Q1",
+      "fullName": "Miss Tick - Sorci\u00e8re des ombres",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 924,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/11_c4565faf57dd8335c25c41ceef1a0aad0ac018fa.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/11_cee2f8f20eb8850d5c6cbbaafe54a7b53857dd52.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Miss Tick",
+      "number": 11,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "miss tick sorciere des ombres",
+      "story": "La Bande \u00e0 Picsou",
+      "strength": 4,
+      "subtypes": [
+        "Envout\u00e9",
+        "M\u00e9chant",
+        "Mage"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 M\u00e9chant \u2022 Mage",
+      "type": "Personnage",
+      "version": "Sorci\u00e8re des ombres",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, chaque adversaire perd 2 \u00e9clats de Lore.",
+          "fullText": "PR\u00c9SENCE D\u00c9ROUTANTE Lorsque vous jouez ce\npersonnage, chaque adversaire perd 2 \u00e9clats de Lore.",
+          "name": "PR\u00c9SENCE D\u00c9ROUTANTE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Gonzalo Kenny"
+      ],
+      "artistsText": "Gonzalo Kenny",
+      "code": "eV",
+      "color": "",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 291149,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291149",
+        "cardmarketId": 771376,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Minnie-Mouse-Wild-Eyed-Diver?language=2",
+        "tcgPlayerId": 552757,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552757"
+      },
+      "flavorText": "\u201cLe premier \u2013 et le meilleur \u2013 des Glimmers que j'ai\nenvout\u00e9s.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "12/31 \u2022 FR \u2022 Q1",
+      "fullName": "Minnie - Plongeuse aux yeux hagards",
+      "fullText": "PR\u00c9SENCE D\u00c9ROUTANTE Lorsque vous jouez ce\npersonnage, chaque adversaire perd 2 \u00e9clats de Lore.",
+      "fullTextSections": [
+        "PR\u00c9SENCE D\u00c9ROUTANTE Lorsque vous jouez ce\npersonnage, chaque adversaire perd 2 \u00e9clats de Lore."
+      ],
+      "id": 925,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/12_5070e34e04169253ff71d3692401f7bcd0d9dbeb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/12_9630b62c9912020c7829d97a1f0a4af3c4d93551.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Minnie",
+      "number": 12,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "minnie plongeuse aux yeux hagards",
+      "story": "Mickey Mouse et ses amis",
+      "strength": 6,
+      "subtypes": [
+        "Envout\u00e9",
+        "H\u00e9ros"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 H\u00e9ros",
+      "type": "Personnage",
+      "version": "Plongeuse aux yeux hagards",
+      "willpower": 7
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Rempart (Lorsqu'un adversaire d\u00e9fie l'un de vos\npersonnages, il doit, si possible, choisir l'un de vos\npersonnages avec Rempart.)",
+          "keyword": "Rempart",
+          "reminderText": "Lorsqu'un adversaire d\u00e9fie l'un de vos personnages, il doit, si possible, choisir l'un de vos personnages avec Rempart.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Ce personnage entre en jeu \u00e9puis\u00e9.",
+          "fullText": "SENTINELLE D'URSULA Ce personnage entre en\njeu \u00e9puis\u00e9.",
+          "name": "SENTINELLE D'URSULA",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jared Nickerl"
+      ],
+      "artistsText": "Jared Nickerl",
+      "code": "eW",
+      "color": "",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 291152,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291152",
+        "cardmarketId": 771377,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Prince-Eric-Grim-Groom?language=2",
+        "tcgPlayerId": 552758,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552758"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "13/31 \u2022 FR \u2022 Q1",
+      "fullName": "Prince Eric - Sombre fianc\u00e9",
+      "fullText": "Rempart (Lorsqu'un adversaire d\u00e9fie l'un de vos\npersonnages, il doit, si possible, choisir l'un de vos\npersonnages avec Rempart.)\nSENTINELLE D'URSULA Ce personnage entre en\njeu \u00e9puis\u00e9.",
+      "fullTextSections": [
+        "Rempart (Lorsqu'un adversaire d\u00e9fie l'un de vos\npersonnages, il doit, si possible, choisir l'un de vos\npersonnages avec Rempart.)",
+        "SENTINELLE D'URSULA Ce personnage entre en\njeu \u00e9puis\u00e9."
+      ],
+      "id": 926,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/13_eb248e9178b4ffbf7ab6ab9a8d13ac6e63689bb6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/13_525380a25ace05e5428672c44497230d3e315779.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Rempart"
+      ],
+      "lore": 1,
+      "name": "Prince Eric",
+      "number": 13,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "prince eric sombre fiance",
+      "story": "La Petite Sir\u00e8ne",
+      "strength": 2,
+      "subtypes": [
+        "Envout\u00e9",
+        "H\u00e9ros",
+        "Prince"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 H\u00e9ros \u2022 Prince",
+      "type": "Personnage",
+      "version": "Sombre fianc\u00e9",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, infligez 2 dommages \u00e0 chaque personnage adverse ayant au moins 1 jeton Dommage.",
+          "fullText": "GROSSE BRUTE Lorsque vous jouez ce personnage,\ninfligez 2 dommages \u00e0 chaque personnage adverse\nayant au moins 1 jeton Dommage.",
+          "name": "GROSSE BRUTE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jared Nickerl"
+      ],
+      "artistsText": "Jared Nickerl",
+      "code": "eX",
+      "color": "",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 291142,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291142",
+        "cardmarketId": 771378,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Shark-Toothy-Terror?language=2",
+        "tcgPlayerId": 552759,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552759"
+      },
+      "flavorText": "\u201cIl adore plonger dans un probl\u00e8me \u00e0 pleines dents.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "14/31 \u2022 FR \u2022 Q1",
+      "fullName": "Requin - Terreur aux dents longues",
+      "fullText": "GROSSE BRUTE Lorsque vous jouez ce personnage,\ninfligez 2 dommages \u00e0 chaque personnage adverse\nayant au moins 1 jeton Dommage.",
+      "fullTextSections": [
+        "GROSSE BRUTE Lorsque vous jouez ce personnage,\ninfligez 2 dommages \u00e0 chaque personnage adverse\nayant au moins 1 jeton Dommage."
+      ],
+      "id": 927,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/14_281cb5afdcc57fe4f08a0e157453e2013a5d3db3.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/14_28c15d8e59d299da677635d98233bce71f662ad7.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Requin",
+      "number": 14,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "requin terreur aux dents longues",
+      "story": "La Petite Sir\u00e8ne",
+      "strength": 4,
+      "subtypes": [
+        "Envout\u00e9",
+        "Alli\u00e9"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 Alli\u00e9",
+      "type": "Personnage",
+      "version": "Terreur aux dents longues",
+      "willpower": 7
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, vos adversaires choisissent collectivement un de leurs objets ou un de leurs lieux et le bannissent.",
+          "fullText": "CHOISISSEZ-EN UN ! Lorsque vous jouez ce\npersonnage, vos adversaires choisissent collectivement\nun de leurs objets ou un de leurs lieux et le bannissent.",
+          "name": "CHOISISSEZ-EN UN !",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luigi Aim\u00e9"
+      ],
+      "artistsText": "Luigi Aim\u00e9",
+      "code": "eY",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 291146,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291146",
+        "cardmarketId": 771379,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Tamatoa-Grabby-Crab?language=2",
+        "tcgPlayerId": 552760,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552760"
+      },
+      "flavorText": "\u201cC'est ce qu'on appelle une diversion, mon ange des\nmers. Regarde par toi-m\u00eame.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "15/31 \u2022 FR \u2022 Q1",
+      "fullName": "Tamatoa - Crabe saisissant",
+      "fullText": "CHOISISSEZ-EN UN ! Lorsque vous jouez ce\npersonnage, vos adversaires choisissent collectivement\nun de leurs objets ou un de leurs lieux et le bannissent.",
+      "fullTextSections": [
+        "CHOISISSEZ-EN UN ! Lorsque vous jouez ce\npersonnage, vos adversaires choisissent collectivement\nun de leurs objets ou un de leurs lieux et le bannissent."
+      ],
+      "id": 928,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/15_d18994670bc7551c5fac648fe37e58d5489c97f2.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/15_5320e89e784cbe6146f999b3ede9cda2021fbd4d.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Tamatoa",
+      "number": 15,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "tamatoa crabe saisissant",
+      "story": "Vaiana",
+      "strength": 3,
+      "subtypes": [
+        "Envout\u00e9",
+        "M\u00e9chant"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 M\u00e9chant",
+      "type": "Personnage",
+      "version": "Crabe saisissant",
+      "willpower": 6
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jenna Gray"
+      ],
+      "artistsText": "Jenna Gray",
+      "code": "eZ",
+      "color": "",
+      "cost": 0,
+      "externalLinks": {
+        "cardTraderId": 291140,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291140",
+        "cardmarketId": 771380,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Tritons-Daughters-Discordant-Chorus?language=2",
+        "tcgPlayerId": 552761,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552761"
+      },
+      "flavorText": "\u201cJ'aurais peut-\u00eatre d\u00fb leur prendre leur voix, \u00e0 elles\naussi. Bah, je pourrai toujours le faire plus tard.\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "16/31 \u2022 FR \u2022 Q1",
+      "fullName": "Les Filles de Triton - Choeur dissonant",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 929,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/16_9f638514e05a708f0a4bdf107afa333e9d34f64b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/16_f02f9af4e09369b9e40fbad946dc6be9c3e4df13.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Les Filles de Triton",
+      "number": 16,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "les filles de triton choeur dissonant",
+      "story": "La Petite Sir\u00e8ne",
+      "strength": 2,
+      "subtypes": [
+        "Envout\u00e9",
+        "Alli\u00e9",
+        "Princesse"
+      ],
+      "subtypesText": "Envout\u00e9 \u2022 Alli\u00e9 \u2022 Princesse",
+      "type": "Personnage",
+      "version": "Choeur dissonant",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Javi Salas"
+      ],
+      "artistsText": "Javi Salas",
+      "code": "f0",
+      "color": "",
+      "cost": 3,
+      "effects": [
+        "Si vous avez 6 \u2b21 ou moins, mettez les 3 cartes du\ndessus de votre pioche, face cach\u00e9e, dans votre\nr\u00e9serve d'encre.",
+        "Si vous avez 7 \u2b21 ou plus, chaque adversaire choisit un\nde ses personnages et le bannit."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291165,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291165",
+        "cardmarketId": 771381,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Capsize?language=2",
+        "tcgPlayerId": 552762,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552762"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "17/31 \u2022 FR \u2022 Q1",
+      "fullName": "Chavirage",
+      "fullText": "Si vous avez 6 \u2b21 ou moins, mettez les 3 cartes du\ndessus de votre pioche, face cach\u00e9e, dans votre\nr\u00e9serve d'encre.\nSi vous avez 7 \u2b21 ou plus, chaque adversaire choisit un\nde ses personnages et le bannit.",
+      "fullTextSections": [
+        "Si vous avez 6 \u2b21 ou moins, mettez les 3 cartes du\ndessus de votre pioche, face cach\u00e9e, dans votre\nr\u00e9serve d'encre.",
+        "Si vous avez 7 \u2b21 ou plus, chaque adversaire choisit un\nde ses personnages et le bannit."
+      ],
+      "id": 930,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/17_5a18b0bf64491eb0670d58964ba107e9d71a0a4d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/17_6a2ff80f69a406102e356613953c15e2193c0470.jpg"
+      },
+      "inkwell": true,
+      "name": "Chavirage",
+      "number": 17,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "chavirage",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Ilaria Sposetti"
+      ],
+      "artistsText": "Ilaria Sposetti",
+      "code": "f1",
+      "color": "",
+      "cost": 3,
+      "effects": [
+        "Infligez 2 dommages au personnage avec le co\u00fbt\nle plus \u00e9lev\u00e9 poss\u00e9d\u00e9 par chaque adversaire.\n(En cas d'\u00e9galit\u00e9, l'adversaire concern\u00e9 choisit un\nde ses personnages parmi ceux \u00e0 \u00e9galit\u00e9.)"
+      ],
+      "externalLinks": {
+        "cardTraderId": 291164,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291164",
+        "cardmarketId": 771382,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Choppy-Waters?language=2",
+        "tcgPlayerId": 552763,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552763"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "18/31 \u2022 FR \u2022 Q1",
+      "fullName": "Eaux Agit\u00e9es",
+      "fullText": "Infligez 2 dommages au personnage avec le co\u00fbt\nle plus \u00e9lev\u00e9 poss\u00e9d\u00e9 par chaque adversaire.\n(En cas d'\u00e9galit\u00e9, l'adversaire concern\u00e9 choisit un\nde ses personnages parmi ceux \u00e0 \u00e9galit\u00e9.)",
+      "fullTextSections": [
+        "Infligez 2 dommages au personnage avec le co\u00fbt\nle plus \u00e9lev\u00e9 poss\u00e9d\u00e9 par chaque adversaire.\n(En cas d'\u00e9galit\u00e9, l'adversaire concern\u00e9 choisit un\nde ses personnages parmi ceux \u00e0 \u00e9galit\u00e9.)"
+      ],
+      "id": 931,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/18_a99abf291da9dbcff4444e81f0eafbe60ed09317.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/18_05742ae8bdc6d0fd530cab56c4f514d31e671fe6.jpg"
+      },
+      "inkwell": true,
+      "name": "Eaux Agit\u00e9es",
+      "number": 18,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "eaux agitees",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luca Pisanu"
+      ],
+      "artistsText": "Luca Pisanu",
+      "code": "f2",
+      "color": "",
+      "cost": 4,
+      "effects": [
+        "Infligez 2 dommages \u00e0 chaque personnage adverse."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291153,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291153",
+        "cardmarketId": 771383,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Crushing-Wave?language=2",
+        "tcgPlayerId": 552764,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552764"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "19/31 \u2022 FR \u2022 Q1",
+      "fullName": "Raz de Mar\u00e9e",
+      "fullText": "Infligez 2 dommages \u00e0 chaque personnage adverse.",
+      "fullTextSections": [
+        "Infligez 2 dommages \u00e0 chaque personnage adverse."
+      ],
+      "id": 932,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/19_3373642bc1ac6d07efdde60ed36ac387546901a2.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/19_a28a832ce751c2b87af9a8f30ff5229b62e7f45f.jpg"
+      },
+      "inkwell": true,
+      "name": "Raz de Mar\u00e9e",
+      "number": 19,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "raz de maree",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luca Pisanu"
+      ],
+      "artistsText": "Luca Pisanu",
+      "code": "f3",
+      "color": "",
+      "cost": 2,
+      "effects": [
+        "Chaque adversaire choisit une carte de sa main et la\nd\u00e9fausse. Puis placez cette carte-ci face cach\u00e9e dans\nvotre r\u00e9serve d'encre."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291154,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291154",
+        "cardmarketId": 771384,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Entangling-Magic?language=2",
+        "tcgPlayerId": 552765,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552765"
+      },
+      "flavorText": "\u201cFascinant, n'est-ce pas ? Ne sois pas timide, regarde\nd'un peu plus pr\u00e8s\u2026\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "20/31 \u2022 FR \u2022 Q1",
+      "fullName": "Sort d'envo\u00fbtement",
+      "fullText": "Chaque adversaire choisit une carte de sa main et la\nd\u00e9fausse. Puis placez cette carte-ci face cach\u00e9e dans\nvotre r\u00e9serve d'encre.",
+      "fullTextSections": [
+        "Chaque adversaire choisit une carte de sa main et la\nd\u00e9fausse. Puis placez cette carte-ci face cach\u00e9e dans\nvotre r\u00e9serve d'encre."
+      ],
+      "id": 933,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/20_db9c0bc3314df80267162756681148c7c5cea66d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/20_c257bfc2a98626b334426b5535e0949dcdf24fff.jpg"
+      },
+      "inkwell": true,
+      "name": "Sort d'envo\u00fbtement",
+      "number": 20,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "sort d'envoutement",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luigi Aim\u00e9"
+      ],
+      "artistsText": "Luigi Aim\u00e9",
+      "code": "f4",
+      "color": "",
+      "cost": 0,
+      "effects": [
+        "Vos adversaires choisissent collectivement un de vos\nobjets et le bannissent."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291163,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291163",
+        "cardmarketId": 771385,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Fortunate-Hit?language=2",
+        "tcgPlayerId": 552766,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552766"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "21/31 \u2022 FR \u2022 Q1",
+      "fullName": "Coup de Chance",
+      "fullText": "Vos adversaires choisissent collectivement un de vos\nobjets et le bannissent.",
+      "fullTextSections": [
+        "Vos adversaires choisissent collectivement un de vos\nobjets et le bannissent."
+      ],
+      "id": 934,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/21_d029f865afe68c74922b1614492f6b630ed3d6df.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/21_864744b40b220cb03cc69877724b940a4937c24e.jpg"
+      },
+      "inkwell": true,
+      "name": "Coup de Chance",
+      "number": 21,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "coup de chance",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luigi Aim\u00e9"
+      ],
+      "artistsText": "Luigi Aim\u00e9",
+      "code": "f5",
+      "color": "",
+      "cost": 2,
+      "effects": [
+        "Chaque adversaire choisit un de ses personnages et\nle bannit."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291160,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291160",
+        "cardmarketId": 771386,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Lash-Out?language=2",
+        "tcgPlayerId": 552767,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552767"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "22/31 \u2022 FR \u2022 Q1",
+      "fullName": "Riposte",
+      "fullText": "Chaque adversaire choisit un de ses personnages et\nle bannit.",
+      "fullTextSections": [
+        "Chaque adversaire choisit un de ses personnages et\nle bannit."
+      ],
+      "id": 935,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/22_f74f3d186fce0db3fd64b6e04e9d3a6bcc2affb1.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/22_5a5fef41c58f21b6e26e8d9ddb038ad070e6526d.jpg"
+      },
+      "inkwell": true,
+      "name": "Riposte",
+      "number": 22,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "riposte",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Mario Oscar Gabriele"
+      ],
+      "artistsText": "Mario Oscar Gabriele",
+      "code": "f6",
+      "color": "",
+      "cost": 6,
+      "effects": [
+        "Chaque adversaire perd 3 \u00e9clats de Lore."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291157,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291157",
+        "cardmarketId": 771387,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Lightning-Storm?language=2",
+        "tcgPlayerId": 552768,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552768"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "23/31 \u2022 FR \u2022 Q1",
+      "fullName": "Temp\u00eate de Foudre",
+      "fullText": "Chaque adversaire perd 3 \u00e9clats de Lore.",
+      "fullTextSections": [
+        "Chaque adversaire perd 3 \u00e9clats de Lore."
+      ],
+      "id": 936,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/23_ae4bbbef7668e1086a87f055525f10b5c5c13a9b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/23_ec6b9a1659dadae20c814206309f707785e0035e.jpg"
+      },
+      "inkwell": true,
+      "name": "Temp\u00eate de Foudre",
+      "number": 23,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "tempete de foudre",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Ilaria Sposetti"
+      ],
+      "artistsText": "Ilaria Sposetti",
+      "code": "f7",
+      "color": "",
+      "cost": 6,
+      "effects": [
+        "Bannissez tous les personnages, objets et lieux\nadverses co\u00fbtant 2 ou moins."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291151,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291151",
+        "cardmarketId": 771388,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Riptide?language=2",
+        "tcgPlayerId": 552769,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552769"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "24/31 \u2022 FR \u2022 Q1",
+      "fullName": "Lame de Fond",
+      "fullText": "Bannissez tous les personnages, objets et lieux\nadverses co\u00fbtant 2 ou moins.",
+      "fullTextSections": [
+        "Bannissez tous les personnages, objets et lieux\nadverses co\u00fbtant 2 ou moins."
+      ],
+      "id": 937,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/24_21fe28e6f4d298f02403a23535eebb5026f34999.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/24_c3516a11c00f7d4efefd4f263afd9b770046f35c.jpg"
+      },
+      "inkwell": true,
+      "name": "Lame de Fond",
+      "number": 24,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "lame de fond",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Mario Oscar Gabriele"
+      ],
+      "artistsText": "Mario Oscar Gabriele",
+      "code": "f8",
+      "color": "",
+      "cost": 2,
+      "effects": [
+        "Infligez 1 dommage \u00e0 chaque personnage adverse.\nPuis placez cette carte, face cach\u00e9e, dans votre\nr\u00e9serve d'encre."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291148,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291148",
+        "cardmarketId": 771389,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Tentacle-Swipe?language=2",
+        "tcgPlayerId": 552770,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552770"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "25/31 \u2022 FR \u2022 Q1",
+      "fullName": "Coup de Tentacule",
+      "fullText": "Infligez 1 dommage \u00e0 chaque personnage adverse.\nPuis placez cette carte, face cach\u00e9e, dans votre\nr\u00e9serve d'encre.",
+      "fullTextSections": [
+        "Infligez 1 dommage \u00e0 chaque personnage adverse.\nPuis placez cette carte, face cach\u00e9e, dans votre\nr\u00e9serve d'encre."
+      ],
+      "id": 938,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/25_06fe7c39452ec14fe38bdd2ed33245bbb85410e2.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/25_cc6f92543e5bd1a883008a1772eececb67641310.jpg"
+      },
+      "inkwell": true,
+      "name": "Coup de Tentacule",
+      "number": 25,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "coup de tentacule",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luigi Aim\u00e9"
+      ],
+      "artistsText": "Luigi Aim\u00e9",
+      "code": "f9",
+      "color": "",
+      "cost": 7,
+      "effects": [
+        "Bannissez tous les personnages adverses."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291141,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291141",
+        "cardmarketId": 771390,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Tsunami?language=2",
+        "tcgPlayerId": 552771,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552771"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "26/31 \u2022 FR \u2022 Q1",
+      "fullName": "Tsunami",
+      "fullText": "Bannissez tous les personnages adverses.",
+      "fullTextSections": [
+        "Bannissez tous les personnages adverses."
+      ],
+      "id": 939,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/26_4b555c2b6063b757a71e2329d908825c735cb6f7.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/26_083c461d24ad50289e2083bb254b2fcaed0f67bf.jpg"
+      },
+      "inkwell": true,
+      "name": "Tsunami",
+      "number": 26,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "tsunami",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Leonardo Giammichele"
+      ],
+      "artistsText": "Leonardo Giammichele",
+      "code": "fa",
+      "color": "",
+      "cost": 5,
+      "effects": [
+        "Renvoyez tous les personnages adverses \u00e9puis\u00e9s dans\nles mains de leurs propri\u00e9taires."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291139,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291139",
+        "cardmarketId": 771391,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Typhoon?language=2",
+        "tcgPlayerId": 552772,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552772"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "27/31 \u2022 FR \u2022 Q1",
+      "fullName": "Typhon",
+      "fullText": "Renvoyez tous les personnages adverses \u00e9puis\u00e9s dans\nles mains de leurs propri\u00e9taires.",
+      "fullTextSections": [
+        "Renvoyez tous les personnages adverses \u00e9puis\u00e9s dans\nles mains de leurs propri\u00e9taires."
+      ],
+      "id": 940,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/27_d84e339efdf07c240da28fb3c483dbeaf21d819e.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/27_10d3b601c779a767314a4747cc89b214c95a7968.jpg"
+      },
+      "inkwell": true,
+      "name": "Typhon",
+      "number": 27,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "typhon",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Veronica Di Lorenzo",
+        "Livio Cacciatore"
+      ],
+      "artistsText": "Veronica Di Lorenzo / Livio Cacciatore",
+      "code": "fb",
+      "color": "",
+      "cost": 4,
+      "effects": [
+        "\u00c9puisez tous les personnages adverses. Ils ne se\nredressent pas au d\u00e9but de leur prochain tour."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291167,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291167",
+        "cardmarketId": 771392,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Whirlpool?language=2",
+        "tcgPlayerId": 552773,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552773"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "28/31 \u2022 FR \u2022 Q1",
+      "fullName": "Tourbillon",
+      "fullText": "\u00c9puisez tous les personnages adverses. Ils ne se\nredressent pas au d\u00e9but de leur prochain tour.",
+      "fullTextSections": [
+        "\u00c9puisez tous les personnages adverses. Ils ne se\nredressent pas au d\u00e9but de leur prochain tour."
+      ],
+      "id": 941,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/28_42caec70ac7d309ffd18e2085027a6ee2c243e32.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/28_4126fc0b70a2e0585ff6e448d510046a6dea2de6.jpg"
+      },
+      "inkwell": true,
+      "name": "Tourbillon",
+      "number": 28,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "tourbillon",
+      "story": "Lorcana",
+      "type": "Action"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Piochez une carte.",
+          "fullText": "LES AVANTAGES DU POUVOIR \u27f3 \u2014 Piochez une carte.",
+          "name": "LES AVANTAGES DU POUVOIR",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Veronica Di Lorenzo",
+        "Livio Cacciatore"
+      ],
+      "artistsText": "Veronica Di Lorenzo / Livio Cacciatore",
+      "code": "fc",
+      "color": "",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 291144,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291144",
+        "cardmarketId": 771393,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/The-Hexwell-Crown?language=2",
+        "tcgPlayerId": 552774,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552774"
+      },
+      "flavorText": "Lorsqu'elle posa la couronne sur sa t\u00eate, Ursula\nressentit une vague de pouvoir immense.",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "29/31 \u2022 FR \u2022 Q1",
+      "fullName": "La Couronne d'Hexasort",
+      "fullText": "LES AVANTAGES DU POUVOIR \u27f3 \u2014 Piochez une carte.",
+      "fullTextSections": [
+        "LES AVANTAGES DU POUVOIR \u27f3 \u2014 Piochez une carte."
+      ],
+      "id": 942,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/29_f06a71a0ca81abbac8e673293380f11d72a240cf.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/29_e70e1befeccaf6dc94a427cd6fa8a4191ad36346.jpg"
+      },
+      "inkwell": true,
+      "name": "La Couronne d'Hexasort",
+      "number": 29,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "la couronne d'hexasort",
+      "story": "Lorcana",
+      "type": "Objet"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Vos adversaires ne peuvent pas utiliser de capacit\u00e9 de champ de bataille.",
+          "fullText": "UNE MEILLEURE OFFRE Vos adversaires ne peuvent pas\nutiliser de capacit\u00e9 de champ de bataille.",
+          "name": "UNE MEILLEURE OFFRE",
+          "type": "static"
+        },
+        {
+          "effect": "Au d\u00e9but de votre tour, bannissez cet objet et gagnez 3 \u00e9clats de Lore.",
+          "fullText": "CLAUSE SUBSIDIAIRE Au d\u00e9but de votre tour, bannissez\ncet objet et gagnez 3 \u00e9clats de Lore.",
+          "name": "CLAUSE SUBSIDIAIRE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luca Pisanu"
+      ],
+      "artistsText": "Luca Pisanu",
+      "code": "fd",
+      "color": "",
+      "cost": 0,
+      "externalLinks": {
+        "cardTraderId": 291138,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291138",
+        "cardmarketId": 771394,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Ursulas-Contract?language=2",
+        "tcgPlayerId": 552775,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552775"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "30/31 \u2022 FR \u2022 Q1",
+      "fullName": "Le Contrat d'Ursula",
+      "fullText": "UNE MEILLEURE OFFRE Vos adversaires ne peuvent pas\nutiliser de capacit\u00e9 de champ de bataille.\nCLAUSE SUBSIDIAIRE Au d\u00e9but de votre tour, bannissez\ncet objet et gagnez 3 \u00e9clats de Lore.",
+      "fullTextSections": [
+        "UNE MEILLEURE OFFRE Vos adversaires ne peuvent pas\nutiliser de capacit\u00e9 de champ de bataille.",
+        "CLAUSE SUBSIDIAIRE Au d\u00e9but de votre tour, bannissez\ncet objet et gagnez 3 \u00e9clats de Lore."
+      ],
+      "id": 943,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/30_1713be8b577d06e1a29394bec3595705fa886510.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/30_0094ed74f7bf43a11a0a9d5cec9ec29e2f9aa4fa.jpg"
+      },
+      "inkwell": true,
+      "name": "Le Contrat d'Ursula",
+      "number": 30,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "le contrat d'ursula",
+      "story": "Lorcana",
+      "type": "Objet"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Gagnez 1 \u00e9clat de Lore.",
+          "fullText": "LE POUVOIR EST \u00c0 MOI ! \u27f3 \u2014 Gagnez 1 \u00e9clat de Lore.",
+          "name": "LE POUVOIR EST \u00c0 MOI !",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jonathan Livslyst"
+      ],
+      "artistsText": "Jonathan Livslyst",
+      "code": "fe",
+      "color": "",
+      "cost": 0,
+      "externalLinks": {
+        "cardTraderId": 291137,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291137",
+        "cardmarketId": 771395,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Ursulas-Deck/Ursulas-Stolen-Trident?language=2",
+        "tcgPlayerId": 552776,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552776"
+      },
+      "flavorText": "\u201cCombin\u00e9 \u00e0 ma magie, le Trident offre des pouvoirs que\nce vieux fou de roi des mers n'aurait jamais imagin\u00e9s !\u201d\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "31/31 \u2022 FR \u2022 Q1",
+      "fullName": "Le Trident Vol\u00e9 d'Ursula",
+      "fullText": "LE POUVOIR EST \u00c0 MOI ! \u27f3 \u2014 Gagnez 1 \u00e9clat de Lore.",
+      "fullTextSections": [
+        "LE POUVOIR EST \u00c0 MOI ! \u27f3 \u2014 Gagnez 1 \u00e9clat de Lore."
+      ],
+      "id": 944,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/fr/quest1/31_74a99673983e4e5204291e5c4a25471181d63626.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/quest1/31_f3e4bb9247afbdf6d28c77be27cde244e6994e2c.jpg"
+      },
+      "inkwell": true,
+      "name": "Le Trident Vol\u00e9 d'Ursula",
+      "number": 31,
+      "promoSourceCategory": "Qu\u00eate des Illumineurs",
+      "rarity": "Sp\u00e9cial",
+      "simpleName": "le trident vole d'ursula",
+      "story": "Lorcana",
+      "type": "Objet"
+    }
+  ]
+}

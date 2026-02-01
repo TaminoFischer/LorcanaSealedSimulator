@@ -1,0 +1,74 @@
+---
+description: Vue 3 Composition API patterns for this project
+globs: "**/*.vue"
+alwaysApply: false
+---
+
+# Vue 3 Patterns
+
+## Component Structure
+
+Always use `<script setup lang="ts">`:
+
+```vue
+<script setup lang="ts">
+import { ref, computed, watch } from 'vue'
+
+// Props
+const props = defineProps<{ 
+  id: number
+  data: CardData 
+}>()
+
+// State
+const isActive = ref(false)
+
+// Computed
+const displayName = computed(() => props.data.fullName)
+
+// Methods
+function handleClick() {
+  isActive.value = true
+}
+</script>
+
+<template>
+  <!-- Single root element for proper event handling -->
+  <div class="component-wrapper">
+    ...
+  </div>
+</template>
+
+<style>
+/* Component styles */
+</style>
+```
+
+## State Management
+
+- Use `ref()` for primitives and objects
+- Use `reactive()` for complex settings objects
+- Use `computed()` for derived state
+
+```typescript
+// ✅ Good
+const count = ref(0)
+const settings = reactive({ value: 1, enabled: true })
+const isValid = computed(() => count.value > 0)
+
+// ❌ Avoid - don't mix reactive patterns
+const data = reactive({ count: ref(0) })
+```
+
+## Event Handling
+
+- Use `@event="handler"` syntax
+- For drag events, ensure single root element in template
+
+```vue
+<SingleCard 
+  @mouseover="preview(card)"
+  @dragstart="onDragStart($event, card)"
+  draggable="true"
+/>
+```

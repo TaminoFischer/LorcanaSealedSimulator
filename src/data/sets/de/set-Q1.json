@@ -1,0 +1,1880 @@
+{
+  "prereleaseDate": "2024-05-17",
+  "releaseDate": "2024-05-31",
+  "hasAllCards": true,
+  "type": "quest",
+  "number": 1,
+  "allowedInFormats": {
+    "Core": {
+      "allowed": false
+    },
+    "Infinity": {
+      "allowed": false
+    }
+  },
+  "allowedInTournamentsFromDate": null,
+  "name": "Die Luminari Chroniken: Gefahr aus der Tiefe",
+  "code": "Q1",
+  "metadata": {
+    "formatVersion": "2.3.2",
+    "generatedOn": "2025-12-18T20:20:09",
+    "language": "de"
+  },
+  "cards": [
+    {
+      "abilities": [
+        {
+          "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)",
+          "keyword": "Wendig",
+          "reminderText": "Nur Charaktere mit Wendig k\u00f6nnen diesen Charakter herausfordern.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Dustin Panzino"
+      ],
+      "artistsText": "Dustin Panzino",
+      "code": "eK",
+      "color": "",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 291166,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291166",
+        "cardmarketId": 771365,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Anna-Ensnared-Sister?language=3",
+        "tcgPlayerId": 552746,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552746"
+      },
+      "flavorText": "\u201eAh, k\u00f6niglich! So h\u00fcbsch. So naiv. So unendlich\nbeeinflussbar.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "1/31 \u2022 DE \u2022 Q1",
+      "fullName": "Anna - Gefangene Schwester",
+      "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)",
+      "fullTextSections": [
+        "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)"
+      ],
+      "id": 914,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/1_b8ebe0d2c1d050f497aaac0317eff15ffc6a294f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/1_0dea726832f756ed2c65cd63a2be850477d123fa.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Wendig"
+      ],
+      "lore": 2,
+      "name": "Anna",
+      "number": 1,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "anna gefangene schwester",
+      "story": "Die Eisk\u00f6nigin",
+      "strength": 5,
+      "subtypes": [
+        "Verstrickt",
+        "Heldin",
+        "K\u00f6nigin"
+      ],
+      "subtypesText": "Verstrickt \u2022 Heldin \u2022 K\u00f6nigin",
+      "type": "Charakter",
+      "version": "Gefangene Schwester",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn du diesen Charakter ausspielst, legen alle gegnerischen Mitspielenden die obersten 3 Karten ihres Decks auf ihren Ablagestapel.",
+          "fullText": "D\u00dcSTERE PROPHEZEIUNG Wenn du diesen Charakter\nausspielst, legen alle gegnerischen Mitspielenden die\nobersten 3 Karten ihres Decks auf ihren Ablagestapel.",
+          "name": "D\u00dcSTERE PROPHEZEIUNG",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Brian Kesinger"
+      ],
+      "artistsText": "Brian Kesinger",
+      "code": "eL",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 291168,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291168",
+        "cardmarketId": 771366,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Bruno-Madrigal-Unspeakable-Seer?language=3",
+        "tcgPlayerId": 552747,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552747"
+      },
+      "flavorText": "\u201eSeine besonderen Talente haben sich bereits als sehr\nn\u00fctzlich erwiesen.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "2/31 \u2022 DE \u2022 Q1",
+      "fullName": "Bruno Madrigal - Unaussprechlicher Wahrsager",
+      "fullText": "D\u00dcSTERE PROPHEZEIUNG Wenn du diesen Charakter\nausspielst, legen alle gegnerischen Mitspielenden die\nobersten 3 Karten ihres Decks auf ihren Ablagestapel.",
+      "fullTextSections": [
+        "D\u00dcSTERE PROPHEZEIUNG Wenn du diesen Charakter\nausspielst, legen alle gegnerischen Mitspielenden die\nobersten 3 Karten ihres Decks auf ihren Ablagestapel."
+      ],
+      "id": 915,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/2_23a286cbbd36bc97aac4e7475e4cbcc1acbc1184.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/2_42ccbc0a534ad3c4ddeceaa3836318de4558516b.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Bruno Madrigal",
+      "number": 2,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "bruno madrigal unaussprechlicher wahrsager",
+      "story": "Encanto",
+      "strength": 4,
+      "subtypes": [
+        "Verstrickt",
+        "Verb\u00fcndeter",
+        "Madrigal"
+      ],
+      "subtypesText": "Verstrickt \u2022 Verb\u00fcndeter \u2022 Madrigal",
+      "type": "Charakter",
+      "version": "Unaussprechlicher Wahrsager",
+      "willpower": 4
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Gonzalo Kenny"
+      ],
+      "artistsText": "Gonzalo Kenny",
+      "code": "eM",
+      "color": "",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 291159,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291159",
+        "cardmarketId": 771367,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Captain-Hook-Devious-Duelist?language=3",
+        "tcgPlayerId": 552748,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552748"
+      },
+      "flavorText": "\u201eEine offensichtliche Wahl, nat\u00fcrlich. Er ist so voller\nVerrat und T\u00e4uschung. Er erinnert mich an \u2026 mich.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "3/31 \u2022 DE \u2022 Q1",
+      "fullName": "K\u00e4pt'n Hook - Hinterh\u00e4ltiger Duellant",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 916,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/3_0f6b125bdce45a6be9c87c03e98dbb10c67dc2ee.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/3_a6f52cb9259945083d0f64f3fc3bd7def1da7ed5.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "K\u00e4pt'n Hook",
+      "number": 3,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "kapt'n hook hinterhaltiger duellant",
+      "story": "Peter Pan",
+      "strength": 7,
+      "subtypes": [
+        "Verstrickt",
+        "Schurke",
+        "Pirat",
+        "Kapit\u00e4n"
+      ],
+      "subtypesText": "Verstrickt \u2022 Schurke \u2022 Pirat \u2022 Kapit\u00e4n",
+      "type": "Charakter",
+      "version": "Hinterh\u00e4ltiger Duellant",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Besch\u00fctzen (Du darfst diesen Charakter ersch\u00f6pft\nausspielen. Gegnerische Charaktere m\u00fcssen beim\nHerausfordern deiner Charaktere zuerst deine Charaktere\nmit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)",
+          "keyword": "Besch\u00fctzen",
+          "reminderText": "Du darfst diesen Charakter ersch\u00f6pft ausspielen. Gegnerische Charaktere m\u00fcssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Dieser Charakter kommt ersch\u00f6pft ins Spiel.",
+          "fullText": "URSULAS WACHTPOSTEN Dieser Charakter kommt\nersch\u00f6pft ins Spiel.",
+          "name": "URSULAS WACHTPOSTEN",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jeanne Plounevez"
+      ],
+      "artistsText": "Jeanne Plounevez",
+      "code": "eN",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 291155,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291155",
+        "cardmarketId": 771368,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Flotsam-Wicked-Defender?language=3",
+        "tcgPlayerId": 552749,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552749"
+      },
+      "flavorText": "\u201eMein geliebtes Baby, immer so besch\u00fctzerisch.\u201c \u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "4/31 \u2022 DE \u2022 Q1",
+      "fullName": "Abschaum - B\u00f6ser Besch\u00fctzer",
+      "fullText": "Besch\u00fctzen (Du darfst diesen Charakter ersch\u00f6pft\nausspielen. Gegnerische Charaktere m\u00fcssen beim\nHerausfordern deiner Charaktere zuerst deine Charaktere\nmit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)\nURSULAS WACHTPOSTEN Dieser Charakter kommt\nersch\u00f6pft ins Spiel.",
+      "fullTextSections": [
+        "Besch\u00fctzen (Du darfst diesen Charakter ersch\u00f6pft\nausspielen. Gegnerische Charaktere m\u00fcssen beim\nHerausfordern deiner Charaktere zuerst deine Charaktere\nmit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)",
+        "URSULAS WACHTPOSTEN Dieser Charakter kommt\nersch\u00f6pft ins Spiel."
+      ],
+      "id": 917,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/4_8677ced688ebbb34bcc457a6eb410ff9d1c036ef.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/4_08d851fc77b0f2aaca3ae1fdfcf77138d1cf9634.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Besch\u00fctzen"
+      ],
+      "lore": 2,
+      "name": "Abschaum",
+      "number": 4,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "abschaum boser beschutzer",
+      "story": "Arielle, die Meerjungfrau",
+      "strength": 5,
+      "subtypes": [
+        "Verb\u00fcndeter"
+      ],
+      "subtypesText": "Verb\u00fcndeter",
+      "type": "Charakter",
+      "version": "B\u00f6ser Besch\u00fctzer",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn du diesen Charakter ausspielst, f\u00fcge dem gegnerischen Charakter mit den niedrigsten Kosten im Spiel 4 Schaden zu. (Bei Gleichstand d\u00fcrfen die betroffenen Personen w\u00e4hlen.)",
+          "fullText": "EINDEUTIG PRIMITIV Wenn du diesen Charakter\nausspielst, f\u00fcge dem gegnerischen Charakter mit\nden niedrigsten Kosten im Spiel 4 Schaden zu.\n(Bei Gleichstand d\u00fcrfen die betroffenen Personen\nw\u00e4hlen.)",
+          "name": "EINDEUTIG PRIMITIV",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Leonardo Giammichele"
+      ],
+      "artistsText": "Leonardo Giammichele",
+      "code": "eO",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 291162,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291162",
+        "cardmarketId": 771369,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Gaston-Egotistical-Bully?language=3",
+        "tcgPlayerId": 552750,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552750"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "5/31 \u2022 DE \u2022 Q1",
+      "fullName": "Gaston - Egoistischer Rabauke",
+      "fullText": "EINDEUTIG PRIMITIV Wenn du diesen Charakter\nausspielst, f\u00fcge dem gegnerischen Charakter mit\nden niedrigsten Kosten im Spiel 4 Schaden zu.\n(Bei Gleichstand d\u00fcrfen die betroffenen Personen\nw\u00e4hlen.)",
+      "fullTextSections": [
+        "EINDEUTIG PRIMITIV Wenn du diesen Charakter\nausspielst, f\u00fcge dem gegnerischen Charakter mit\nden niedrigsten Kosten im Spiel 4 Schaden zu.\n(Bei Gleichstand d\u00fcrfen die betroffenen Personen\nw\u00e4hlen.)"
+      ],
+      "id": 918,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/5_461018751780ef32a92619c66c3af1ae30a1d4f2.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/5_38bf8a0fa0858da2b7313eebae96b83195ca97e6.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Gaston",
+      "number": 5,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "gaston egoistischer rabauke",
+      "story": "Die Sch\u00f6ne und das Biest",
+      "strength": 2,
+      "subtypes": [
+        "Verstrickt",
+        "Schurke"
+      ],
+      "subtypesText": "Verstrickt \u2022 Schurke",
+      "type": "Charakter",
+      "version": "Egoistischer Rabauke",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)",
+          "keyword": "Wendig",
+          "reminderText": "Nur Charaktere mit Wendig k\u00f6nnen diesen Charakter herausfordern.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Veronica Di Lorenzo",
+        "Livio Cacciatore"
+      ],
+      "artistsText": "Veronica Di Lorenzo / Livio Cacciatore",
+      "code": "eP",
+      "color": "",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 291161,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291161",
+        "cardmarketId": 771370,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/HeiHei-Peckish-Pal?language=3",
+        "tcgPlayerId": 552751,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552751"
+      },
+      "flavorText": "Er wei\u00df nicht, warum er hier ist. Und Ursula wei\u00df\nes auch nicht.",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "6/31 \u2022 DE \u2022 Q1",
+      "fullName": "HeiHei - Knurriger Freund",
+      "fullText": "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)",
+      "fullTextSections": [
+        "Wendig (Nur Charaktere mit Wendig k\u00f6nnen\ndiesen Charakter herausfordern.)"
+      ],
+      "id": 919,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/6_fb380b151c701655145e7cd6490dfe4bf67fb7e9.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/6_7f7aa698f078e49bf99c44cca54d5c53d7b23827.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Wendig"
+      ],
+      "lore": 1,
+      "name": "HeiHei",
+      "number": 6,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "heihei knurriger freund",
+      "story": "Vaiana",
+      "strength": 3,
+      "subtypes": [
+        "Verb\u00fcndeter"
+      ],
+      "subtypesText": "Verb\u00fcndeter",
+      "type": "Charakter",
+      "version": "Knurriger Freund",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Besch\u00fctzen (Du darfst diesen Charakter ersch\u00f6pft ausspielen.\nGegnerische Charaktere m\u00fcssen beim Herausfordern deiner Charaktere\nzuerst deine Charaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)",
+          "keyword": "Besch\u00fctzen",
+          "reminderText": "Du darfst diesen Charakter ersch\u00f6pft ausspielen. Gegnerische Charaktere m\u00fcssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Dieser Charakter kommt ersch\u00f6pft ins Spiel.",
+          "fullText": "URSULAS WACHTPOSTEN Dieser Charakter kommt ersch\u00f6pft ins\nSpiel.",
+          "name": "URSULAS WACHTPOSTEN",
+          "type": "static"
+        },
+        {
+          "effect": "Die gegnerischen Mitspielenden k\u00f6nnen in ihrem Zug gemeinsam 3 Legenden bezahlen um diesen Charakter zu verbannen.",
+          "fullText": "ALLES HAT SEINEN PREIS Die gegnerischen Mitspielenden\nk\u00f6nnen in ihrem Zug gemeinsam 3 Legenden bezahlen um\ndiesen Charakter zu verbannen.",
+          "name": "ALLES HAT SEINEN PREIS",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Mario Oscar Gabriele"
+      ],
+      "artistsText": "Mario Oscar Gabriele",
+      "code": "eQ",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 291158,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291158",
+        "cardmarketId": 771371,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Hercules-Manipulated-Hero?language=3",
+        "tcgPlayerId": 552752,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552752"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "7/31 \u2022 DE \u2022 Q1",
+      "fullName": "Hercules - Manipulierter Held",
+      "fullText": "Besch\u00fctzen (Du darfst diesen Charakter ersch\u00f6pft ausspielen.\nGegnerische Charaktere m\u00fcssen beim Herausfordern deiner Charaktere\nzuerst deine Charaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)\nURSULAS WACHTPOSTEN Dieser Charakter kommt ersch\u00f6pft ins\nSpiel.\nALLES HAT SEINEN PREIS Die gegnerischen Mitspielenden\nk\u00f6nnen in ihrem Zug gemeinsam 3 Legenden bezahlen um\ndiesen Charakter zu verbannen.",
+      "fullTextSections": [
+        "Besch\u00fctzen (Du darfst diesen Charakter ersch\u00f6pft ausspielen.\nGegnerische Charaktere m\u00fcssen beim Herausfordern deiner Charaktere\nzuerst deine Charaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)",
+        "URSULAS WACHTPOSTEN Dieser Charakter kommt ersch\u00f6pft ins\nSpiel.",
+        "ALLES HAT SEINEN PREIS Die gegnerischen Mitspielenden\nk\u00f6nnen in ihrem Zug gemeinsam 3 Legenden bezahlen um\ndiesen Charakter zu verbannen."
+      ],
+      "id": 920,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/7_0b337e7524ed0940930ffb9e2273cfa368577885.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/7_a2e4321963957f6d728028facadc7c91d850d6f6.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Besch\u00fctzen"
+      ],
+      "lore": 2,
+      "name": "Hercules",
+      "number": 7,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "hercules manipulierter held",
+      "story": "Hercules",
+      "strength": 3,
+      "subtypes": [
+        "Verstrickt",
+        "Held",
+        "Prinz"
+      ],
+      "subtypesText": "Verstrickt \u2022 Held \u2022 Prinz",
+      "type": "Charakter",
+      "version": "Manipulierter Held",
+      "willpower": 7
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Ilaria Sposetti"
+      ],
+      "artistsText": "Ilaria Sposetti",
+      "code": "eR",
+      "color": "",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 291150,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291150",
+        "cardmarketId": 771372,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Jafar-Double-Crossing-Vizier?language=3",
+        "tcgPlayerId": 552753,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552753"
+      },
+      "flavorText": "\u201eMit seinem starken Willen war es schwierig, ihn\nzu verstricken. Aber am Ende bekomme ich immer\nwas ich will.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "8/31 \u2022 DE \u2022 Q1",
+      "fullName": "Dschafar - Doppelspieliger Wesir",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 921,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/8_b05d83537b113163d4aeb14355539f8065ef4026.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/8_a424f6aed81836c8212c5cad3cd53fed4893204d.jpg"
+      },
+      "inkwell": true,
+      "lore": 3,
+      "name": "Dschafar",
+      "number": 8,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "dschafar doppelspieliger wesir",
+      "story": "Aladdin",
+      "strength": 9,
+      "subtypes": [
+        "Verstrickt",
+        "Schurke",
+        "Magier"
+      ],
+      "subtypesText": "Verstrickt \u2022 Schurke \u2022 Magier",
+      "type": "Charakter",
+      "version": "Doppelspieliger Wesir",
+      "willpower": 9
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn du diesen Charakter ausspielst, f\u00fcge jedem gegnerischen Charakter 1 Schaden zu.",
+          "fullText": "URSULA BESITZT SEHR GROSSE MACHT Wenn\ndu diesen Charakter ausspielst, f\u00fcge jedem\ngegnerischen Charakter 1 Schaden zu.",
+          "name": "URSULA BESITZT SEHR GROSSE MACHT",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jeanne Plounevez"
+      ],
+      "artistsText": "Jeanne Plounevez",
+      "code": "eS",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 291145,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291145",
+        "cardmarketId": 771373,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Jetsam-Wicked-Whisperer?language=3",
+        "tcgPlayerId": 552754,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552754"
+      },
+      "flavorText": "\u201eMein kleiner Pupsie kann selbst die hartn\u00e4ckigsten\nGlimmer umstimmen.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "9/31 \u2022 DE \u2022 Q1",
+      "fullName": "Meerschaum - B\u00f6ser Fl\u00fcsterer",
+      "fullText": "URSULA BESITZT SEHR GROSSE MACHT Wenn\ndu diesen Charakter ausspielst, f\u00fcge jedem\ngegnerischen Charakter 1 Schaden zu.",
+      "fullTextSections": [
+        "URSULA BESITZT SEHR GROSSE MACHT Wenn\ndu diesen Charakter ausspielst, f\u00fcge jedem\ngegnerischen Charakter 1 Schaden zu."
+      ],
+      "id": 922,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/9_cd7bce9f305bffef04bc26e5a15e5346defb970b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/9_0ed8536b5744c8874aa096144f76b0c5e2741d4c.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Meerschaum",
+      "number": 9,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "meerschaum boser flusterer",
+      "story": "Arielle, die Meerjungfrau",
+      "strength": 5,
+      "subtypes": [
+        "Verb\u00fcndeter"
+      ],
+      "subtypesText": "Verb\u00fcndeter",
+      "type": "Charakter",
+      "version": "B\u00f6ser Fl\u00fcsterer",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "John Loren"
+      ],
+      "artistsText": "John Loren",
+      "code": "eT",
+      "color": "",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 291156,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291156",
+        "cardmarketId": 771374,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Mad-Hatter-Sinister-Host?language=3",
+        "tcgPlayerId": 552755,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552755"
+      },
+      "flavorText": "\u201eEr ist einfach verr\u00fcckt nach Partys. Er feiert\nbereits meinen Sieg.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "10/31 \u2022 DE \u2022 Q1",
+      "fullName": "Der verr\u00fcckte Hutmacher - B\u00f6ser Gastgeber",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 923,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/10_0e5722edb4ac912e5d429d2b9ed1924565d9428d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/10_0c1c5b2f881a0912bbdeed04da77e4b3d55a1746.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Der verr\u00fcckte Hutmacher",
+      "number": 10,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "der verruckte hutmacher boser gastgeber",
+      "story": "Alice im Wunderland",
+      "strength": 3,
+      "subtypes": [
+        "Verstrickt",
+        "Verb\u00fcndeter"
+      ],
+      "subtypesText": "Verstrickt \u2022 Verb\u00fcndeter",
+      "type": "Charakter",
+      "version": "B\u00f6ser Gastgeber",
+      "willpower": 5
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Gonzalo Kenny"
+      ],
+      "artistsText": "Gonzalo Kenny",
+      "code": "eU",
+      "color": "",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 291143,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291143",
+        "cardmarketId": 771375,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Magica-De-Spell-Shadowy-Sorceress?language=3",
+        "tcgPlayerId": 552756,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552756"
+      },
+      "flavorText": "\u201eIhre skurrilen Zauberspr\u00fcche sind kaum mehr\nals Lappalien im Vergleich zu meinen eigenen.\nDennoch hat sie ihren Nutzen.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "11/31 \u2022 DE \u2022 Q1",
+      "fullName": "Gundel Gaukeley - Schattenhafte Hexe",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 924,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/11_7a0096dcdce5c76c63ab4b3526f3bfdacf9a02c6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/11_120b5b320eab99a26a3912725818b143fc58d988.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Gundel Gaukeley",
+      "number": 11,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "gundel gaukeley schattenhafte hexe",
+      "story": "DuckTales",
+      "strength": 4,
+      "subtypes": [
+        "Verstrickt",
+        "Schurkin",
+        "Magierin"
+      ],
+      "subtypesText": "Verstrickt \u2022 Schurkin \u2022 Magierin",
+      "type": "Charakter",
+      "version": "Schattenhafte Hexe",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn du diesen Charakter ausspielst, verlieren alle gegnerischen Mitspielenden je 2 Legenden.",
+          "fullText": "VERWIRRENDE PR\u00c4SENZ Wenn du diesen\nCharakter ausspielst, verlieren alle gegnerischen\nMitspielenden je 2 Legenden.",
+          "name": "VERWIRRENDE PR\u00c4SENZ",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Gonzalo Kenny"
+      ],
+      "artistsText": "Gonzalo Kenny",
+      "code": "eV",
+      "color": "",
+      "cost": 7,
+      "externalLinks": {
+        "cardTraderId": 291149,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291149",
+        "cardmarketId": 771376,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Minnie-Mouse-Wild-Eyed-Diver?language=3",
+        "tcgPlayerId": 552757,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552757"
+      },
+      "flavorText": "\u201eDie erste \u2014 und beste \u2014 meiner verstrickten Glimmer.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "12/31 \u2022 DE \u2022 Q1",
+      "fullName": "Minnie Maus - Raunende Taucherin",
+      "fullText": "VERWIRRENDE PR\u00c4SENZ Wenn du diesen\nCharakter ausspielst, verlieren alle gegnerischen\nMitspielenden je 2 Legenden.",
+      "fullTextSections": [
+        "VERWIRRENDE PR\u00c4SENZ Wenn du diesen\nCharakter ausspielst, verlieren alle gegnerischen\nMitspielenden je 2 Legenden."
+      ],
+      "id": 925,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/12_60d4b4ca9b360330369959e76a91b2cb92c9b547.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/12_7db1af847c4285690da888967356e87bec9e01af.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Minnie Maus",
+      "number": 12,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "minnie maus raunende taucherin",
+      "story": "Mickey Maus und Freunde",
+      "strength": 6,
+      "subtypes": [
+        "Verstrickt",
+        "Heldin"
+      ],
+      "subtypesText": "Verstrickt \u2022 Heldin",
+      "type": "Charakter",
+      "version": "Raunende Taucherin",
+      "willpower": 7
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Besch\u00fctzen (Du darfst diesen Charakter ersch\u00f6pft\nausspielen. Gegnerische Charaktere m\u00fcssen beim\nHerausfordern deiner Charaktere zuerst deine\nCharaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)",
+          "keyword": "Besch\u00fctzen",
+          "reminderText": "Du darfst diesen Charakter ersch\u00f6pft ausspielen. Gegnerische Charaktere m\u00fcssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Dieser Charakter kommt ersch\u00f6pft ins Spiel.",
+          "fullText": "URSULAS WACHTPOSTEN Dieser Charakter kommt\nersch\u00f6pft ins Spiel.",
+          "name": "URSULAS WACHTPOSTEN",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jared Nickerl"
+      ],
+      "artistsText": "Jared Nickerl",
+      "code": "eW",
+      "color": "",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 291152,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291152",
+        "cardmarketId": 771377,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Prince-Eric-Grim-Groom?language=3",
+        "tcgPlayerId": 552758,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552758"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "13/31 \u2022 DE \u2022 Q1",
+      "fullName": "Prinz Eric - Grimmiger Br\u00e4utigam",
+      "fullText": "Besch\u00fctzen (Du darfst diesen Charakter ersch\u00f6pft\nausspielen. Gegnerische Charaktere m\u00fcssen beim\nHerausfordern deiner Charaktere zuerst deine\nCharaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)\nURSULAS WACHTPOSTEN Dieser Charakter kommt\nersch\u00f6pft ins Spiel.",
+      "fullTextSections": [
+        "Besch\u00fctzen (Du darfst diesen Charakter ersch\u00f6pft\nausspielen. Gegnerische Charaktere m\u00fcssen beim\nHerausfordern deiner Charaktere zuerst deine\nCharaktere mit Besch\u00fctzen w\u00e4hlen, wenn m\u00f6glich.)",
+        "URSULAS WACHTPOSTEN Dieser Charakter kommt\nersch\u00f6pft ins Spiel."
+      ],
+      "id": 926,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/13_951782deade36d536ee0e834ab418fe76ce8e3eb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/13_95fab20ed1c46e896cca89c08e9326340eda3ce8.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Besch\u00fctzen"
+      ],
+      "lore": 1,
+      "name": "Prinz Eric",
+      "number": 13,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "prinz eric grimmiger brautigam",
+      "story": "Arielle, die Meerjungfrau",
+      "strength": 2,
+      "subtypes": [
+        "Verstrickt",
+        "Held",
+        "Prinz"
+      ],
+      "subtypesText": "Verstrickt \u2022 Held \u2022 Prinz",
+      "type": "Charakter",
+      "version": "Grimmiger Br\u00e4utigam",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn du diesen Charakter ausspielst, f\u00fcge jedem besch\u00e4digten gegnerischen Charakter 2 Schaden zu.",
+          "fullText": "BL\u00d6DE BESTIE Wenn du diesen Charakter\nausspielst, f\u00fcge jedem besch\u00e4digten\ngegnerischen Charakter 2 Schaden zu.",
+          "name": "BL\u00d6DE BESTIE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jared Nickerl"
+      ],
+      "artistsText": "Jared Nickerl",
+      "code": "eX",
+      "color": "",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 291142,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291142",
+        "cardmarketId": 771378,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Shark-Toothy-Terror?language=3",
+        "tcgPlayerId": 552759,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552759"
+      },
+      "flavorText": "\u201eEr liebt Aufgaben, an denen er sich festbei\u00dfen kann.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "14/31 \u2022 DE \u2022 Q1",
+      "fullName": "Hai - Z\u00e4hneknirschender Schrecken",
+      "fullText": "BL\u00d6DE BESTIE Wenn du diesen Charakter\nausspielst, f\u00fcge jedem besch\u00e4digten\ngegnerischen Charakter 2 Schaden zu.",
+      "fullTextSections": [
+        "BL\u00d6DE BESTIE Wenn du diesen Charakter\nausspielst, f\u00fcge jedem besch\u00e4digten\ngegnerischen Charakter 2 Schaden zu."
+      ],
+      "id": 927,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/14_f5c9b1d6a96e66582c7bdb31cd48abb69a110689.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/14_ac73e0734697ba5689bbac80e107d0874acddc38.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Hai",
+      "number": 14,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "hai zahneknirschender schrecken",
+      "story": "Arielle, die Meerjungfrau",
+      "strength": 4,
+      "subtypes": [
+        "Verstrickt",
+        "Verb\u00fcndeter"
+      ],
+      "subtypesText": "Verstrickt \u2022 Verb\u00fcndeter",
+      "type": "Charakter",
+      "version": "Z\u00e4hneknirschender Schrecken",
+      "willpower": 7
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Wenn du diesen Charakter ausspielst, w\u00e4hlen die gegnerischen Mitspielenden gemeinsam einen ihrer Gegenst\u00e4nde oder Orte und verbannen ihn.",
+          "fullText": "SUCH DIR EINS AUS! Wenn du diesen Charakter ausspielst,\nw\u00e4hlen die gegnerischen Mitspielenden gemeinsam einen\nihrer Gegenst\u00e4nde oder Orte und verbannen ihn.",
+          "name": "SUCH DIR EINS AUS!",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luigi Aim\u00e9"
+      ],
+      "artistsText": "Luigi Aim\u00e9",
+      "code": "eY",
+      "color": "",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 291146,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291146",
+        "cardmarketId": 771379,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Tamatoa-Grabby-Crab?language=3",
+        "tcgPlayerId": 552760,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552760"
+      },
+      "flavorText": "\u201eDas nennt man Ablenkung, Seeherzchen. Schau genau hin.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "15/31 \u2022 DE \u2022 Q1",
+      "fullName": "Tamatoa - Grabbelkrabbe",
+      "fullText": "SUCH DIR EINS AUS! Wenn du diesen Charakter ausspielst,\nw\u00e4hlen die gegnerischen Mitspielenden gemeinsam einen\nihrer Gegenst\u00e4nde oder Orte und verbannen ihn.",
+      "fullTextSections": [
+        "SUCH DIR EINS AUS! Wenn du diesen Charakter ausspielst,\nw\u00e4hlen die gegnerischen Mitspielenden gemeinsam einen\nihrer Gegenst\u00e4nde oder Orte und verbannen ihn."
+      ],
+      "id": 928,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/15_8ff452c676bb746f4cefcab9156a10a6c185efd7.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/15_ad23c6f7d07b35c761f808298177e57ec257b3d3.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Tamatoa",
+      "number": 15,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "tamatoa grabbelkrabbe",
+      "story": "Vaiana",
+      "strength": 3,
+      "subtypes": [
+        "Verstrickt",
+        "Schurke"
+      ],
+      "subtypesText": "Verstrickt \u2022 Schurke",
+      "type": "Charakter",
+      "version": "Grabbelkrabbe",
+      "willpower": 6
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jenna Gray"
+      ],
+      "artistsText": "Jenna Gray",
+      "code": "eZ",
+      "color": "",
+      "cost": 0,
+      "externalLinks": {
+        "cardTraderId": 291140,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291140",
+        "cardmarketId": 771380,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Tritons-Daughters-Discordant-Chorus?language=3",
+        "tcgPlayerId": 552761,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552761"
+      },
+      "flavorText": "\u201eVielleicht h\u00e4tte ich auch ihre Stimmen nehmen\nsollen. Nun ja, daf\u00fcr ist immer noch Zeit.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "16/31 \u2022 DE \u2022 Q1",
+      "fullName": "Tritons T\u00f6chter - Unstimmiger Gesang",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 929,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/16_4effde2729847403ec2ababcbcb952089b006898.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/16_506671d2074418e0f5e8aa9fa7fd976f84ec519e.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Tritons T\u00f6chter",
+      "number": 16,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "tritons tochter unstimmiger gesang",
+      "story": "Arielle, die Meerjungfrau",
+      "strength": 2,
+      "subtypes": [
+        "Verstrickt",
+        "Verb\u00fcndete",
+        "Prinzessin"
+      ],
+      "subtypesText": "Verstrickt \u2022 Verb\u00fcndete \u2022 Prinzessin",
+      "type": "Charakter",
+      "version": "Unstimmiger Gesang",
+      "willpower": 3
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Javi Salas"
+      ],
+      "artistsText": "Javi Salas",
+      "code": "f0",
+      "color": "",
+      "cost": 3,
+      "effects": [
+        "Wenn du 6 oder weniger Karten in deinem Tintenvorrat\nhast, lege die obersten 3 Karten deines Decks\nverdeckt in deinen Tintenvorrat.",
+        "Wenn du 7 oder mehr Karten in deinem Tintenvorrat\nhast, w\u00e4hlen alle gegnerischen Mitspielenden je einen\nihrer Charaktere und verbannen ihn."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291165,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291165",
+        "cardmarketId": 771381,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Capsize?language=3",
+        "tcgPlayerId": 552762,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552762"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "17/31 \u2022 DE \u2022 Q1",
+      "fullName": "Kentern",
+      "fullText": "Wenn du 6 oder weniger Karten in deinem Tintenvorrat\nhast, lege die obersten 3 Karten deines Decks\nverdeckt in deinen Tintenvorrat.\nWenn du 7 oder mehr Karten in deinem Tintenvorrat\nhast, w\u00e4hlen alle gegnerischen Mitspielenden je einen\nihrer Charaktere und verbannen ihn.",
+      "fullTextSections": [
+        "Wenn du 6 oder weniger Karten in deinem Tintenvorrat\nhast, lege die obersten 3 Karten deines Decks\nverdeckt in deinen Tintenvorrat.",
+        "Wenn du 7 oder mehr Karten in deinem Tintenvorrat\nhast, w\u00e4hlen alle gegnerischen Mitspielenden je einen\nihrer Charaktere und verbannen ihn."
+      ],
+      "id": 930,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/17_e3485de86bb2e67b3dd9ec6b2ddcfd74774f2d96.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/17_3816913154003f97fdf06e5c66a5f4bc4a6e69c1.jpg"
+      },
+      "inkwell": true,
+      "name": "Kentern",
+      "number": 17,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "kentern",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Ilaria Sposetti"
+      ],
+      "artistsText": "Ilaria Sposetti",
+      "code": "f1",
+      "color": "",
+      "cost": 3,
+      "effects": [
+        "F\u00fcge dem Charakter mit den h\u00f6hsten Kosten jeder\ngegnerischen Person im Spiel je 2 Schaden zu. (Bei\nGleichstand darf die betroffene Person w\u00e4hlen.)"
+      ],
+      "externalLinks": {
+        "cardTraderId": 291164,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291164",
+        "cardmarketId": 771382,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Choppy-Waters?language=3",
+        "tcgPlayerId": 552763,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552763"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "18/31 \u2022 DE \u2022 Q1",
+      "fullName": "Unruhige See",
+      "fullText": "F\u00fcge dem Charakter mit den h\u00f6hsten Kosten jeder\ngegnerischen Person im Spiel je 2 Schaden zu. (Bei\nGleichstand darf die betroffene Person w\u00e4hlen.)",
+      "fullTextSections": [
+        "F\u00fcge dem Charakter mit den h\u00f6hsten Kosten jeder\ngegnerischen Person im Spiel je 2 Schaden zu. (Bei\nGleichstand darf die betroffene Person w\u00e4hlen.)"
+      ],
+      "id": 931,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/18_1c858e662955f390a1f3abebc5284ad581831236.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/18_0f59db57d5be75f01c4b7e86d5a9c23670d0ddb9.jpg"
+      },
+      "inkwell": true,
+      "name": "Unruhige See",
+      "number": 18,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "unruhige see",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luca Pisanu"
+      ],
+      "artistsText": "Luca Pisanu",
+      "code": "f2",
+      "color": "",
+      "cost": 4,
+      "effects": [
+        "F\u00fcge jedem gegnerischen Charakter 2 Schaden zu."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291153,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291153",
+        "cardmarketId": 771383,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Crushing-Wave?language=3",
+        "tcgPlayerId": 552764,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552764"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "19/31 \u2022 DE \u2022 Q1",
+      "fullName": "Zerschmetternde Welle",
+      "fullText": "F\u00fcge jedem gegnerischen Charakter 2 Schaden zu.",
+      "fullTextSections": [
+        "F\u00fcge jedem gegnerischen Charakter 2 Schaden zu."
+      ],
+      "id": 932,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/19_e93ddac50f33a523937abd51f4ebbbc6c93c89d6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/19_8da8ea1ecf2250072b723e5c997512f99b98ddcd.jpg"
+      },
+      "inkwell": true,
+      "name": "Zerschmetternde Welle",
+      "number": 19,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "zerschmetternde welle",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luca Pisanu"
+      ],
+      "artistsText": "Luca Pisanu",
+      "code": "f3",
+      "color": "",
+      "cost": 2,
+      "effects": [
+        "Alle gegnerischen Mitspielenden w\u00e4hlen je 1 Karte aus\nihrer Hand und werfen sie ab. Lege danach diese Karte\nverdeckt in deinen Tintenvorrat."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291154,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291154",
+        "cardmarketId": 771384,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Entangling-Magic?language=3",
+        "tcgPlayerId": 552765,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552765"
+      },
+      "flavorText": "\u201eFaszinierend, nicht wahr? Sei nicht sch\u00fcchtern - schau\ngenauer hin \u2026\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "20/31 \u2022 DE \u2022 Q1",
+      "fullName": "Verstrickungsmagie",
+      "fullText": "Alle gegnerischen Mitspielenden w\u00e4hlen je 1 Karte aus\nihrer Hand und werfen sie ab. Lege danach diese Karte\nverdeckt in deinen Tintenvorrat.",
+      "fullTextSections": [
+        "Alle gegnerischen Mitspielenden w\u00e4hlen je 1 Karte aus\nihrer Hand und werfen sie ab. Lege danach diese Karte\nverdeckt in deinen Tintenvorrat."
+      ],
+      "id": 933,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/20_03074c1b36906069deae73f4110efe73d98df087.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/20_6dcdd0c608f527ba9df28b2783811a31f4e60e33.jpg"
+      },
+      "inkwell": true,
+      "name": "Verstrickungsmagie",
+      "number": 20,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "verstrickungsmagie",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luigi Aim\u00e9"
+      ],
+      "artistsText": "Luigi Aim\u00e9",
+      "code": "f4",
+      "color": "",
+      "cost": 0,
+      "effects": [
+        "Die gegnerischen Mitspielenden w\u00e4hlen gemeinsam\neinen deiner Gegenst\u00e4nde und verbannen ihn."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291163,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291163",
+        "cardmarketId": 771385,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Fortunate-Hit?language=3",
+        "tcgPlayerId": 552766,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552766"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "21/31 \u2022 DE \u2022 Q1",
+      "fullName": "Gl\u00fcckstreffer",
+      "fullText": "Die gegnerischen Mitspielenden w\u00e4hlen gemeinsam\neinen deiner Gegenst\u00e4nde und verbannen ihn.",
+      "fullTextSections": [
+        "Die gegnerischen Mitspielenden w\u00e4hlen gemeinsam\neinen deiner Gegenst\u00e4nde und verbannen ihn."
+      ],
+      "id": 934,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/21_8ff5b3faf2c5af80fc85e6c297abe049f4bb7a5e.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/21_9bd67993fd40d633f8bc92d982babc58cc470bbb.jpg"
+      },
+      "inkwell": true,
+      "name": "Gl\u00fcckstreffer",
+      "number": 21,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "gluckstreffer",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luigi Aim\u00e9"
+      ],
+      "artistsText": "Luigi Aim\u00e9",
+      "code": "f5",
+      "color": "",
+      "cost": 2,
+      "effects": [
+        "Alle gegnerischen Mitspielenden w\u00e4hlen je einen ihrer\nCharaktere und verbannen ihn."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291160,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291160",
+        "cardmarketId": 771386,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Lash-Out?language=3",
+        "tcgPlayerId": 552767,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552767"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "22/31 \u2022 DE \u2022 Q1",
+      "fullName": "Auspeitschen",
+      "fullText": "Alle gegnerischen Mitspielenden w\u00e4hlen je einen ihrer\nCharaktere und verbannen ihn.",
+      "fullTextSections": [
+        "Alle gegnerischen Mitspielenden w\u00e4hlen je einen ihrer\nCharaktere und verbannen ihn."
+      ],
+      "id": 935,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/22_3544c00912faa38f38a5926a2f2456f5cfb117be.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/22_29e735ea26497b86851332f257de9b42be2f8ad2.jpg"
+      },
+      "inkwell": true,
+      "name": "Auspeitschen",
+      "number": 22,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "auspeitschen",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Mario Oscar Gabriele"
+      ],
+      "artistsText": "Mario Oscar Gabriele",
+      "code": "f6",
+      "color": "",
+      "cost": 6,
+      "effects": [
+        "Alle gegnerischen Mitspielenden verlieren je 3\nLegenden."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291157,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291157",
+        "cardmarketId": 771387,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Lightning-Storm?language=3",
+        "tcgPlayerId": 552768,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552768"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "23/31 \u2022 DE \u2022 Q1",
+      "fullName": "Gewitter",
+      "fullText": "Alle gegnerischen Mitspielenden verlieren je 3\nLegenden.",
+      "fullTextSections": [
+        "Alle gegnerischen Mitspielenden verlieren je 3\nLegenden."
+      ],
+      "id": 936,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/23_05af47e31ce585353a70534b130b2cf2bc8bb31d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/23_c27349e502d17e0adc54e6608edc149e6e70155d.jpg"
+      },
+      "inkwell": true,
+      "name": "Gewitter",
+      "number": 23,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "gewitter",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Ilaria Sposetti"
+      ],
+      "artistsText": "Ilaria Sposetti",
+      "code": "f7",
+      "color": "",
+      "cost": 6,
+      "effects": [
+        "Verbanne alle gegnerischen Charaktere, Gegenst\u00e4nde\nund Orte, die 2 oder weniger kosten."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291151,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291151",
+        "cardmarketId": 771388,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Riptide?language=3",
+        "tcgPlayerId": 552769,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552769"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "24/31 \u2022 DE \u2022 Q1",
+      "fullName": "Wellenbrecher",
+      "fullText": "Verbanne alle gegnerischen Charaktere, Gegenst\u00e4nde\nund Orte, die 2 oder weniger kosten.",
+      "fullTextSections": [
+        "Verbanne alle gegnerischen Charaktere, Gegenst\u00e4nde\nund Orte, die 2 oder weniger kosten."
+      ],
+      "id": 937,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/24_836076bb266e93cd9d626c3779a524c69beacafb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/24_b9ffb5b2c3acb93f3a45c806f50741ff9b2359c3.jpg"
+      },
+      "inkwell": true,
+      "name": "Wellenbrecher",
+      "number": 24,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "wellenbrecher",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Mario Oscar Gabriele"
+      ],
+      "artistsText": "Mario Oscar Gabriele",
+      "code": "f8",
+      "color": "",
+      "cost": 2,
+      "effects": [
+        "F\u00fcge jedem gegnerischen Charakter 1 Schaden zu.\nLege danach diese Karte verdeckt in deinen Tintenvorrat."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291148,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291148",
+        "cardmarketId": 771389,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Tentacle-Swipe?language=3",
+        "tcgPlayerId": 552770,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552770"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "25/31 \u2022 DE \u2022 Q1",
+      "fullName": "Tentakelschwung",
+      "fullText": "F\u00fcge jedem gegnerischen Charakter 1 Schaden zu.\nLege danach diese Karte verdeckt in deinen Tintenvorrat.",
+      "fullTextSections": [
+        "F\u00fcge jedem gegnerischen Charakter 1 Schaden zu.\nLege danach diese Karte verdeckt in deinen Tintenvorrat."
+      ],
+      "id": 938,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/25_eef4535875f1087fc3255c31bfa38468675e3997.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/25_0194dbe68209f9e4defad41ab3a5914d0b5e5b51.jpg"
+      },
+      "inkwell": true,
+      "name": "Tentakelschwung",
+      "number": 25,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "tentakelschwung",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luigi Aim\u00e9"
+      ],
+      "artistsText": "Luigi Aim\u00e9",
+      "code": "f9",
+      "color": "",
+      "cost": 7,
+      "effects": [
+        "Verbanne alle gegnerischen Charaktere."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291141,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291141",
+        "cardmarketId": 771390,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Tsunami?language=3",
+        "tcgPlayerId": 552771,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552771"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "26/31 \u2022 DE \u2022 Q1",
+      "fullName": "Tsunami",
+      "fullText": "Verbanne alle gegnerischen Charaktere.",
+      "fullTextSections": [
+        "Verbanne alle gegnerischen Charaktere."
+      ],
+      "id": 939,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/26_770a337fa3e7a174ca7050c1291aea2e8a6b53ae.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/26_5c8a2e1da1e6256839b7851407e08374a07b2155.jpg"
+      },
+      "inkwell": true,
+      "name": "Tsunami",
+      "number": 26,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "tsunami",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Leonardo Giammichele"
+      ],
+      "artistsText": "Leonardo Giammichele",
+      "code": "fa",
+      "color": "",
+      "cost": 5,
+      "effects": [
+        "Schicke alle ersch\u00f6pften gegnerischen Charaktere auf\ndie zugeh\u00f6rigen H\u00e4nde zur\u00fcck."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291139,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291139",
+        "cardmarketId": 771391,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Typhoon?language=3",
+        "tcgPlayerId": 552772,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552772"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "27/31 \u2022 DE \u2022 Q1",
+      "fullName": "Taifun",
+      "fullText": "Schicke alle ersch\u00f6pften gegnerischen Charaktere auf\ndie zugeh\u00f6rigen H\u00e4nde zur\u00fcck.",
+      "fullTextSections": [
+        "Schicke alle ersch\u00f6pften gegnerischen Charaktere auf\ndie zugeh\u00f6rigen H\u00e4nde zur\u00fcck."
+      ],
+      "id": 940,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/27_07febb5485c3a502a0862e0154e73895c6b5eebb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/27_b15ff0705a4ca193660f0813d7e4150b3c278cf8.jpg"
+      },
+      "inkwell": true,
+      "name": "Taifun",
+      "number": 27,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "taifun",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Veronica Di Lorenzo",
+        "Livio Cacciatore"
+      ],
+      "artistsText": "Veronica Di Lorenzo / Livio Cacciatore",
+      "code": "fb",
+      "color": "",
+      "cost": 4,
+      "effects": [
+        "Ersch\u00f6pfe alle gegnerischen Charaktere. Sie werden\nzu Beginn ihres n\u00e4chsten Zuges nicht bereit gemacht."
+      ],
+      "externalLinks": {
+        "cardTraderId": 291167,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291167",
+        "cardmarketId": 771392,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Whirlpool?language=3",
+        "tcgPlayerId": 552773,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552773"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "28/31 \u2022 DE \u2022 Q1",
+      "fullName": "Whirlpool",
+      "fullText": "Ersch\u00f6pfe alle gegnerischen Charaktere. Sie werden\nzu Beginn ihres n\u00e4chsten Zuges nicht bereit gemacht.",
+      "fullTextSections": [
+        "Ersch\u00f6pfe alle gegnerischen Charaktere. Sie werden\nzu Beginn ihres n\u00e4chsten Zuges nicht bereit gemacht."
+      ],
+      "id": 941,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/28_d6781a358d27eb768f4fd4e300ccc4cf25a3712f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/28_c8130c88aec21f939c07b03a395d1b2f00609b94.jpg"
+      },
+      "inkwell": true,
+      "name": "Whirlpool",
+      "number": 28,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "whirlpool",
+      "story": "Lorcana",
+      "type": "Aktion"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Ziehe 1 Karte.",
+          "fullText": "VORZ\u00dcGE DER MACHT \u27f3 \u2013 Ziehe 1 Karte.",
+          "name": "VORZ\u00dcGE DER MACHT",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Veronica Di Lorenzo",
+        "Livio Cacciatore"
+      ],
+      "artistsText": "Veronica Di Lorenzo / Livio Cacciatore",
+      "code": "fc",
+      "color": "",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 291144,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291144",
+        "cardmarketId": 771393,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/The-Hexwell-Crown?language=3",
+        "tcgPlayerId": 552774,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552774"
+      },
+      "flavorText": "Nachdem sich Ursula die Krone auf den Kopf setzte,\nsp\u00fcrte sie die freigesetzte Magie und einen Anstieg\nan Macht.",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "29/31 \u2022 DE \u2022 Q1",
+      "fullName": "Die Hexwellkrone",
+      "fullText": "VORZ\u00dcGE DER MACHT \u27f3 \u2013 Ziehe 1 Karte.",
+      "fullTextSections": [
+        "VORZ\u00dcGE DER MACHT \u27f3 \u2013 Ziehe 1 Karte."
+      ],
+      "id": 942,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/29_45e5a2adc67ccfc95ab124203d29a3d9f42b4468.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/29_a9870a72b23e50241a9017830d77c74e763ea676.jpg"
+      },
+      "inkwell": true,
+      "name": "Die Hexwellkrone",
+      "number": 29,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "die hexwellkrone",
+      "story": "Lorcana",
+      "type": "Gegenstand"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Gegnerische Mitspielende k\u00f6nnen keine F\u00e4higkeiten von Kampfpl\u00e4tzen nutzen.",
+          "fullText": "DAS GESCH\u00c4FT VERS\u00dcSSEN Gegnerische Mitspielende\nk\u00f6nnen keine F\u00e4higkeiten von Kampfpl\u00e4tzen nutzen.",
+          "name": "DAS GESCH\u00c4FT VERS\u00dcSSEN",
+          "type": "static"
+        },
+        {
+          "effect": "Zu Beginn deines Zuges, verbanne diesen Gegenstand um 3 Legenden zu sammeln.",
+          "fullText": "GERINGF\u00dcGIGE ZUSATZVEREINBARUNG Zu Beginn\ndeines Zuges, verbanne diesen Gegenstand um 3\nLegenden zu sammeln.",
+          "name": "GERINGF\u00dcGIGE ZUSATZVEREINBARUNG",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Luca Pisanu"
+      ],
+      "artistsText": "Luca Pisanu",
+      "code": "fd",
+      "color": "",
+      "cost": 0,
+      "externalLinks": {
+        "cardTraderId": 291138,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291138",
+        "cardmarketId": 771394,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Ursulas-Contract?language=3",
+        "tcgPlayerId": 552775,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552775"
+      },
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "30/31 \u2022 DE \u2022 Q1",
+      "fullName": "Ursulas Vertrag",
+      "fullText": "DAS GESCH\u00c4FT VERS\u00dcSSEN Gegnerische Mitspielende\nk\u00f6nnen keine F\u00e4higkeiten von Kampfpl\u00e4tzen nutzen.\nGERINGF\u00dcGIGE ZUSATZVEREINBARUNG Zu Beginn\ndeines Zuges, verbanne diesen Gegenstand um 3\nLegenden zu sammeln.",
+      "fullTextSections": [
+        "DAS GESCH\u00c4FT VERS\u00dcSSEN Gegnerische Mitspielende\nk\u00f6nnen keine F\u00e4higkeiten von Kampfpl\u00e4tzen nutzen.",
+        "GERINGF\u00dcGIGE ZUSATZVEREINBARUNG Zu Beginn\ndeines Zuges, verbanne diesen Gegenstand um 3\nLegenden zu sammeln."
+      ],
+      "id": 943,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/30_375747380339b2265e0e4897bd50bc71ba8cd0dc.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/30_c1cce0efdf4b37a6b9de4e407328aa05b66dbf73.jpg"
+      },
+      "inkwell": true,
+      "name": "Ursulas Vertrag",
+      "number": 30,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "ursulas vertrag",
+      "story": "Lorcana",
+      "type": "Gegenstand"
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Sammle 1 Legende.",
+          "fullText": "JETZT HAB ICH DIE MACHT \u27f3 \u2014 Sammle 1 Legende.",
+          "name": "JETZT HAB ICH DIE MACHT",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Jonathan Livslyst"
+      ],
+      "artistsText": "Jonathan Livslyst",
+      "code": "fe",
+      "color": "",
+      "cost": 0,
+      "externalLinks": {
+        "cardTraderId": 291137,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/291137",
+        "cardmarketId": 771395,
+        "cardmarketUrl": "https://www.cardmarket.com/de/Lorcana/Products/Singles/Ursulas-Deck/Ursulas-Stolen-Trident?language=3",
+        "tcgPlayerId": 552776,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/552776"
+      },
+      "flavorText": "\u201eMit meiner Magie hat der Dreizack Kr\u00e4fte, von denen\nder t\u00f6richte Meeresk\u00f6nig sich nie tr\u00e4umen lie\u00df.\u201c\n\u2014Ursula",
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "31/31 \u2022 DE \u2022 Q1",
+      "fullName": "Ursulas gestohlener Dreizack",
+      "fullText": "JETZT HAB ICH DIE MACHT \u27f3 \u2014 Sammle 1 Legende.",
+      "fullTextSections": [
+        "JETZT HAB ICH DIE MACHT \u27f3 \u2014 Sammle 1 Legende."
+      ],
+      "id": 944,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/de/quest1/31_b3ffeac071dd127d825438b821d144418b04424f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/de/quest1/31_d44ca4b600f3661230193a9ab97317bbd812e0fb.jpg"
+      },
+      "inkwell": true,
+      "name": "Ursulas gestohlener Dreizack",
+      "number": 31,
+      "promoSourceCategory": "Die Luminari Chroniken",
+      "rarity": "Speziell",
+      "simpleName": "ursulas gestohlener dreizack",
+      "story": "Lorcana",
+      "type": "Gegenstand"
+    }
+  ]
+}

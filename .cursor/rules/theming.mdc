@@ -1,0 +1,59 @@
+---
+description: CSS theming conventions with light/dark mode support
+globs: "**/*.{vue,css}"
+alwaysApply: false
+---
+
+# Theming with CSS Variables
+
+## Variable Naming
+
+Use semantic names, not colors:
+
+```css
+/* ✅ Good - semantic */
+--bg-primary
+--text-muted
+--accent-primary
+
+/* ❌ Bad - color names */
+--dark-gray
+--blue
+```
+
+## Core Variables
+
+Always use these variables instead of hardcoded colors:
+
+| Variable | Usage |
+|----------|-------|
+| `--bg-primary` | Main background |
+| `--bg-secondary` | Cards, inputs |
+| `--bg-tertiary` | Hover states |
+| `--text-primary` | Main text |
+| `--text-secondary` | Secondary text |
+| `--text-muted` | Muted/label text |
+| `--border-primary` | Borders |
+| `--accent-primary` | Buttons, highlights |
+
+## Usage
+
+```css
+/* ✅ Good */
+.card {
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  border: 1px solid var(--border-primary);
+}
+
+/* ❌ Bad - hardcoded colors */
+.card {
+  background: #2a2a2a;
+  color: #f0f0f0;
+}
+```
+
+## Light Mode
+
+Variables are redefined in `@media (prefers-color-scheme: light)`.
+No additional code needed - just use the variables.

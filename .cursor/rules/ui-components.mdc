@@ -1,0 +1,64 @@
+---
+description: UI component and styling conventions
+globs: "**/*.vue"
+alwaysApply: false
+---
+
+# UI Component Patterns
+
+## Dialogs
+
+Use overlay + dialog pattern:
+
+```vue
+<div v-if="showDialog" class="dialog-overlay" @click.self="closeDialog">
+  <div class="dialog">
+    <div class="dialog-header">
+      <h3>Title</h3>
+    </div>
+    <div class="dialog-content">
+      <!-- Content -->
+    </div>
+    <div class="dialog-actions">
+      <button @click="cancel" class="btn-secondary">Cancel</button>
+      <button @click="confirm" class="btn-primary">Confirm</button>
+    </div>
+  </div>
+</div>
+```
+
+## Button Classes
+
+| Class | Usage |
+|-------|-------|
+| (default) | Standard button |
+| `btn-primary` | Primary action (blue) |
+| `btn-secondary` | Secondary action (gray) |
+| `btn-danger` | Destructive action (red) |
+| `active` | Toggle state active |
+
+## Card Movement
+
+Two methods supported:
+
+1. **Drag & Drop**: `draggable="true"` + `@dragstart` + drop zones
+2. **Click Button**: `.move-btn` next to each card
+
+```vue
+<div class="card-row">
+  <SingleCard :data="card.data" ... />
+  <button class="move-btn" @click="moveCard(card)">→</button>
+</div>
+```
+
+## Responsive
+
+- Desktop: Side-by-side layout
+- Mobile (< 900px): Stacked, preview on top
+
+```css
+@media (max-width: 900px) {
+  .layout { flex-direction: column; }
+  .PreviewZone { order: -1; }
+}
+```
