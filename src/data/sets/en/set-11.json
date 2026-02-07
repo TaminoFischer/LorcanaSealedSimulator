@@ -1,7 +1,7 @@
 {
   "prereleaseDate": "2026-02-13",
   "releaseDate": "2026-02-20",
-  "hasAllCards": false,
+  "hasAllCards": true,
   "type": "expansion",
   "number": 11,
   "allowedInFormats": {
@@ -18,7 +18,7 @@
   "code": "11",
   "metadata": {
     "formatVersion": "2.3.2",
-    "generatedOn": "2026-01-30T17:52:54",
+    "generatedOn": "2026-02-05T19:43:05",
     "language": "en"
   },
   "cards": [
@@ -984,6 +984,9 @@
       "lore": 1,
       "name": "Timon",
       "number": 16,
+      "promoIds": [
+        2710
+      ],
       "rarity": "Rare",
       "simpleName": "timon snowball swiper",
       "story": "The Lion King",
@@ -1835,6 +1838,63 @@
       "type": "Action"
     },
     {
+      "abilities": [
+        {
+          "effect": "A character with cost 2 or more can \u27f3 to sing this song for free.",
+          "fullText": "(A character with cost 2 or more can \u27f3 to sing this\nsong for free.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Javi Salas"
+      ],
+      "artistsText": "Javi Salas",
+      "code": "Ed",
+      "color": "Amber",
+      "cost": 2,
+      "effects": [
+        "Chosen character can't be challenged until the start of\nyour next turn."
+      ],
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "30/204 \u2022 EN \u2022 11",
+      "fullName": "Mother Will Protect You",
+      "fullText": "(A character with cost 2 or more can \u27f3 to sing this\nsong for free.)\nChosen character can't be challenged until the start of\nyour next turn.",
+      "fullTextSections": [
+        "(A character with cost 2 or more can \u27f3 to sing this\nsong for free.)",
+        "Chosen character can't be challenged until the start of\nyour next turn."
+      ],
+      "id": 2493,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/30_fd0ee65c479c61eaadbc600bb82c35853b950321.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/30_338d932ec55a461478d9fa57390a14893a023b8b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/30_746ee467da36d81ec7679e755834c9abae5f97a3.jpg"
+      },
+      "inkwell": true,
+      "name": "Mother Will Protect You",
+      "number": 30,
+      "rarity": "Common",
+      "simpleName": "mother will protect you",
+      "story": "Tangled",
+      "subtypes": [
+        "Song"
+      ],
+      "subtypesText": "Song",
+      "type": "Action"
+    },
+    {
       "allowedInFormats": {
         "Core": {
           "allowed": false
@@ -2188,6 +2248,7 @@
       "code": "Ek",
       "color": "Amethyst",
       "cost": 4,
+      "epicId": 2671,
       "externalLinks": {},
       "flavorText": "\u201cWhat do you mean, can Tiggers bounce in the\nsnow? Just watch!\u201d",
       "foilTypes": [
@@ -2918,6 +2979,10 @@
       "lore": 1,
       "name": "Tinker Bell",
       "number": 48,
+      "promoIds": [
+        2711,
+        2712
+      ],
       "rarity": "Legendary",
       "simpleName": "tinker bell snowflake collector",
       "story": "Peter Pan",
@@ -3167,6 +3232,7 @@
       "code": "Ez",
       "color": "Amethyst",
       "cost": 2,
+      "epicId": 2672,
       "externalLinks": {},
       "flavorText": "Even in the deep forest, Anna could see the vine\npoking above the treetops.",
       "foilTypes": [
@@ -3866,6 +3932,7 @@
       "effects": [
         "Each player reveals the top card of their deck. Draw\na card for each different ink type of cards revealed\nthis way."
       ],
+      "enchantedId": 2691,
       "externalLinks": {},
       "foilTypes": [
         "None",
@@ -4922,6 +4989,7 @@
       "code": "F3",
       "color": "Emerald",
       "cost": 5,
+      "epicId": 2675,
       "externalLinks": {},
       "flavorText": "\u201cYou want a snowball? I'll give you a snowball. I'll\ngive you the biggest snowball you've ever seen!\u201d",
       "foilTypes": [
@@ -5312,6 +5380,7 @@
       "code": "F9",
       "color": "Emerald",
       "cost": 5,
+      "epicId": 2676,
       "externalLinks": {},
       "foilTypes": [
         "None",
@@ -5406,6 +5475,9 @@
       "lore": 1,
       "name": "White Rabbit",
       "number": 89,
+      "promoIds": [
+        2707
+      ],
       "rarity": "Uncommon",
       "simpleName": "white rabbit late again",
       "story": "Alice In Wonderland",
@@ -6149,6 +6221,141 @@
     {
       "abilities": [
         {
+          "effect": "While there's a character with Evasive here, this location gains Evasive. (Only characters with Evasive can challenge it.)",
+          "fullText": "EASY TO MISS While there's a character with Evasive here, this location\ngains Evasive. (Only characters with Evasive can challenge it.)",
+          "name": "EASY TO MISS",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Douglas De La Hoz"
+      ],
+      "artistsText": "Douglas De La Hoz",
+      "code": "Fn",
+      "color": "Emerald",
+      "cost": 3,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "102/204 \u2022 EN \u2022 11",
+      "fullName": "Game Preserve - Protected Land",
+      "fullText": "EASY TO MISS While there's a character with Evasive here, this location\ngains Evasive. (Only characters with Evasive can challenge it.)",
+      "fullTextSections": [
+        "EASY TO MISS While there's a character with Evasive here, this location\ngains Evasive. (Only characters with Evasive can challenge it.)"
+      ],
+      "id": 2565,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/102_0b0b745392e4dbcfaa8ea6b4e38c15f0b7cfee44.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/102_c00ac2aab6719ddb34dfcb62ae0f298bd9d13508.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/102_03f255089807cbd99d2e0a49e1b1e9d715ad88e9.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "moveCost": 1,
+      "name": "Game Preserve",
+      "number": 102,
+      "rarity": "Common",
+      "simpleName": "game preserve protected land",
+      "story": "The Fox and the Hound",
+      "type": "Location",
+      "version": "Protected Land",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Boost 1 \u2b21 (Once during your turn, you may pay 1 \u2b21 to put\nthe top card of your deck facedown under this character.)",
+          "keyword": "Boost",
+          "keywordValue": "1",
+          "keywordValueNumber": 1,
+          "reminderText": "Once during your turn, you may pay 1 \u2b21 to put the top card of your deck facedown under this character.",
+          "type": "keyword"
+        },
+        {
+          "effect": "This character gets +1 \u00a4 for each card under him.",
+          "fullText": "POWERED UP This character gets +1 \u00a4 for each card\nunder him.",
+          "name": "POWERED UP",
+          "type": "static"
+        },
+        {
+          "effect": "When this character is banished, banish all characters with \u00a4 equal to or less than the \u00a4 he had in play.",
+          "fullText": "WHO'S COMIN' WITH ME? When this character is banished,\nbanish all characters with \u00a4 equal to or less than the \u00a4\nhe had in play.",
+          "name": "WHO'S COMIN' WITH ME?",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Rodrigo Camilo"
+      ],
+      "artistsText": "Rodrigo Camilo",
+      "code": "Fo",
+      "color": "Ruby",
+      "cost": 7,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "103/204 \u2022 EN \u2022 11",
+      "fullName": "Wreck-It Ralph - Raging Wrecker",
+      "fullText": "Boost 1 \u2b21 (Once during your turn, you may pay 1 \u2b21 to put\nthe top card of your deck facedown under this character.)\nPOWERED UP This character gets +1 \u00a4 for each card\nunder him.\nWHO'S COMIN' WITH ME? When this character is banished,\nbanish all characters with \u00a4 equal to or less than the \u00a4\nhe had in play.",
+      "fullTextSections": [
+        "Boost 1 \u2b21 (Once during your turn, you may pay 1 \u2b21 to put\nthe top card of your deck facedown under this character.)",
+        "POWERED UP This character gets +1 \u00a4 for each card\nunder him.",
+        "WHO'S COMIN' WITH ME? When this character is banished,\nbanish all characters with \u00a4 equal to or less than the \u00a4\nhe had in play."
+      ],
+      "id": 2566,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/103_798fae0022cdc016de4fd61159d1c18ff65a7600.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/103_9d99a51bbe41010cb8e1cceff07614aa053ba520.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/103_71345422efc6346fe0adb1de9db879445be6a225.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/103_26bb7aea267f98c177b88a26d12f39b78fbf9839.jpg"
+      },
+      "inkwell": false,
+      "keywordAbilities": [
+        "Boost"
+      ],
+      "lore": 3,
+      "name": "Wreck-It Ralph",
+      "number": 103,
+      "rarity": "Legendary",
+      "simpleName": "wreck-it ralph raging wrecker",
+      "story": "Wreck-It Ralph",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Whisper"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Whisper",
+      "type": "Character",
+      "varnishType": "HighGloss",
+      "version": "Raging Wrecker",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
           "fullText": "Boost 1 \u2b21 (Once during your turn, you may pay 1 \u2b21\nto put the top card of your deck facedown under this\ncharacter.)",
           "keyword": "Boost",
           "keywordValue": "1",
@@ -6707,6 +6914,9 @@
       "lore": 1,
       "name": "Elisa Maza",
       "number": 112,
+      "promoIds": [
+        2708
+      ],
       "rarity": "Rare",
       "simpleName": "elisa maza transformed gargoyle",
       "story": "Gargoyles",
@@ -6933,6 +7143,7 @@
       "code": "FB",
       "color": "Ruby",
       "cost": 5,
+      "enchantedId": 2695,
       "externalLinks": {},
       "foilTypes": [
         "None",
@@ -7005,6 +7216,7 @@
       "code": "FC",
       "color": "Ruby",
       "cost": 1,
+      "epicId": 2677,
       "externalLinks": {},
       "foilTypes": [
         "None",
@@ -7102,6 +7314,9 @@
       "lore": 1,
       "name": "Beast",
       "number": 118,
+      "promoIds": [
+        2709
+      ],
       "rarity": "Super Rare",
       "simpleName": "beast snowfield troublemaker",
       "story": "Beauty and the Beast",
@@ -7546,6 +7761,7 @@
       "code": "FK",
       "color": "Ruby",
       "cost": 3,
+      "epicId": 2678,
       "externalLinks": {},
       "flavorText": "\u201cThe vine is worse than I thought. I'll have to take\ncare of this myself.\u201d",
       "foilTypes": [
@@ -7844,6 +8060,7 @@
       "effects": [
         "Look at the top 4 cards of your deck. You may reveal\na location card and put it into your hand. Put the\nrest into your discard. You pay 3 \u2b21 less for the next\nlocation you play this turn."
       ],
+      "enchantedId": 2697,
       "externalLinks": {},
       "foilTypes": [
         "None",
@@ -8592,6 +8809,67 @@
       "willpower": 1
     },
     {
+      "abilities": [
+        {
+          "effect": "Your characters named Darkwing Duck gain Resist +1. (Damage dealt to them is reduced by 1.)",
+          "fullText": "BE CAREFUL! Your characters named Darkwing\nDuck gain Resist +1. (Damage dealt to them is\nreduced by 1.)",
+          "name": "BE CAREFUL!",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Kamil Murzyn"
+      ],
+      "artistsText": "Kamil Murzyn",
+      "code": "G2",
+      "color": "Sapphire",
+      "cost": 1,
+      "externalLinks": {},
+      "flavorText": "\u201cIt's clear you're the brains of this operation, Honker.\u201d\n\u2014Darkwing Duck",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "143/204 \u2022 EN \u2022 11",
+      "fullName": "Honker Muddlefoot - Timid Genius",
+      "fullText": "BE CAREFUL! Your characters named Darkwing\nDuck gain Resist +1. (Damage dealt to them is\nreduced by 1.)",
+      "fullTextSections": [
+        "BE CAREFUL! Your characters named Darkwing\nDuck gain Resist +1. (Damage dealt to them is\nreduced by 1.)"
+      ],
+      "id": 2606,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/143_bead6cb99df03534482433c3f0d3f02bfc82cb82.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/143_dd793313a758e8fab7f6e7c0216e627531006d2b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/143_609a11f14cfca37860b841c6499d5b8056282788.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Honker Muddlefoot",
+      "number": 143,
+      "rarity": "Common",
+      "simpleName": "honker muddlefoot timid genius",
+      "story": "Darkwing Duck",
+      "strength": 1,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Inventor"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Inventor",
+      "type": "Character",
+      "version": "Timid Genius",
+      "willpower": 2
+    },
+    {
       "allowedInFormats": {
         "Core": {
           "allowed": false
@@ -8897,6 +9175,9 @@
       "lore": 2,
       "name": "Gramma Tala",
       "number": 148,
+      "promoIds": [
+        2706
+      ],
       "rarity": "Rare",
       "simpleName": "gramma tala connected to nature",
       "story": "Moana",
@@ -9131,6 +9412,7 @@
       "code": "Gb",
       "color": "Sapphire",
       "cost": 6,
+      "enchantedId": 2698,
       "externalLinks": {},
       "foilTypes": [
         "None",
@@ -9549,6 +9831,7 @@
       "code": "Gh",
       "color": "Sapphire",
       "cost": 4,
+      "enchantedId": 2699,
       "externalLinks": {},
       "flavorText": "What the Beast didn't know was that her father\nhad taught her how to throw a perfect snowball.",
       "foilTypes": [
@@ -11187,6 +11470,9 @@
       "lore": 1,
       "name": "Stitch",
       "number": 185,
+      "promoIds": [
+        2713
+      ],
       "rarity": "Common",
       "simpleName": "stitch high badness level",
       "story": "Lilo & Stitch",
@@ -11559,6 +11845,7 @@
       "code": "GO",
       "color": "Steel",
       "cost": 4,
+      "enchantedId": 2701,
       "externalLinks": {},
       "foilTypes": [
         "None",
@@ -12562,6 +12849,131 @@
     {
       "abilities": [
         {
+          "effect": "When you play this character, you may return chosen character, item, or location with cost 2 or less to their player's hand.",
+          "fullText": "SPLENDERIFFIC BOUNCE When you play this\ncharacter, you may return chosen character,\nitem, or location with cost 2 or less to their\nplayer's hand.",
+          "name": "SPLENDERIFFIC BOUNCE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Simone Tentoni"
+      ],
+      "artistsText": "Simone Tentoni",
+      "baseId": 2500,
+      "code": "H5",
+      "color": "Amethyst",
+      "cost": 4,
+      "externalLinks": {},
+      "flavorText": "\u201cWhat do you mean, can Tiggers bounce in the\nsnow? Just watch!\u201d",
+      "foilTypes": [
+        "Satin"
+      ],
+      "fullIdentifier": "208/204 \u2022 EN \u2022 11",
+      "fullName": "Tigger - Bouncing All the Way",
+      "fullText": "SPLENDERIFFIC BOUNCE When you play this\ncharacter, you may return chosen character,\nitem, or location with cost 2 or less to their\nplayer's hand.",
+      "fullTextSections": [
+        "SPLENDERIFFIC BOUNCE When you play this\ncharacter, you may return chosen character,\nitem, or location with cost 2 or less to their\nplayer's hand."
+      ],
+      "id": 2671,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/208_df5695095f36ac3242f5d44971cff2272fe015d3.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/208_4f547ec091d4f489c222831f14f5506414d7a726.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/208_07d5642f6051f38a26f0697ad265eb2d36baf407.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/208_506f4247c78162a4e33d0615243786c9dfe01b07.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Tigger",
+      "number": 208,
+      "rarity": "Epic",
+      "simpleName": "tigger bouncing all the way",
+      "story": "Winnie the Pooh",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "Tigger"
+      ],
+      "subtypesText": "Storyborn \u2022 Tigger",
+      "type": "Character",
+      "varnishType": "HighGloss",
+      "version": "Bouncing All the Way",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, you may put a card from chosen player's discard on the bottom of their deck.",
+          "fullText": "UNEXPECTED DISCOVERY When you play this\ncharacter, you may put a card from chosen\nplayer's discard on the bottom of their deck.",
+          "name": "UNEXPECTED DISCOVERY",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Maria Dresden"
+      ],
+      "artistsText": "Maria Dresden",
+      "baseId": 2515,
+      "code": "H6",
+      "color": "Amethyst",
+      "cost": 2,
+      "externalLinks": {},
+      "flavorText": "Even in the deep forest, Anna could see the vine\npoking above the treetops.",
+      "foilTypes": [
+        "Satin"
+      ],
+      "fullIdentifier": "209/204 \u2022 EN \u2022 11",
+      "fullName": "Anna - Little Sister",
+      "fullText": "UNEXPECTED DISCOVERY When you play this\ncharacter, you may put a card from chosen\nplayer's discard on the bottom of their deck.",
+      "fullTextSections": [
+        "UNEXPECTED DISCOVERY When you play this\ncharacter, you may put a card from chosen\nplayer's discard on the bottom of their deck."
+      ],
+      "id": 2672,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/209_4e28bba64856db6b8555c73ac169df650c879601.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/209_b412d66520e262a276e1bedac05f8e27b1e73c4e.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/209_124e6ee0b6214bc352202dc576db83c02e438ab6.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/209_0e20854f8b9b534f1a5176a5a840b42cf2e4d2d6.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Anna",
+      "number": 209,
+      "rarity": "Epic",
+      "simpleName": "anna little sister",
+      "story": "Frozen",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Queen"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Queen",
+      "type": "Character",
+      "varnishType": "HighGloss",
+      "version": "Little Sister",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
           "fullText": "Boost 1 \u2b21 (Once during your turn, you may pay\n1 \u2b21 to put the top card of your deck facedown\nunder this character.)",
           "keyword": "Boost",
           "keywordValue": "1",
@@ -12693,6 +13105,280 @@
       "varnishType": "HighGloss",
       "version": "On the Edge of Adventure",
       "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, deal 2 damage to chosen character.",
+          "fullText": "SNOWY SURPRISE When you play this character,\ndeal 2 damage to chosen character.",
+          "name": "SNOWY SURPRISE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Matteo Marzocco"
+      ],
+      "artistsText": "Matteo Marzocco",
+      "baseId": 2545,
+      "code": "H9",
+      "color": "Emerald",
+      "cost": 5,
+      "externalLinks": {},
+      "flavorText": "\u201cYou want a snowball? I'll give you a snowball. I'll\ngive you the biggest snowball you've ever seen!\u201d",
+      "foilTypes": [
+        "Satin"
+      ],
+      "fullIdentifier": "212/204 \u2022 EN \u2022 11",
+      "fullName": "Mushu - Sneaky Dragon",
+      "fullText": "SNOWY SURPRISE When you play this character,\ndeal 2 damage to chosen character.",
+      "fullTextSections": [
+        "SNOWY SURPRISE When you play this character,\ndeal 2 damage to chosen character."
+      ],
+      "id": 2675,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/212_4a33a5494bc2fc6753d790da7adc200b30cd922e.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/212_2d6f0fa1d6cd1c07107317f64562ed97544d8da0.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/212_b42e81cf3bd81e8c3350bb0e1e33fe02adf485d7.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/212_8d441c7ffe369f6f8825b6ea4a081923dc468e14.jpg"
+      },
+      "inkwell": false,
+      "lore": 3,
+      "name": "Mushu",
+      "number": 212,
+      "rarity": "Epic",
+      "simpleName": "mushu sneaky dragon",
+      "story": "Mulan",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Dragon"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Dragon",
+      "type": "Character",
+      "varnishType": "HighGloss",
+      "version": "Sneaky Dragon",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Ward (Opponents can't choose this character\nexcept to challenge.)",
+          "keyword": "Ward",
+          "reminderText": "Opponents can't choose this character except to challenge.",
+          "type": "keyword"
+        },
+        {
+          "effect": "When you play this character, you may put the top card of your deck facedown under one of your characters or locations with Boost. If you do, draw a card.",
+          "fullText": "A MOTHER'S LOVE When you play this character,\nyou may put the top card of your deck facedown\nunder one of your characters or locations with\nBoost. If you do, draw a card.",
+          "name": "A MOTHER'S LOVE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Giulia Iacopini"
+      ],
+      "artistsText": "Giulia Iacopini",
+      "baseId": 2551,
+      "code": "Ha",
+      "color": "Emerald",
+      "cost": 5,
+      "externalLinks": {},
+      "foilTypes": [
+        "Satin"
+      ],
+      "fullIdentifier": "213/204 \u2022 EN \u2022 11",
+      "fullName": "Minnie Mouse - Mrs. Cratchit",
+      "fullText": "Ward (Opponents can't choose this character\nexcept to challenge.)\nA MOTHER'S LOVE When you play this character,\nyou may put the top card of your deck facedown\nunder one of your characters or locations with\nBoost. If you do, draw a card.",
+      "fullTextSections": [
+        "Ward (Opponents can't choose this character\nexcept to challenge.)",
+        "A MOTHER'S LOVE When you play this character,\nyou may put the top card of your deck facedown\nunder one of your characters or locations with\nBoost. If you do, draw a card."
+      ],
+      "id": 2676,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/213_d7ddf4894e174c6a2e6d3ca59ad22f36bea277e2.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/213_305c586e25cc42765a78f699a52cbf4ee523eab7.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/213_e65f929da2b2587cd67c5d872b051fdc0c6d7388.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/213_61d33d68d2fbd74003efd4c32eaea24d7f39cdda.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Ward"
+      ],
+      "lore": 2,
+      "name": "Minnie Mouse",
+      "number": 213,
+      "rarity": "Epic",
+      "simpleName": "minnie mouse mrs cratchit",
+      "story": "Mickey's Christmas Carol",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "varnishType": "HighGloss",
+      "version": "Mrs. Cratchit",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Boost 2 \u2b21 (Once during your turn, you may pay\n2 \u2b21 to put the top card of your deck facedown\nunder this character.)",
+          "keyword": "Boost",
+          "keywordValue": "2",
+          "keywordValueNumber": 2,
+          "reminderText": "Once during your turn, you may pay 2 \u2b21 to put the top card of your deck facedown under this character.",
+          "type": "keyword"
+        },
+        {
+          "effect": "While there's a card under this character, he gets +3 \u00a4.",
+          "fullText": "SUPERHUMAN STRENGTH While there's a card\nunder this character, he gets +3 \u00a4.",
+          "name": "SUPERHUMAN STRENGTH",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Marcel Berg"
+      ],
+      "artistsText": "Marcel Berg",
+      "baseId": 2580,
+      "code": "Hb",
+      "color": "Ruby",
+      "cost": 1,
+      "externalLinks": {},
+      "foilTypes": [
+        "Satin"
+      ],
+      "fullIdentifier": "214/204 \u2022 EN \u2022 11",
+      "fullName": "Hercules - Spectral Demigod",
+      "fullText": "Boost 2 \u2b21 (Once during your turn, you may pay\n2 \u2b21 to put the top card of your deck facedown\nunder this character.)\nSUPERHUMAN STRENGTH While there's a card\nunder this character, he gets +3 \u00a4.",
+      "fullTextSections": [
+        "Boost 2 \u2b21 (Once during your turn, you may pay\n2 \u2b21 to put the top card of your deck facedown\nunder this character.)",
+        "SUPERHUMAN STRENGTH While there's a card\nunder this character, he gets +3 \u00a4."
+      ],
+      "id": 2677,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/214_31ad65137da8bdc9e85224f92e3a5724b8298994.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/214_7b60a60e68304aaeb68a68773bbb0d7ea79483fb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/214_7dcec24a0db4bbde6b0412ffbe0c5f2d33cb45e1.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/214_89a4c2e9190c727bc6541c3d4b370e5408544e38.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Boost"
+      ],
+      "lore": 1,
+      "name": "Hercules",
+      "number": 214,
+      "rarity": "Epic",
+      "simpleName": "hercules spectral demigod",
+      "story": "Hercules",
+      "strength": 0,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Prince",
+        "Deity",
+        "Whisper"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Prince \u2022 Deity \u2022 Whisper",
+      "type": "Character",
+      "varnishType": "HighGloss",
+      "version": "Spectral Demigod",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, you pay 2 \u2b21 less for the next location you play this turn.",
+          "fullText": "CLEAR THE WAY When you play this character,\nyou pay 2 \u2b21 less for the next location you play\nthis turn.",
+          "name": "CLEAR THE WAY",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Hollie Hibbert"
+      ],
+      "artistsText": "Hollie Hibbert",
+      "baseId": 2588,
+      "code": "Hc",
+      "color": "Ruby",
+      "cost": 3,
+      "externalLinks": {},
+      "flavorText": "\u201cThe vine is worse than I thought. I'll have to take\ncare of this myself.\u201d",
+      "foilTypes": [
+        "Satin"
+      ],
+      "fullIdentifier": "215/204 \u2022 EN \u2022 11",
+      "fullName": "Elsa - Concerned Sister",
+      "fullText": "CLEAR THE WAY When you play this character,\nyou pay 2 \u2b21 less for the next location you play\nthis turn.",
+      "fullTextSections": [
+        "CLEAR THE WAY When you play this character,\nyou pay 2 \u2b21 less for the next location you play\nthis turn."
+      ],
+      "id": 2678,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/215_8c4d7f3b759ccd01d6110cf351eca9347bbe1548.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/215_c19180ba7469b63dd9a0e8331b830e4baf9d155a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/215_1ea5d316378aa1815a44c4069fe3740884958d58.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/215_94cfac4b6ba714059c489949eb1f6378f2d624b4.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Elsa",
+      "number": 215,
+      "rarity": "Epic",
+      "simpleName": "elsa concerned sister",
+      "story": "Frozen",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Queen",
+        "Sorcerer"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Queen \u2022 Sorcerer",
+      "type": "Character",
+      "varnishType": "HighGloss",
+      "version": "Concerned Sister",
+      "willpower": 2
     },
     {
       "abilities": [
@@ -13480,6 +14166,57 @@
       "willpower": 5
     },
     {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Miguel Lasarte"
+      ],
+      "artistsText": "Miguel Lasarte",
+      "baseId": 2527,
+      "code": "Hp",
+      "color": "Amethyst",
+      "cost": 4,
+      "effects": [
+        "Each player reveals the top card of their deck. Draw a\ncard for each different ink symbol on cards revealed\nthis way."
+      ],
+      "externalLinks": {},
+      "foilTypes": [
+        "Magma"
+      ],
+      "fullIdentifier": "228/204 \u2022 EN \u2022 11",
+      "fullName": "Colors of the Wind",
+      "fullText": "Each player reveals the top card of their deck. Draw a\ncard for each different ink symbol on cards revealed\nthis way.",
+      "fullTextSections": [
+        "Each player reveals the top card of their deck. Draw a\ncard for each different ink symbol on cards revealed\nthis way."
+      ],
+      "id": 2691,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/228_4aadd2c276179cdf2c3e6b288f7d39c0946a4893.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/228_2b28e693a13fbd80fb31b24c59ea334f1c7fcf72.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/228_d942ccda0f85c899106b7f492ec8390d10653da6.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/228_9b6fbc37c3f850a829f4a0e99368a975a64b5554.jpg"
+      },
+      "inkwell": true,
+      "name": "Colors of the Wind",
+      "number": 228,
+      "rarity": "Enchanted",
+      "simpleName": "colors of the wind",
+      "story": "Pocahontas",
+      "subtypes": [
+        "Song"
+      ],
+      "subtypesText": "Song",
+      "type": "Action",
+      "varnishType": "SnowHotFoil"
+    },
+    {
       "abilities": [
         {
           "effect": "Whenever this character quests, gain lore equal to her \u00a4, to a maximum of 6 lore.",
@@ -13670,6 +14407,79 @@
     {
       "abilities": [
         {
+          "fullText": "Shift 3 \u2b21",
+          "keyword": "Shift",
+          "keywordValue": "3",
+          "keywordValueNumber": 3,
+          "type": "keyword"
+        },
+        {
+          "effect": "Whenever this character challenges another character, each opponent loses 1 lore and you gain 1 lore.",
+          "fullText": "STICKY FINGERS Whenever this character\nchallenges another character, each opponent\nloses 1 lore and you gain 1 lore.",
+          "name": "STICKY FINGERS",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Lyle Cruse"
+      ],
+      "artistsText": "Lyle Cruse",
+      "baseId": 2579,
+      "code": "Ht",
+      "color": "Ruby",
+      "cost": 5,
+      "externalLinks": {},
+      "foilTypes": [
+        "Magma"
+      ],
+      "fullIdentifier": "232/204 \u2022 EN \u2022 11",
+      "fullName": "Negaduck - Public Enemy Number One",
+      "fullText": "Shift 3 \u2b21\nSTICKY FINGERS Whenever this character\nchallenges another character, each opponent\nloses 1 lore and you gain 1 lore.",
+      "fullTextSections": [
+        "Shift 3 \u2b21",
+        "STICKY FINGERS Whenever this character\nchallenges another character, each opponent\nloses 1 lore and you gain 1 lore."
+      ],
+      "id": 2695,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/232_4e02b8559e4722857cf9b48286c89518d8f8e3ab.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/232_8233fc7ecfbd8f86d09e4cf7a23a52b9c303e21f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/232_99af63c7060de98c9f027a92ba64557661d8fd86.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/232_b9bcadeba2b5bc742a21a2f5597f3afa638fc810.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Shift"
+      ],
+      "lore": 1,
+      "name": "Negaduck",
+      "number": 232,
+      "rarity": "Enchanted",
+      "simpleName": "negaduck public enemy number one",
+      "story": "Darkwing Duck",
+      "strength": 6,
+      "subtypes": [
+        "Floodborn",
+        "Super",
+        "Villain"
+      ],
+      "subtypesText": "Floodborn \u2022 Super \u2022 Villain",
+      "type": "Character",
+      "varnishType": "SnowHotFoil",
+      "version": "Public Enemy Number One",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
           "fullText": "Shift 4 \u2b21",
           "keyword": "Shift",
           "keywordValue": "4",
@@ -13747,6 +14557,191 @@
       "varnishType": "SnowHotFoil",
       "version": "Ice Artisan",
       "willpower": 5
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Elsa Chang"
+      ],
+      "artistsText": "Elsa Chang",
+      "baseId": 2593,
+      "code": "Hv",
+      "color": "Ruby",
+      "cost": 3,
+      "effects": [
+        "Look at the top 4 cards of your deck. You may\nreveal a location card and put it into your hand.\nPut the rest into your discard. You pay 3 \u2b21 less for\nthe next location you play this turn."
+      ],
+      "externalLinks": {},
+      "foilTypes": [
+        "Magma"
+      ],
+      "fullIdentifier": "234/204 \u2022 EN \u2022 11",
+      "fullName": "The Cold Never Bothered Me",
+      "fullText": "Look at the top 4 cards of your deck. You may\nreveal a location card and put it into your hand.\nPut the rest into your discard. You pay 3 \u2b21 less for\nthe next location you play this turn.",
+      "fullTextSections": [
+        "Look at the top 4 cards of your deck. You may\nreveal a location card and put it into your hand.\nPut the rest into your discard. You pay 3 \u2b21 less for\nthe next location you play this turn."
+      ],
+      "id": 2697,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/234_cf2444b69ea2e749400814930032cc513167f22b.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/234_83f2d60dab0e0bb5be999702c72c15f6ed70a61c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/234_ef67b209e76c0b6893ba1deff2810ed13a1e5e3a.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/234_872ca2e1562b6b0e500e9acffbd8564ae1988ff0.jpg"
+      },
+      "inkwell": false,
+      "name": "The Cold Never Bothered Me",
+      "number": 234,
+      "rarity": "Enchanted",
+      "simpleName": "the cold never bothered me",
+      "story": "Frozen",
+      "subtypes": [
+        "Song"
+      ],
+      "subtypesText": "Song",
+      "type": "Action",
+      "varnishType": "SnowHotFoil"
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Shift 4 \u2b21",
+          "keyword": "Shift",
+          "keywordValue": "4",
+          "keywordValueNumber": 4,
+          "type": "keyword"
+        },
+        {
+          "effect": "When you play this character, you may put a card from the top of your deck facedown under each of your other characters. If you do, those characters gain Ward until the start of your next turn.",
+          "fullText": "SPREADING JOY When you play this character, you\nmay put a card from the top of your deck facedown\nunder each of your other characters. If you do,\nthose characters gain Ward until the start of your\nnext turn.",
+          "name": "SPREADING JOY",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Marco Guadalupi"
+      ],
+      "artistsText": "Marco Guadalupi",
+      "baseId": 2615,
+      "code": "Hw",
+      "color": "Sapphire",
+      "cost": 6,
+      "externalLinks": {},
+      "foilTypes": [
+        "Magma"
+      ],
+      "fullIdentifier": "235/204 \u2022 EN \u2022 11",
+      "fullName": "Scrooge McDuck - Reformed Ebenezer",
+      "fullText": "Shift 4 \u2b21\nSPREADING JOY When you play this character, you\nmay put a card from the top of your deck facedown\nunder each of your other characters. If you do,\nthose characters gain Ward until the start of your\nnext turn.",
+      "fullTextSections": [
+        "Shift 4 \u2b21",
+        "SPREADING JOY When you play this character, you\nmay put a card from the top of your deck facedown\nunder each of your other characters. If you do,\nthose characters gain Ward until the start of your\nnext turn."
+      ],
+      "id": 2698,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/235_51ccee2d102f62023157ed10979de6f639a8d48b.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/235_62f87524f178a25f9add90fbeaaaae3f6696bdfd.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/235_74ac0f0daa1a48b5d0dd1856af5120c99c2d5b92.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/235_fe5cd7077eb5f8fe6142d77ab2a273e1ae7b2ae6.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Shift"
+      ],
+      "lore": 2,
+      "name": "Scrooge McDuck",
+      "number": 235,
+      "rarity": "Enchanted",
+      "simpleName": "scrooge mcduck reformed ebenezer",
+      "story": "Mickey's Christmas Carol",
+      "strength": 4,
+      "subtypes": [
+        "Floodborn",
+        "Hero"
+      ],
+      "subtypesText": "Floodborn \u2022 Hero",
+      "type": "Character",
+      "varnishType": "SnowHotFoil",
+      "version": "Reformed Ebenezer",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Whenever one of your characters is banished, you may put that card from your discard into your inkwell facedown and exerted.",
+          "fullText": "WINTER STOCKPILE Whenever one of your\ncharacters is banished, you may put that card\nfrom your discard into your inkwell facedown\nand exerted.",
+          "name": "WINTER STOCKPILE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Jane Pica"
+      ],
+      "artistsText": "Jane Pica",
+      "baseId": 2621,
+      "code": "Hx",
+      "color": "Sapphire",
+      "cost": 4,
+      "externalLinks": {},
+      "foilTypes": [
+        "Magma"
+      ],
+      "fullIdentifier": "236/204 \u2022 EN \u2022 11",
+      "fullName": "Belle - Snowfield Strategist",
+      "fullText": "WINTER STOCKPILE Whenever one of your\ncharacters is banished, you may put that card\nfrom your discard into your inkwell facedown\nand exerted.",
+      "fullTextSections": [
+        "WINTER STOCKPILE Whenever one of your\ncharacters is banished, you may put that card\nfrom your discard into your inkwell facedown\nand exerted."
+      ],
+      "id": 2699,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/236_294f28c23b971a564ed2299af5c34b6d05e14fda.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/236_67cf6d2ec20cac7c617b6f10af9fa4919e50ba45.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/236_525886da24618c15c19585974d4c4ede160ff3a6.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/236_2ca11e0b75238285ad0cc115de4ec78bd1c85c95.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Belle",
+      "number": 236,
+      "rarity": "Enchanted",
+      "simpleName": "belle snowfield strategist",
+      "story": "Beauty and the Beast",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Princess",
+      "type": "Character",
+      "varnishType": "SnowHotFoil",
+      "version": "Snowfield Strategist",
+      "willpower": 3
     },
     {
       "abilities": [
@@ -13827,6 +14822,75 @@
       "varnishType": "SnowHotFoil",
       "version": "Seeker of Shine",
       "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "effect": "While you have no cards in your hand, this character gains Resist +2.",
+          "fullText": "UNTOUCHABLE While you have no cards in\nyour hand, this character gains Resist +2.",
+          "name": "UNTOUCHABLE",
+          "type": "static"
+        },
+        {
+          "effect": "Once during your turn, you may choose and discard a card to deal 2 damage to chosen character.",
+          "fullText": "GOOD AIM Once during your turn, you may\nchoose and discard a card to deal 2 damage\nto chosen character.",
+          "name": "GOOD AIM",
+          "type": "activated"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Juan Pablo Vel\u00e1zquez L\u00f3pez"
+      ],
+      "artistsText": "Juan Pablo Vel\u00e1zquez L\u00f3pez",
+      "baseId": 2654,
+      "code": "Hz",
+      "color": "Steel",
+      "cost": 4,
+      "externalLinks": {},
+      "foilTypes": [
+        "Magma"
+      ],
+      "fullIdentifier": "238/204 \u2022 EN \u2022 11",
+      "fullName": "Angel - Experiment 624",
+      "fullText": "UNTOUCHABLE While you have no cards in\nyour hand, this character gains Resist +2.\nGOOD AIM Once during your turn, you may\nchoose and discard a card to deal 2 damage\nto chosen character.",
+      "fullTextSections": [
+        "UNTOUCHABLE While you have no cards in\nyour hand, this character gains Resist +2.",
+        "GOOD AIM Once during your turn, you may\nchoose and discard a card to deal 2 damage\nto chosen character."
+      ],
+      "id": 2701,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set11/238_77256233e93b9a8e4d8f5a6b2cde753c3b74e73d.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/set11/238_c7854f67fe1c7295b4735dfab1edebd07507730f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set11/238_ba41a26d7573b7b9d09b5f13e62cbcb9c9bc1677.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/en/set11/238_4168a88821f61c857c070b7ebbfa51983ed86920.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Angel",
+      "number": 238,
+      "rarity": "Enchanted",
+      "simpleName": "angel experiment 624",
+      "story": "Lilo & Stitch",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Alien"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Alien",
+      "type": "Character",
+      "varnishType": "SnowHotFoil",
+      "version": "Experiment 624",
+      "willpower": 3
     },
     {
       "abilities": [
@@ -14094,6 +15158,544 @@
       "varnishType": "MetallicHotFoil",
       "version": "Curious Explorer",
       "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "For each card in your inkwell, you pay 1 \u2b21 less to play this character.",
+          "fullText": "ANCESTORS' GIFT For each card in your inkwell,\nyou pay 1 \u2b21 less to play this character.",
+          "name": "ANCESTORS' GIFT",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Florencia Vazquez"
+      ],
+      "artistsText": "Florencia Vazquez",
+      "baseId": 2611,
+      "code": "HE",
+      "color": "Sapphire",
+      "cost": 12,
+      "externalLinks": {},
+      "flavorText": "\u201cIce fishing? No, no\u2014this is ice feeding!\u201d",
+      "foilTypes": [
+        "Silver"
+      ],
+      "fullIdentifier": "28/P3 \u2022 EN \u2022 11",
+      "fullName": "Gramma Tala - Connected to Nature",
+      "fullText": "ANCESTORS' GIFT For each card in your inkwell,\nyou pay 1 \u2b21 less to play this character.",
+      "fullTextSections": [
+        "ANCESTORS' GIFT For each card in your inkwell,\nyou pay 1 \u2b21 less to play this character."
+      ],
+      "id": 2706,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/promo3/28_4493a2a854528fc073547fe2fc394e2efa7bdd5b.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/promo3/28_578f7de00facc558f1fff8fe1c4273851ee50517.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/promo3/28_1437a66211696f86e2d15469669430ce78886e48.jpg"
+      },
+      "inkwell": false,
+      "lore": 2,
+      "name": "Gramma Tala",
+      "number": 28,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Organized Play",
+      "rarity": "Special",
+      "simpleName": "gramma tala connected to nature",
+      "story": "Moana",
+      "strength": 6,
+      "subtypes": [
+        "Storyborn",
+        "Mentor"
+      ],
+      "subtypesText": "Storyborn \u2022 Mentor",
+      "type": "Character",
+      "version": "Connected to Nature",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "effect": "If this is your first turn and you're not the first player, you pay 1 \u2b21 less to play this character.",
+          "fullText": "UNDERDOG If this is your first turn and you're\nnot the first player, you pay 1 \u2b21 less to play this\ncharacter.",
+          "name": "UNDERDOG",
+          "type": "static"
+        },
+        {
+          "fullText": "Evasive (Only characters with Evasive can\nchallenge this character.)",
+          "keyword": "Evasive",
+          "reminderText": "Only characters with Evasive can challenge this character.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Jiahui Eva Gao"
+      ],
+      "artistsText": "Jiahui Eva Gao",
+      "baseId": 2552,
+      "code": "HF",
+      "color": "Emerald",
+      "cost": 2,
+      "externalLinks": {},
+      "foilTypes": [
+        "Silver"
+      ],
+      "fullIdentifier": "29/P3 \u2022 EN \u2022 11",
+      "fullName": "White Rabbit - Late Again",
+      "fullText": "UNDERDOG If this is your first turn and you're\nnot the first player, you pay 1 \u2b21 less to play this\ncharacter.\nEvasive (Only characters with Evasive can\nchallenge this character.)",
+      "fullTextSections": [
+        "UNDERDOG If this is your first turn and you're\nnot the first player, you pay 1 \u2b21 less to play this\ncharacter.",
+        "Evasive (Only characters with Evasive can\nchallenge this character.)"
+      ],
+      "id": 2707,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/promo3/29_3b9e0254bb12563992c5a24267a024c234678c47.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/promo3/29_9c43f52e18d06b986d0edb9b600dd9a836d45a8a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/promo3/29_28edb6ced59496a32c067273a69c0732ae098223.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Evasive"
+      ],
+      "lore": 1,
+      "name": "White Rabbit",
+      "number": 29,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Organized Play",
+      "rarity": "Special",
+      "simpleName": "white rabbit late again",
+      "story": "Alice In Wonderland",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Late Again",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Your characters' \u00a4 can't be reduced below their printed value.",
+          "fullText": "FOREVER STRONG Your characters' \u00a4 can't be reduced\nbelow their printed value.",
+          "name": "FOREVER STRONG",
+          "type": "static"
+        },
+        {
+          "effect": "If you have 3 or more cards in your hand, this character can't ready.",
+          "fullText": "STONE BY DAY If you have 3 or more cards in your hand,\nthis character can't ready.",
+          "name": "STONE BY DAY",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Jenna Gray"
+      ],
+      "artistsText": "Jenna Gray",
+      "baseId": 2575,
+      "code": "HG",
+      "color": "Ruby",
+      "cost": 3,
+      "externalLinks": {},
+      "flavorText": "\u201cI'll never get the hang of jumping off rooftops.\u201d",
+      "foilTypes": [
+        "Silver"
+      ],
+      "fullIdentifier": "30/P3 \u2022 EN \u2022 11",
+      "fullName": "Elisa Maza - Transformed Gargoyle",
+      "fullText": "FOREVER STRONG Your characters' \u00a4 can't be reduced\nbelow their printed value.\nSTONE BY DAY If you have 3 or more cards in your hand,\nthis character can't ready.",
+      "fullTextSections": [
+        "FOREVER STRONG Your characters' \u00a4 can't be reduced\nbelow their printed value.",
+        "STONE BY DAY If you have 3 or more cards in your hand,\nthis character can't ready."
+      ],
+      "id": 2708,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/promo3/30_4394347271dce3cdd3ca468cdc1bdae3393f2b64.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/promo3/30_b0fb840d90ea1bcaca3149bc8761ee87d7a65db6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/promo3/30_05663258fdbaf37ef897e0632f6c5c01e5fbd83b.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Elisa Maza",
+      "number": 30,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Organized Play",
+      "rarity": "Special",
+      "simpleName": "elisa maza transformed gargoyle",
+      "story": "Gargoyles",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Gargoyle",
+        "Detective"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Gargoyle \u2022 Detective",
+      "type": "Character",
+      "version": "Transformed Gargoyle",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Rush (This character can challenge the turn\nthey're played.)",
+          "keyword": "Rush",
+          "reminderText": "This character can challenge the turn they're played.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Whenever this character challenges, if he's at a location, he takes no damage from the challenge.",
+          "fullText": "DYNAMIC MANEUVER Whenever this character\nchallenges, if he's at a location, he takes no\ndamage from the challenge.",
+          "name": "DYNAMIC MANEUVER",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Omar Lozano"
+      ],
+      "artistsText": "Omar Lozano",
+      "baseId": 2581,
+      "code": "HH",
+      "color": "Ruby",
+      "cost": 2,
+      "externalLinks": {},
+      "foilTypes": [
+        "Silver"
+      ],
+      "fullIdentifier": "31/P3 \u2022 EN \u2022 11",
+      "fullName": "Beast - Snowfield Troublemaker",
+      "fullText": "Rush (This character can challenge the turn\nthey're played.)\nDYNAMIC MANEUVER Whenever this character\nchallenges, if he's at a location, he takes no\ndamage from the challenge.",
+      "fullTextSections": [
+        "Rush (This character can challenge the turn\nthey're played.)",
+        "DYNAMIC MANEUVER Whenever this character\nchallenges, if he's at a location, he takes no\ndamage from the challenge."
+      ],
+      "id": 2709,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/promo3/31_aee205a6b56366726b00f104d4422a8a4af74924.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/promo3/31_a76fb0f5f761d22cd64cc72b5757fc6f16d58c53.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/promo3/31_25224febbcff7b31e08866b3a862df273ec959b5.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Rush"
+      ],
+      "lore": 1,
+      "name": "Beast",
+      "number": 31,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Promo",
+      "rarity": "Special",
+      "simpleName": "beast snowfield troublemaker",
+      "story": "Beauty and the Beast",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Prince"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Prince",
+      "type": "Character",
+      "version": "Snowfield Troublemaker",
+      "willpower": 1
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, chosen opponent reveals their hand and discards a non-character card of your choice.",
+          "fullText": "GET RID OF THAT When you play this character,\nchosen opponent reveals their hand and discards\na non-character card of your choice.",
+          "name": "GET RID OF THAT",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Juan Diego Le\u00f3n"
+      ],
+      "artistsText": "Juan Diego Le\u00f3n",
+      "baseId": 2479,
+      "code": "HI",
+      "color": "Amber",
+      "cost": 3,
+      "externalLinks": {},
+      "flavorText": "\u201cOkay, Pumbaa\u2014hit it!\u201d",
+      "foilTypes": [
+        "Silver"
+      ],
+      "fullIdentifier": "32/P3 \u2022 EN \u2022 11",
+      "fullName": "Timon - Snowball Swiper",
+      "fullText": "GET RID OF THAT When you play this character,\nchosen opponent reveals their hand and discards\na non-character card of your choice.",
+      "fullTextSections": [
+        "GET RID OF THAT When you play this character,\nchosen opponent reveals their hand and discards\na non-character card of your choice."
+      ],
+      "id": 2710,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/promo3/32_8719729a5582cb07949a2d91cbfad780a827c0e6.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/promo3/32_2ad30ba45e36419e4437bc490823bff2c5ee0d4f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/promo3/32_3325cbd8271d26dc5fbc7f68a87668a4256a7c29.jpg"
+      },
+      "inkwell": false,
+      "lore": 1,
+      "name": "Timon",
+      "number": 32,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Organized Play",
+      "rarity": "Special",
+      "simpleName": "timon snowball swiper",
+      "story": "The Lion King",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Snowball Swiper",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "While you have 4 or more cards in your hand, this character gains Evasive. (Only characters with Evasive can challenge them.)",
+          "fullText": "FLURRY OF DELIGHT While you have 4 or more\ncards in your hand, this character gains Evasive.\n(Only characters with Evasive can challenge\nthem.)",
+          "name": "FLURRY OF DELIGHT",
+          "type": "static"
+        },
+        {
+          "effect": "While you have 7 or more cards in your hand, this character gets +3 \u25ca.",
+          "fullText": "SPECTACULAR FIND While you have 7 or more\ncards in your hand, this character gets +3 \u25ca.",
+          "name": "SPECTACULAR FIND",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "LadyShalirin"
+      ],
+      "artistsText": "LadyShalirin",
+      "baseId": 2511,
+      "code": "HJ",
+      "color": "Amethyst",
+      "cost": 3,
+      "externalLinks": {},
+      "foilTypes": [
+        "None"
+      ],
+      "fullIdentifier": "33/P3 \u2022 EN \u2022 11",
+      "fullName": "Tinker Bell - Snowflake Collector",
+      "fullText": "FLURRY OF DELIGHT While you have 4 or more\ncards in your hand, this character gains Evasive.\n(Only characters with Evasive can challenge\nthem.)\nSPECTACULAR FIND While you have 7 or more\ncards in your hand, this character gets +3 \u25ca.",
+      "fullTextSections": [
+        "FLURRY OF DELIGHT While you have 4 or more\ncards in your hand, this character gains Evasive.\n(Only characters with Evasive can challenge\nthem.)",
+        "SPECTACULAR FIND While you have 7 or more\ncards in your hand, this character gets +3 \u25ca."
+      ],
+      "id": 2711,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/promo3/33_b4d467889866b542ab5b9e296fd12425790dcf2d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/promo3/33_6890db80ae3016b997aa716dc6907455435919c8.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Tinker Bell",
+      "number": 33,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Organized Play",
+      "rarity": "Special",
+      "simpleName": "tinker bell snowflake collector",
+      "story": "Peter Pan",
+      "strength": 3,
+      "subtypes": [
+        "Dreamborn",
+        "Ally",
+        "Fairy"
+      ],
+      "subtypesText": "Dreamborn \u2022 Ally \u2022 Fairy",
+      "type": "Character",
+      "version": "Snowflake Collector",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "While you have 4 or more cards in your hand, this character gains Evasive. (Only characters with Evasive can challenge them.)",
+          "fullText": "FLURRY OF DELIGHT While you have 4 or more\ncards in your hand, this character gains Evasive.\n(Only characters with Evasive can challenge\nthem.)",
+          "name": "FLURRY OF DELIGHT",
+          "type": "static"
+        },
+        {
+          "effect": "While you have 7 or more cards in your hand, this character gets +3 \u25ca.",
+          "fullText": "SPECTACULAR FIND While you have 7 or more\ncards in your hand, this character gets +3 \u25ca.",
+          "name": "SPECTACULAR FIND",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "LadyShalirin"
+      ],
+      "artistsText": "LadyShalirin",
+      "baseId": 2511,
+      "code": "HK",
+      "color": "Amethyst",
+      "cost": 3,
+      "externalLinks": {},
+      "foilTypes": [
+        "Magma"
+      ],
+      "fullIdentifier": "34/P3 \u2022 EN \u2022 11",
+      "fullName": "Tinker Bell - Snowflake Collector",
+      "fullText": "FLURRY OF DELIGHT While you have 4 or more\ncards in your hand, this character gains Evasive.\n(Only characters with Evasive can challenge\nthem.)\nSPECTACULAR FIND While you have 7 or more\ncards in your hand, this character gets +3 \u25ca.",
+      "fullTextSections": [
+        "FLURRY OF DELIGHT While you have 4 or more\ncards in your hand, this character gains Evasive.\n(Only characters with Evasive can challenge\nthem.)",
+        "SPECTACULAR FIND While you have 7 or more\ncards in your hand, this character gets +3 \u25ca."
+      ],
+      "id": 2712,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/promo3/34_a0c85ae4b7445d18d1c3cdb55efd42b22f259bb2.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/promo3/34_f8a4d6956f737fee8f55bf273a90fd9101e79c9d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/promo3/34_fa1fc811747d1a4ec128b89d4715f9257ceb3f8b.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Tinker Bell",
+      "number": 34,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Organized Play",
+      "rarity": "Enchanted",
+      "simpleName": "tinker bell snowflake collector",
+      "story": "Peter Pan",
+      "strength": 3,
+      "subtypes": [
+        "Dreamborn",
+        "Ally",
+        "Fairy"
+      ],
+      "subtypesText": "Dreamborn \u2022 Ally \u2022 Fairy",
+      "type": "Character",
+      "version": "Snowflake Collector",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "While you have a character named Lilo in play, this character gains Challenger +3. (They get +3 \u00a4 while challenging.)",
+          "fullText": "AMPED UP While you have a character named\nLilo in play, this character gains Challenger +3.\n(They get +3 \u00a4 while challenging.)",
+          "name": "AMPED UP",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-02-13",
+      "artists": [
+        "Kuya Jaypi"
+      ],
+      "artistsText": "Kuya Jaypi",
+      "baseId": 2648,
+      "code": "HL",
+      "color": "Steel",
+      "cost": 2,
+      "externalLinks": {},
+      "flavorText": "\u201cNo more caffeine for you.\u201d\n\u2014Lilo",
+      "foilTypes": [
+        "Silver"
+      ],
+      "fullIdentifier": "35/P3 \u2022 EN \u2022 11",
+      "fullName": "Stitch - High Badness Level",
+      "fullText": "AMPED UP While you have a character named\nLilo in play, this character gains Challenger +3.\n(They get +3 \u00a4 while challenging.)",
+      "fullTextSections": [
+        "AMPED UP While you have a character named\nLilo in play, this character gains Challenger +3.\n(They get +3 \u00a4 while challenging.)"
+      ],
+      "id": 2713,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/promo3/35_75a08187fa4aa00681378c2109b11080092f25b7.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/en/promo3/35_d0151d04ae5343fed9473367820fe1250fa8239b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/promo3/35_75de6b170200cedd65f2244cb3f9980f79b62a68.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Stitch",
+      "number": 35,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Promo",
+      "rarity": "Special",
+      "simpleName": "stitch high badness level",
+      "story": "Lilo & Stitch",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Alien"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Alien",
+      "type": "Character",
+      "version": "High Badness Level",
+      "willpower": 2
     }
   ]
 }
