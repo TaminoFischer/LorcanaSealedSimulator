@@ -42,7 +42,7 @@ const settings = reactive({
     rare: 65,        // ~65% - base rate
     superRare: 25,   // ~25% - 1 in 4
     legendary: 10,   // ~10% - 1 in 10
-    enchanted: 0     // ~1% - 1 in 100 (officially 1 in 72 packs = ~0.7% per slot)
+    enchanted: 0     // Disabled by default (officially ~1 in 72 packs)
   },
   
   // Foil slot pull rates (must sum to 100)
@@ -404,7 +404,7 @@ function resetSettings() {
   settings.nbUncommons = 3
   settings.nbRareSlots = 2
   settings.nbFoils = 1
-  settings.rareSlotRates = { rare: 64, superRare: 25, legendary: 10, enchanted: 1 }
+  settings.rareSlotRates = { rare: 65, superRare: 25, legendary: 10, enchanted: 0 }
   settings.foilSlotRates = { common: 40, uncommon: 30, rare: 15, superRare: 10, legendary: 4, enchanted: 1 }
 }
 
