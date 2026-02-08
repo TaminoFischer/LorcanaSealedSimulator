@@ -39,10 +39,10 @@ const settings = reactive({
   
   // Rare slot pull rates (must sum to 100)
   rareSlotRates: {
-    rare: 64,        // ~65% - base rate
+    rare: 65,        // ~65% - base rate
     superRare: 25,   // ~25% - 1 in 4
     legendary: 10,   // ~10% - 1 in 10
-    enchanted: 1     // ~1% - 1 in 100 (officially 1 in 72 packs = ~0.7% per slot)
+    enchanted: 0     // ~1% - 1 in 100 (officially 1 in 72 packs = ~0.7% per slot)
   },
   
   // Foil slot pull rates (must sum to 100)
@@ -183,6 +183,21 @@ function getRandomCardOfRarity(englishRarity: string): CardData | null {
   return cardsOfRarity[randomPick]
 }
 
+// Get a random common card of a specific color
+function getRandomCommonOfColor(color: string): CardData | null {
+  const localizedRarity = getLocalizedRarity("Common")
+  const cardsOfColorAndRarity = cardsDatabase.value.filter(
+    c => c.rarity === localizedRarity && c.color === color
+  )
+  
+  if (cardsOfColorAndRarity.length === 0) {
+    return null
+  }
+  
+  const randomPick = Math.floor(Math.random() * cardsOfColorAndRarity.length)
+  return cardsOfColorAndRarity[randomPick]
+}
+
 // Pick rarity based on weighted rates
 function pickRarityFromRates(rates: Record<string, number>): string {
   const rand = Math.random() * 100
@@ -255,11 +270,29 @@ function generateBooster(): CardStack {
     }
   }
   
-  // Common slots
-  for (let c = 0; c < settings.nbCommons; c++) {
-    const cardInfo = getRandomCardOfRarity("Common")
-    if (cardInfo) {
-      cards.push(new Card(cardInfo.id, selectedSet.value, cardInfo))
+  // Common slots - official distribution: one per color when 6 commons
+  if (settings.nbCommons === 6) {
+    // Official distribution: one common per color
+    const colors = ["Amber", "Amethyst", "Emerald", "Ruby", "Sapphire", "Steel"]
+    for (const color of colors) {
+      const cardInfo = getRandomCommonOfColor(color)
+      if (cardInfo) {
+        cards.push(new Card(cardInfo.id, selectedSet.value, cardInfo))
+      } else {
+        // Fallback: if no common of this color exists, pick any common
+        const fallbackCard = getRandomCardOfRarity("Common")
+        if (fallbackCard) {
+          cards.push(new Card(fallbackCard.id, selectedSet.value, fallbackCard))
+        }
+      }
+    }
+  } else {
+    // Custom setting: random commons
+    for (let c = 0; c < settings.nbCommons; c++) {
+      const cardInfo = getRandomCardOfRarity("Common")
+      if (cardInfo) {
+        cards.push(new Card(cardInfo.id, selectedSet.value, cardInfo))
+      }
     }
   }
   
@@ -664,6 +697,7 @@ onMounted(async () => {
             </div>
             <div class="setting-row">
               <label>Commons per Pack</label>
+              <span v-if="settings.nbCommons === 6" class="setting-hint">(1 per color)</span>
               <input type="number" v-model.number="settings.nbCommons" min="0" max="12" />
             </div>
             <div class="setting-row">
@@ -740,7 +774,7 @@ onMounted(async () => {
         </div>
 
         <div class="settings-info">
-          <p><strong>Official Lorcana rates:</strong> Rare ~65%, Super Rare ~25%, Legendary ~10%, Enchanted ~1% per rare slot</p>
+          <p><strong>Default rates:</strong> Rare ~65%, Super Rare ~25%, Legendary ~10%, Enchanted ~1% per rare slot</p>
         </div>
       </div>
     </header>
@@ -1280,6 +1314,13 @@ button.btn-small {
 .setting-row input:focus {
   outline: none;
   border-color: var(--accent-primary);
+}
+
+.setting-hint {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-left: 0.5rem;
+  font-style: italic;
 }
 
 .rate-sum {
