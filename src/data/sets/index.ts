@@ -17,6 +17,7 @@ export const availableSets: SetInfo[] = [
   { code: "9", name: "Fabled", languages: ["en", "de", "fr", "it"] },
   { code: "10", name: "Whispers in the Well", languages: ["en", "de", "fr", "it"] },
   { code: "11", name: "Winterspell", languages: ["en"] },
+  { code: "12", name: "Wilds Unknown", languages: ["de"] },
   { code: "Q1", name: "Illumineer's Quest: Deep Trouble", languages: ["en", "de", "fr", "it"] },
   { code: "Q2", name: "Illumineer's Quest: Palace Heist", languages: ["en", "de", "fr"] },
 ];
@@ -55,6 +56,7 @@ const setLoaders: Record<string, () => Promise<any>> = {
   'de-8': () => import('./de/set-8.json'),
   'de-9': () => import('./de/set-9.json'),
   'de-10': () => import('./de/set-10.json'),
+  'de-12': () => import('./de/set-12.json'),
   'de-Q1': () => import('./de/set-Q1.json'),
   'de-Q2': () => import('./de/set-Q2.json'),
   // French
